@@ -81,7 +81,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : writer, gardener, meditator
   location         : somewhere in the northern Mexican desert
-  email            : quetzal@elmisterio.org
+  steam            :
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   pinterest        :
   soundcloud       : user-980549022
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
+  email            : quetzal@elmisterio.org
   tumblr           :
   twitter          :
   vine             :
