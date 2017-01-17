@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Quetzal Eckhart - El Misterio"
+title                    :           "Quetzal Eckhart"
 title_separator          : "-"
 name                     : 
 description              : 
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook                 :
-  username               :quetzal.eckhart0
+  username               : quetzal.eckhart0
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :quetzal.eckhart0
+  facebook         : quetzal.eckhart0
   foursquare       :
   github           :
   google_plus      :
