@@ -77,8 +77,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Quetzal Eckhart"
-  avatar           : "/assets/images/avatar.jpg"
+  name             : Quetzal Eckhart
+  avatar           : /assets/images/avatar.jpg
   bio              : writer, gardener, meditator
   location         : Chiapas, Mexico
   steam            :
