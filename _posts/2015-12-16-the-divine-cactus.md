@@ -1,0 +1,137 @@
+---
+ID: 3988
+post_title: THE DIVINE CACTUS
+author: Quetzal Eckhart
+post_date: 2015-12-16 22:08:39
+post_excerpt: ""
+layout: post
+permalink: http://elmisterio.org/the-divine-cactus/
+published: true
+war_sdy_pl_playlist_title:
+  - default
+war_sdy_pl_enable:
+  - 'no'
+war_sdy_pl_pp_corner_enable:
+  - default
+war_sdy_pl_enable_soundtrack_download:
+  - default
+war_sdy_pl_scrolling_enable:
+  - 'no'
+war_sdy_pl_scrolling_height:
+  - "10"
+war_sdy_pl_outer_box_width:
+  - default
+war_sdy_pl_playlist_outer_box_width_value:
+  - "100"
+war_sdy_pl_playlist_outer_box_width_unit:
+  - '%'
+war_sdy_pl_font_size:
+  - default
+war_sdy_pl_playlist_font_size_value:
+  - "80"
+war_sdy_pl_playlist_font_size_unit:
+  - '%'
+war_sdy_pl_autoplay:
+  - 'no'
+war_sdy_pl_play_mode:
+  - seq_from_first
+war_sdy_pl_loop:
+  - 'no'
+war_sdy_pl_soundtracks:
+  - default
+war_sdy_pl_yellow_select_id:
+  - ""
+war_sdy_pl_column_layout:
+  - default
+war_sdy_pl_column_order:
+  - default
+war_sdy_pl_column_ordered_names:
+  - index,title,artist,composer,time,id
+war_sdy_pl_column_do_display_index:
+  - 'yes'
+war_sdy_pl_column_width_value_index:
+  - "24"
+war_sdy_pl_column_width_unit_index:
+  - px
+war_sdy_pl_column_do_display_title:
+  - 'yes'
+war_sdy_pl_column_width_value_title:
+  - "25"
+war_sdy_pl_column_width_unit_title:
+  - '%'
+war_sdy_pl_column_do_display_artist:
+  - 'yes'
+war_sdy_pl_column_width_value_artist:
+  - "25"
+war_sdy_pl_column_width_unit_artist:
+  - '%'
+war_sdy_pl_column_do_display_composer:
+  - 'yes'
+war_sdy_pl_column_width_value_composer:
+  - "25"
+war_sdy_pl_column_width_unit_composer:
+  - '%'
+war_sdy_pl_column_do_display_time:
+  - 'yes'
+war_sdy_pl_column_width_value_time:
+  - "42"
+war_sdy_pl_column_width_unit_time:
+  - px
+war_sdy_pl_column_do_display_id:
+  - 'no'
+war_sdy_pl_column_width_value_id:
+  - "3"
+war_sdy_pl_column_width_unit_id:
+  - '%'
+war_sdy_pl_picture_enable:
+  - default
+war_sdy_pl_picture_url:
+  - ""
+war_sdy_pl_picture_width:
+  - "0"
+war_sdy_pl_picture_height:
+  - "0"
+war_sdy_pl_picture_title:
+  - ""
+war_sdy_pl_picture_link_url:
+  - ""
+war_sdy_pl_picture_link_new_tab:
+  - ""
+war_soundy_enable_bg_sound:
+  - default
+war_soundy_enable_pp_corner:
+  - default
+war_soundy_audio_file_url:
+  - default
+war_soundy_audio_type:
+  - default
+war_soundy_audio_volume:
+  - default
+war_soundy_audio_title:
+  - default
+war_soundy_autoplay:
+  - default
+war_soundy_loop:
+  - default
+anonymous_comments:
+  - 'on'
+---
+I came to Mexico when I was 30. I was very healthy and my mind was very light. After the initial intensity of my meditation experiences in my early 20's, I was finally able to come down a little and kind of sort of adapt to the world. I had a job managing a community garden until the whole kundalini thing started up again and I was put "out of commission," socially speaking. I was no longer able to drive because my mind was always in a very high spiritual state. Sometimes the kundalini would awaken while driving and I would lose myself. P.B. Nolan would have to grab the wheel. He sometimes made sure I didn't sit near the sliding glass door while meditating so that I wouldn't fall back and break the glass. Such were the tantric kundalini trances.
+
+After my naturopathic treatments in Mexico I became super healthy in both mind and body. My mind would lose track of time entirely. Once, after one of Giitanjali's massages, she handed me my clothes to dress myself. She came back an hour later and found me standing naked in the window with all of the neighbors snickering at me below. I was lost in thought contemplating the pschological function of the liver and had no idea I was still on planet earth. The massage had had stimulated the liver and "opened it up" and I had a new vision for myself. To have proper form and balance in the personality it is necessary to have a very pure liver.  We had just had that <a href="http://elmisterio.org/ramananda/">experience with Ramananda</a> that I recently wrote about.  Like I wrote in that experience I had never used psychedelics as part of my meditation. I am a natural tripper. Yoga makes the body pure and the mind light. Spiritual union with the Supreme Consciousness is the natural consequence of its appropriate practice and also the end product of human evolution.
+
+By the time I finally met a Huichole Maracame 2 years ago, I had already finished my personal studies with the Divine Cactus. I only took it 12 years ago because I had some heart pains after the experiences I wrote about in <a href="http://elmisterio.org/the-possessed/">The Possessed</a>, which ocurred just a few months after that experience with Ramananda. I had not tried any medicines, pharmological nor natural, in so many years. Drugs and alcohol were not at all a part of my life. I never even considered the use of peyote as something recreational. Nor was it medicine, at least in the tradional sense. It was altogether something entirely different. It was very serious work. Peyote helps give the mind the intelligence to process memories and emotions in very deep ways. It has some special connection to the natural world that helps us find a harmony with it. Peyote also helps to awaken the kundalini. Many of my tantric friends said they had an unusual increase in kundalini activity. Due to this acceleration we all decided that one should very rarely use peyote or any other technique that accelerates the meditation process. Tantric meditation alone is too strong for most people, so one can only imagine what would happen by coupling tantric practice with the use of power plants like peyote. I don't recommend it to anybody publicly. Most people aren't psychologically prepared because they have been socialized in the matrix with little understanding of the natural and spiritual worlds. Even most of the teachers in the modern pseudo-shamanic power plant cults are really crazy in my opinion. I only tell mature people that they could benefit by trying it at least once up in the mountains with a small group of friends or family.
+
+Many of my meditation students (the majority) had some fun with beer and pot before they started meditating. When I saw they had advanced into their meditation and out of their habits, then I said they could try peyote. I wanted to make sure they were purified enough that the experience would in no way create too much acceleration in their meditation. Their experiences were certainly less dramatic than with most people. I believe the meditation helped them understand a little more about the inner worlds and it wasn't necessary for the mind to create so many visions in order to communicate this understanding. "Visions" were but creative ideas, with perhaps some light and fun mental colors and images. Nobody ever had a hallucination.
+
+I noticed that when I entered the room with the people who had eaten peyote that I began to feel their "trip." It was great fun; all the advantages of the experience without the extremely bitter taste and temptation to vomit. I was slowly being pulled into a light trance. However, they began to come down. They soon realized this connection; they saw me begin to become meditative while realizing that they were losing the experience. I would leave, come down, and they would return to their journeys.
+
+The first year I tried it a few times. I was used to meditation and the peyote experience didn't seem to be any "deeper" than meditation. However, it was much more colorful and active. Peyote works on helping one work out issues with one's inner life and personality instead of transcending them entirely as in meditation. It seemed the perfect medium to study the negative microvita that I was begining to discern in "The Possessed." My heart pain immediately went away as the peyote really forced me to process some very deep and mysterious experiences that my body was still trying to assimilate from that particular solstice festival. The following years I used it once a year. Most recently I have passed several years without trying it. Only every once in a while when my friends come I will rob just a little of their trips.
+My friend the Maracame said that I should continue to eat it just once a year like he does. Maybe I will do this after this present war is over and I will be so daring as to look deeply into its demons!  I almost never get sick.  If I were to get sick, then I know that peyote can help heal any disease because its effect goes through and beyond the body and directly into the mind.  I think that true shaman don't use power plants so much for their own vision, but to heal other people.  Even by eating it oneself, the shaman can still heal others whether they eat it or not themselves.  If I were to ever consider myself a shaman, then peyote would not be my plant of choice for healing.  Nor would any other psychedelic.  I have the most connection with the neem tree and use its leaves to make many homeopathic and herbal remedies.  Neem is not a psychedelic but has many healing properties
+
+<img src="http://elmisterio.org/wp-content/uploads/2016/12/peyotecross-300x169.jpeg" alt="" width="300" height="169" class="alignnone size-medium wp-image-4022" />
+
+He gave me an initiation with a homeopathic preparation of the cactus. He simply dropped to medicine on to the palms of my upward placed palms. It was really blissful. It was like receiving the most pure and spiritual part of the Divine Cactus, and without tripping all night long! I sat there in bliss while he chanted in his traditional language to an archeypal figure of the Virgin of Guadalupe surrounded by 4 peyotes. The indigenous virgin godess, the Catholic Virgin Mary and the godess of peyote are all one and the same to the Huichole.
+
+The effects of the initiation were very marked. I realized that the consumption of peyote was but the beginning of a greater initiation. I initiated my Huichole friend into Tantra Maya meditation. He already had a meditation system and my synthesis of eastern and mesoamerican tantra was appealing to him. He told me that his companions meditated in caves without the use of peyote. They only used the peyote ceremoniously once a year. The experience continues to this day even though I have not tried even the homeopathic peyote again.  I feel like I am being absorbed into the minds of the ancestors of this tradition. They want to share as much as they can with me. These experiences are probably something that I will write about 20 years from now.
+<img src="http://elmisterio.org/wp-content/uploads/2016/12/peyote2-300x169.jpeg" alt="" width="300" height="169" class="alignnone size-medium wp-image-4021" />

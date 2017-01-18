@@ -1,0 +1,160 @@
+---
+ID: 4001
+post_title: 4 Cuentos Sobre Pluma Blanca
+author: Quetzal Eckhart
+post_date: 2016-12-18 01:11:39
+post_excerpt: ""
+layout: post
+permalink: >
+  http://elmisterio.org/4-cuentos-sobre-pluma-blanca/
+published: true
+war_sdy_pl_playlist_title:
+  - default
+war_sdy_pl_enable:
+  - 'no'
+war_sdy_pl_pp_corner_enable:
+  - default
+war_sdy_pl_enable_soundtrack_download:
+  - default
+war_sdy_pl_scrolling_enable:
+  - 'no'
+war_sdy_pl_scrolling_height:
+  - "10"
+war_sdy_pl_outer_box_width:
+  - default
+war_sdy_pl_playlist_outer_box_width_value:
+  - "100"
+war_sdy_pl_playlist_outer_box_width_unit:
+  - '%'
+war_sdy_pl_font_size:
+  - default
+war_sdy_pl_playlist_font_size_value:
+  - "80"
+war_sdy_pl_playlist_font_size_unit:
+  - '%'
+war_sdy_pl_autoplay:
+  - 'no'
+war_sdy_pl_play_mode:
+  - seq_from_first
+war_sdy_pl_loop:
+  - 'no'
+war_sdy_pl_soundtracks:
+  - default
+war_sdy_pl_yellow_select_id:
+  - ""
+war_sdy_pl_column_layout:
+  - default
+war_sdy_pl_column_order:
+  - default
+war_sdy_pl_column_ordered_names:
+  - index,title,artist,composer,time,id
+war_sdy_pl_column_do_display_index:
+  - 'yes'
+war_sdy_pl_column_width_value_index:
+  - "24"
+war_sdy_pl_column_width_unit_index:
+  - px
+war_sdy_pl_column_do_display_title:
+  - 'yes'
+war_sdy_pl_column_width_value_title:
+  - "25"
+war_sdy_pl_column_width_unit_title:
+  - '%'
+war_sdy_pl_column_do_display_artist:
+  - 'yes'
+war_sdy_pl_column_width_value_artist:
+  - "25"
+war_sdy_pl_column_width_unit_artist:
+  - '%'
+war_sdy_pl_column_do_display_composer:
+  - 'yes'
+war_sdy_pl_column_width_value_composer:
+  - "25"
+war_sdy_pl_column_width_unit_composer:
+  - '%'
+war_sdy_pl_column_do_display_time:
+  - 'yes'
+war_sdy_pl_column_width_value_time:
+  - "42"
+war_sdy_pl_column_width_unit_time:
+  - px
+war_sdy_pl_column_do_display_id:
+  - 'no'
+war_sdy_pl_column_width_value_id:
+  - "3"
+war_sdy_pl_column_width_unit_id:
+  - '%'
+war_sdy_pl_picture_enable:
+  - default
+war_sdy_pl_picture_url:
+  - ""
+war_sdy_pl_picture_width:
+  - "0"
+war_sdy_pl_picture_height:
+  - "0"
+war_sdy_pl_picture_title:
+  - ""
+war_sdy_pl_picture_link_url:
+  - ""
+war_sdy_pl_picture_link_new_tab:
+  - ""
+war_soundy_enable_bg_sound:
+  - default
+war_soundy_enable_pp_corner:
+  - default
+war_soundy_audio_file_url:
+  - default
+war_soundy_audio_type:
+  - default
+war_soundy_audio_volume:
+  - default
+war_soundy_audio_title:
+  - default
+war_soundy_autoplay:
+  - default
+war_soundy_loop:
+  - default
+---
+Pluma Blanca siempre tenía una vibración muy elevada. La gente que le acercaron siempre empezaran a girarse en sentido contrario a las agujas del reloj. A veces sus cabezas comenzarían a inclinar y girar sutilmente en un movimiento circular casi imperceptible. Explicó que es la misma cosa si uno está hablando de la Núcleo Cosmico de Hunab Ku o el Núcleo Consciente del Atman radiante detrás de nuestras mentes; el movimiento alrededor de un núcleo físico o espiritual es siempre un juego de las fuerzas centrípetas y centrífugas. Tienen la misma dinámica en todos los planos del ser. Hay vórtices físicos de movimiento en el mundo físico en el que se encuentra en el peso y la gravedad de la materia y también vórtices de energía sutil y mental que actúan e interactúan con los pensamientos, sentimientos y percepciones. Para armonizar el macrocosmos con el microcosmos, el universo con el individuo, uno debe encontrar este flujo secreto de Tao, tanto dentro de la mente y en un mundo, planeta, y sus plantas y animales.
+En el exterior los antepasados de Pluma Blanca estudiaron el movimiento de los planetas y los ciclos naturales. Esta práctica nunca se desconectó a la práctica interna de la meditación. La meditación es la ciencia de ver detrás de todos los vórtices y los movimientos de la mente humana. Una mente que es puro ve en y entiende los movimientos alrededor de Hunab Ku, el Núcleo Cósmico que está dentro de todos nosotros. Todo ser humano que ha buscado verdaderamente ha visto en este gran tesoro en lo profundo de una existencia humana equilibrada. Entendemos que siempre hay algo puro, eternamente renovada cuando vivimos en armonía con la creación. Esta inspiración nunca nos ha abandonado, solamente la hemos olvidado.
+
+<span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;"><b>Un Romance No Tan Fugaz</b></span></span>
+
+<span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;">Pluma Blanca o Quetzal Manik (en maya), llegó a la clínica para una visita no esperado hace unos años. Fue mi primera vez a verlo. Parecía saber todo acerca de mí, pero no dijo mucho. Él casi no hablaba español. Solo le gustaba hablar conmigo sobre Tantra y compartir ideas del Tantra de los mayas, el linaje de la meditación y la sanación que él aprendió de sus ancestros. Aunque un curandero de todo tipo de enfermedades, que era fundamentalmente un místico que amaba a meditar en el bosque. Él era el maestro de mi esposa, una indígena maya de Campeche. Cuando mi esposa estaba atendiendo a un paciente Europea fue a la clínica y entró directamente a la sala de tratamiento. Cogió un lápiz y una hoja de papel y luego escribió una lista de nombres en el papel. Los nombres eran los nombres y apellidos de los amantes que la joven tenía en el último año. La lista era un poco demasiado largo.
+Pluma Blanca hablaba en maya, pero nadie lo entiende. A continuación, comenzó a escribir a ella en español, mientras que alguien más traducido a ella en inglés. Explicó que cuando los seres humanos tienen relaciones sexuales sus mentes permanecen conectados energéticamente durante 7 años. Hay una transmisión sutil y continuado de conexión de la energía mental compartido entre las 2 entidades. Esto puede ser algo muy puro y armonioso o puede ser dolorosa o incluso degradantes, dependiendo de la naturaleza de la relación. A pesar de que nunca pueden ver, ni siquiera pensar en el otro, persisten las impresiones mentales sutiles que "residen" dentro de cada otro.</span></span>
+
+<span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;">
+Otro factor que complica la situación es la confusión mental que uno lleva, si uno cambia o tiene parejas frecuentes. Las energías desequilibradas, frustrados, y distorsionadas de otras personas vibran simpateticamente con la mente de una persona individual, y viceversa. Sonaba como si estuviera hablando de la transmisión de un virus mental en mucho la misma manera que un virus físico, pero con la mente y sus racimos de recuerdos y emociones como el vehículo de transmisión directamente en otra mente. En lugar de ser infectados físicamente, uno permanece "infectado" por la mente de otra por 7 años. Una parte del alma de esa persona, o la mente sutil se lleva dentro y continúa viviendo en el interior de uno, para bien o para mal. El alma se convierte en una casa demasiada habitada y ruidosa en vez de un templo quieto y silencioso. Explicó compasivamente que su inestabilidad emocional sólo se  agravada por sus aventuras románticas y estaban enfermandola físicamente poco a poco. Ella era una mujer joven y atractiva con valores muy liberales que simplemente no entienden estas ideas antes de que él se lo explicó. Ella no se sentía amenazado ni juzgado, y reflexionó en serio su diagnóstico. Creo que su conciencia entendió lo estaba comunicando Pluma Blanca. Sabía que estaba sufriendo y no era feliz y alguien acababa sondeado en su vida privada para ofrecerle algunas pistas sobre cómo entender sus confusiones. Antes de que el tratamiento ella estaba aterrorizando a todos los chicos jóvenes espiritualmente disciplinados por aquí con sus mini faldas pequeñas. Después del tratamiento se puso una falda más modesto.</span></span>
+
+<span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;"><b>Om in C</b></span></span>
+
+<span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;">Aunque Pluma Blanca nació 114 años en este planeta antes que cuando lo conocí, él era un niño perfecto que siempre le gusta compartir sus juguetes conmigo. Este pequeño indio siempre irradia alegría, al menos cuando no está regañando a la gente. En una de nuestras primeras reuniones que sólo me mira y dice mentalmente, "primero entra en silencio, escucha OM en la disnea y luego tomar nota de su tono." Podía escuchar el sonido OM vibra dentro y parecía corresponder algo cercano a el tono de Do. Tengo mi flauta y toce un Do y sonaba como si estuviera vibrando en el mismo tono que el sonido sagrado OM que resonaba alrededor de mi glándula pineal. Más tarde dijo: "Ahora escuchar su vibración en Do sostenido." Mi cabeza fue hacia atrás y comencé a perder el contacto con el mundo exterior y ser absorbido en un gran silencio blanco de OM en que el do sostenido me estaba llevando.
+Cuando volví a consciencia normal, dijo, "ahora lo que hay en tu mente?" Cerré los ojos y vi tantas imágenes y las historias y relatos parpadean antes de mi mente. Él continuó: "Vas a comprobar todo en los próximos años. Todo va a suceder ".
+Estos eventos de hecho estan sucediendo, como entradas en un diario apocalíptico. Era la historia más triste jamás concebido, aunque la historia debe mejorar pronto. Mi amigo pudiera ver el futuro y ayudar a sus amigos a hacer lo mismo. Las experiencias espirituales como esta no ocurren de manera regular, ya que es demasiado poderoso de una experiencia de más de digerir. El presente es lo suficientemente difícil sin conocer el futuro. La ignorancia es a veces una bendición, pero Pluma Blanca sabía que era necesario entender estas cosas.
+Pluma Blanca siempre me trató como a un igual. El nunca trató de ser un maestro para mí. Él sólo me trató como su buen amigo.</span></span>
+
+<span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;"><b>Nahuatl</b></span></span>
+
+<span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;">Pluma Blanca me dijo una vez que un náhuatl es un sanador que ve no sólo en las mentes de los animales, sino también a los de los humanos. Más allá incluso de ver en las almas de los seres humanos el verdadero náhuatl ve en el Alma Suprema, el substatum consciente de que nos une a todos. Él dice que para entrar en una mente humana suele ser más difícil y peligroso que entrar en una mente de un animal. Los seres humanos son menos inocentes y sus contenidos mentales pueden enfermar a una entidad tan raro y puro como el náhuatl si él o ella resuena demasiado cerca con otra confusión emocional humano. Los animales nos ven como dioses y resuenan naturalmente con y reflejan los estados mentales de sus dioses. El náhuatl prefiere ver el mero reflejo de los problemas humanos por accessar la mente de los animales bajo su cuidado. De esa manera, el contacto con la otra mente humana no es muy directa y no afecta a la vidente y también las mentes de los que se observan en. Además, las personas a menudo se sienten extrañamente transparente ya menudo incómodo cuando sienten que otro puede ver a través de ellos. Los animales, como los niños inocentes, pueden dar información muy veraz e imparcial y justo decir las cosas como son. Aunque un perro no puede hablar, que la mayor parte de esta resonancia humana reflejan inconscientemente y lo que vive y vibra en la mente del maestro es también existe en la mente del discípulo canina. Un náhuatl puede aprender muchas cosas sobre usted a través de su perro, caballo,  o burro incluso!
+</span></span>
+
+<strong>bon Nadie y Pluma Blanca</strong>
+Se ha dicho que los yoguis tántricos muy desarrollados tienen el poder de la mente sobre la materia en la que todo lo que ponen sus mentes enfocadas y disciplinados en la voluntad ciertamente puede materializarse. Aunque muy raros, se ha producido numerosos ejemplos de yoguis con estas cualidades extrañas a través de las edades.
+
+Un día Pluma Blanca vino a visitar bon Nadie en Rancho el Misterio. Habló mucho de este fenómeno con ejemplos prácticos. Dijo que un chamán desarrollada realmente puede incluso tener algún grado de control sobre el clima. Esta sorprendió a bon Nadie más porque Pluma Blanca era tan tranquilo y poco sensacional al hablar acerca de estas habilidades. Más bien, él tomó muy en serio estas verdades. Él siempre advirtió sobre estas habilidades, sin embargo. “¿Qué pasa si se pierde el control de una emoción y terminar de manifestar tus tendencias más profundas de tu sombra?,” dijo. Él fue de 110 años y nunca pasó mucho tiempo en las ciudades, sino que realmente entendía la gente moderna. Lo más increíble y dificil creer es cuando le dijo a bon Nadie que nahuatls (los que entran en la mente de los animales) son reales y que pueden mirar en el Alma Suprema de la humanidad y en el Ojo Divino que ve el pasado, presente y futuro . Pueden ver todas las mentes, no sólo los de los animales. Dijo que es agradable ver una mente humana de vez en cuando, pero la normalmente sólo ve la mente animal en forma humana.
+
+En el camino de regreso al sur, bon Nadie lo llevó a una tienda a comprar algo de comida para el viaje. Era una parte de élite de la ciudad. La mayoría de la gente tenía la piel del mismo color del bon Nadie. Sin embargo, en lugar de la ignorancia habitual o sociabilidad normal hacia su persona, se dio cuenta de que algunas personas le vieron desagradables, con miradas desdeñosas. Se veían incluso peor a Pluma Blanca. Bon Nadie permaneció inmóvil, mirando hacia ellos. Él estaba en un trance de ensueño y vio tanta mala historia, la impunidad, el sufrimiento y los prejuicios de odio detrás de las expresiones de estas personas. Él estaba enojado con sus ideas y de dónde vienen, pero aún no podía juzgar a estas personas superficiales, excepto para decir que son personas superficiales.
+
+Una mujer fue particularmente grosero y lo empujó hasta el borde de su paciencia. Ella pensó que bon Nadie fue uno de su clase por su apariencia. Cuando él no respondió a sus coqueteos, se convirtió francamente rencoroso y dijo que bajo el aliento oír, “maldito indio.” Quería responder y decir: “porque mi corazón es lo mismo como mi amigo, entonces yo también soy un maldito indio”. Sin embargo, Pluma Blanca se acercó riendo y lo sacó de la tienda. “Deje que su esposa pagar, vamos a esperar aquí”, dijo. Yo sabía que él sabía que yo estaba un poco molesto. Él sentó en silencio durante varios minutos y luego respondió: “. Ellos recibirán sus lecciones muy pronto” Ahora Pluma Blanca era conocido como un oráculo y yo no estaba seguro de si estaba hablando sobre el futuro del mundo y de todos los racistas e imperialistas o si él estaba hablando de esta mujer en particular.
+
+En ese momento la mujer racista salió de la tienda y Pluma Blanca comenzó a reír como un niño pequeño. Era como si hubiera hecho algo malo y estaba tratando de ocultarlo. Un perro callejero se acercó a la mujer, levantó la pierna y empapó sus calcetines.
+
+### Cuervos Negros
+
+Pluma Blanca llegó al rancho el otro día. Él llegó justo en el momento adecuado ya que yo estaba completamente agotado con la defensa de nuestro rancho en contra de los vecinos de la Santa Muerte. Siempre que estos demonios secuestran y torturan a las personas se prenden una moto sin silenciador que es muy ruidoso y cubre los gritos de los torturados. Apenas he dormido durante una semana porque encienden esa moto cada noche entre la medianoche y las 3 am, el “hora de las brujas” tradicional cuando ocultistas oscuros ha realizado tradicionalmente sus rituales. En lugar de dormir, meditaba todo a través de estas horas oscuras.
+
+El rancho fue invadido recientemente por una bandada de cuervos. Ellos vienen y atacan a las otras aves. Casi no habiay pájaros en el desierto hasta que cavamos nuestras trincheras para recoger el agua de lluvia y hacer un mini oasis. Para mí, parecía una imagen literaria perfecta: todo este sufrimiento y la muerte adornado con un toque final, terrible de cuervos negros que se aprovechan de nuestras palomas y gorriónes pacíficos. Era como si la realidad se está comunicando conmigo a través de símbolos. Es extraña, pero es sólo mi imaginación?
+
+Pluma Blanca comenzó a golpear su tambor y gritar en maya y luego cantar “Baba Nam Kevalam.” Salí corriendo de mis meditaciones y me inspiré para ir a atacar el base narco con mis propias manos, tal era la inspiración. Él estaba persiguiendo de los cuervos. Entendí que los vio como un símbolo de mal agüero. Se refirió a los cuervos y luego a la dirección del base narco. Yo intuitivamente entendí que vio a los cuervos como un símbolo vivo relacionado con el campo de narco. Si les corre, luego efectuamos aquellos a quienes sirven. Todo tenía un cierto sentido simbólico, y se fue con todo en un alto estado de emoción y puso mis preguntas intelectuales al lado por el momento. En ese momento empezamos a escuchar la motocicleta. Se pone más cerca y vemos a un hombre gritando como un loco. Era la primera vez que nos habíamos visto la moto y el piloto de dejar el base. Tuvimos la oportunidad de mirarlo a los ojos y le enviaremos una mirada que penetraba todo su ser. No va a venir alrededor otra vez.
+
+He vivido con los indios indígenas mexicanos durante los últimos 13 años. A pesar de que a veces dudo de su credulidad en tales realidades mágicas, he visto tantas ocasiones en que estas ideas han llevado a las más asombrosas revelaciones de la verdad. Pluma Blanca era un yogui muy refinado. Mi esposa era su alumno favorito. Entendió todas estas prácticas sin la superstición y el mito y enseñó meditaciones muy avanzadas y sistemáticos para entender estas “realidades mágicas.”

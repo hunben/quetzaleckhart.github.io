@@ -1,0 +1,66 @@
+---
+ID: 2678
+post_title: Ananda Marga Inc.
+author: Quetzal Eckhart
+post_date: 2013-05-08 06:38:37
+post_excerpt: ""
+layout: post
+permalink: http://elmisterio.org/ananda-marga-inc/
+published: true
+war_soundy_enable_bg_sound:
+  - default
+war_soundy_enable_pp_corner:
+  - default
+war_soundy_audio_file_url:
+  - default
+war_soundy_audio_type:
+  - default
+war_soundy_audio_volume:
+  - default
+war_soundy_audio_title:
+  - default
+war_soundy_autoplay:
+  - default
+war_soundy_loop:
+  - default
+---
+"No somos burros. La gente de todo el mundo saben que no se pueden patentar un mantra!" - Mayo 2013
+
+<a href="http://elmisterio.org/the-headkick-headtrick-tantra/">English original - publicacion original en ingles</a>
+
+
+Tantra Maya y las actividades del Rancho el Misterio han sido un intento de preservar la filosofía y los ideales humanitarios de Ananadamurti a través de actividades de servicios sociales en México. No es una división de Ananda Marga o alguna secta que afirma tener alguna interpretación verdadera y exclusiva de la ideología de Ananda Marga. Somos personas prácticas y trabajamos con ideas, prácticas y actividades con las sociedades progresistas que realmente funcionan y traen buenos resultados. La meditación, la filosofía y los ideales sociales de Ananda Marga siempre han sido una fuente perenne de inspiración. La filosofía de Ananda Marga y las prácticas del Tantra Maya se comportan bien juntos. Se ha ayudado a encontrar una expresión universal de la ciencia intuitiva de tantra yoga. Sin embargo, existen fanáticos en las viejas y corruptas organizaciones que han amenazado Rancho el Misterio con la violencia si continuamos enseñar a la gente meditación con el mantra supuestamente universal de Baba Nam Kevalam, una sencilla herramienta de meditación que Anandamurti dio a la humanidad en su conjunto, y no sólo a sus seguidores en Ananda Marga. También fuimos amenazados con acciones legales si continuamos usando Baba Nam Kevalam. He oído rumores de que en realidad quieren patentar su mantra con su estado corporativa internacional de Ananda Marga Inc. En como van las cosas, finalmente nadie va a creer en los ideales de Ananda Marga.
+
+El absurdo de tales amenazas y el ridículo nombre de "Ananda Marga Inc." sólo nos dio ocasión para hacer muchos chistes, que aligeran el peso de este conflicto. Es mejor reír que llorar. Un amigo me envió hace poco una de estas escritos absurdos perdidos anteriormente. En alegorías yo estaba representando como ambos lados de Ananda Marga tienen líderes muy corruptos y criminales que han dividido a las organizaciones entre sí en facciones políticas. Había dos grupos principales atrás cuando escribí esto, los "bengalíes" y los "hindis." El líder de los "bengalíes," Shamitananda o "CobraKiller" en realidad se trató de asesinar a su amor no correspondido, una monja, con veneno de cobra. Escribí sobre esto más en serio en <a href="http://elmisterio.org/microvita-y-tantra-maya-c-5-tantricos-de-la-luz-y-la-oscuridad/">"Tántricos de la Luz y la Oscuridad."</a>
+
+<img src="http://elmisterio.org/wp-content/uploads/2015/12/cobra-2.jpg" alt="cobra" width="265" height="190" class="alignnone size-full wp-image-514" />
+
+Shamitananda, "CobraKiller"
+
+Todos en su lado sabe acerca de este crimen aún no dicen nada. Todos los lideres en los circulos A.M. de Asheville, Denver y Austin saben y son parte del encubrimiento.  Todavía sigue siendo la figura espiritual que conduce a los bengalíes en América del Norte y se refiere a la saga Ananda Marga como algo similar a la Bhagavad Giita. Muchos fanáticos y políticos religiosos hindúes usan esta antigua línea para anunciar su propia virtud, mientras que denuncia la inmoralidad del enemigo con el fin de despertar a sus masas a su causa.
+<Img src = "http://elmisterio.org/wp-content/uploads/2011/03/giita.jpeg" alt = "giita" width = "263" height = clase "192" = "tamaño completo wp alignnone -imagen-2224 "/>
+Desde el otro lado, Ananda Marga Inc., los "Hindis" o "Ranchi," hemos recibido una amenaza de muerte y amenazas de acciones legales de un cierto monje que se patea las cabezas de otros monjes que están en desacuerdo con él. Me he referido a él como el "Headkicker" (Drone-of-an-Acharya) la verdadera inspiración para mi saga absurdo, "El Headkick Headtrick Tantra." A los que el golpeó fueron corriendo a los bengalíes, que con un líder tan infame perdonarán cualquier deleto y con mucho gusto tomar monjes y monjas caídos en sus filas.
+<Img src = "http://elmisterio.org/wp-content/uploads/2011/03/headkicker.jpeg" alt = "headkicker" width = "182" height = clase "277" = "tamaño completo wp alignnone -imagen-2225 "/>
+Ciirananda "Headkicker"
+
+Ananda Marga Central en la India esta tratando sacar los bienes de A.M. Mexico, un organizacion nacional.  Ciirananda sirve como golpeador y lava cerebros para la organizacion corupta central.  En 2016, Ciirananda pagó dos cholos para atacar el abogado del presidente de A.M. Mexico.  Su plan fracasó porque el abogado fue muy fuerte y el les dió una golpiza.  Por fin, la organizacion esta forzada a trasferirlo.
+<img src="http://elmisterio.org/wp-content/uploads/2016/09/10650050_1567598250128090_6529138062168747278_n.jpg" alt="10650050_1567598250128090_6529138062168747278_n" width="320" height="226" class="alignnone size-full wp-image-3035" /><img src="http://elmisterio.org/wp-content/uploads/2016/09/10329128_1540619169492665_4306427449568975815_n.jpg" alt="10329128_1540619169492665_4306427449568975815_n" width="320" height="427" class="alignnone size-full wp-image-3034" />
+
+
+El Headkick Headtrick Tantra es la venganza cósmica vigilante. Es la historia de cómo un grupo de magos hippis del desierto inician la guerra psíquica contra los sacerdotes oscuros de A. M. con la ayuda de nodrizas extraterrestres, la Sociedad de los Dadas Muertos (los santos ascendidos de Ananda Marga) y mi burro Relampago; a la vez con la suplantación de Shamitananda y su "Bhagavad Giita." Aquí es cómo inicié la Headkick Headtrick Tantra:
+<img src="http://elmisterio.org/wp-content/uploads/2016/09/omni.jpeg" alt="omni" width="262" height="192" class="alignnone size-full wp-image-3040" /> <img src="http://elmisterio.org/wp-content/uploads/2013/07/ghost.jpeg" alt="ghost" width="271" height="186" class="alignnone size-full wp-image-2977" />
+     "Sancho Sanjay con su visión cósmica percibe la nodrizas de microvita en silencio que se ciernen sobre los campos opuestos de la Tandavas Bajos (patente pendiente) y el campo de las Koaravas (inc). Al igual que dos colonias de hormigas de fuego en una refriega, éstos trajes naranjas vuelven al rojo, ya que aplastan los cráneos con turbantes encima. Liderando el primer campo es el infame CobraKiller escupiendo veneno de serpiente en la sopa de su ejército. Nadie lo detiene y nadie parece hacer caso.
+     Mirando hacia abajo al otro campo enemigo, así las nodrizas testigan a Drone-of-an-Acharya patear las cabezas de los no conformes que abandonan su propio campamento y se refugian con el CobraKiller para el alivio de su alma.
+     Sanjay dice, "Naves nodrizas, noble Sociedad de Dadas Muertos y Relampago del Rancho el Misterio: su guerra ya está ganada; ten misericordia chicos, tomar muchos prisioneros, y ser misericordiosos, porque ellos deben ser todos medio muertos si todavía permiten que estos 2 se visten de naranja. El CobraKiller se encuentra en una oscuridad común, atadada, con el que se rompe craneos con sus patadas."
+ <img src="http://elmisterio.org/wp-content/uploads/2016/09/11705194_1700602173494363_4251588999378970452_n.jpg" alt="11705194_1700602173494363_4251588999378970452_n" width="320" height="435" class="alignnone size-full wp-image-3036" />
+¿Quien invitó a ella?
+
+
+Así es como comenzó. ¿Alguien por ahí tiene las historias de los ataques nodrizas o cómo Relampago consigue la victoria final?  (Relampago Kicks @ss.) Tal vez todo se perdió.  Pero esta es la forma en que terminó .......
+
+                                      <Strong> Para Los Santos </ strong>
+
+Todavía viven algunos muy grandes yoguis que tan bellamente reflejan la influencia de la gracia que Anandamurti derramó sobre sus discípulos más cercanos. Un gran maestro como Anandamurti podía curar cualquier enfermedad, física o mental, porque él podía ver las causas sutiles profundo en la mente y también porque tenía un amor infinito. Al estar cerca de sus discípulos más cercanos fue la bendición más grande de mi vida y se lo debo todo a aquellos seres sinceros que han sacrificado sus vidas por la obra del dharma. Conocí a algunos de los que se refleja la compasión de su gurú tan profundamente que ellos mismos comenzaron a tomar los samskaras negativos o reacciones kármicas de otras personas a fin de que los que luchan podría desarrollar en sus prácticas y se fortalecía a sí mismos. No es que desean esto, más bien, es que a causa de su propia libertad espiritual y la realización compasivo, la Mente Macrocosmic puede expresar esta gracia por medio de ellos. La gente de esta categoría son las personas más valiosas en la sociedad humana. Su único deber en este planeta es ayudar a los demás y mantener el equilibrio de dharma. Algunos de ellos son muy enfermos, ya que están envejeciendo y su cuerpos físicos ya no tienen la energía para quemar los samskaras o reaccionas karmicas de los demás.
+Estos pocos nobles todavía están manteniendo el espiritu de Anandamurti vivo y vibrante . Sin estos faros de esperanza, el trabajo de Anandamurti se perdería. La pelea del “Headkick Headtrick Tantra" es para hacer un poco mas ligero su carga energetica por sacar el peso muerto.
+
+ <img src = "http://elmisterio.org/wp-content/uploads/2016/02/van.jpg" alt = "van" width = "622 "height =" 350 "class =" alignnone tamaño completo wp-image-1037 "/>

@@ -1,0 +1,189 @@
+---
+ID: 4175
+post_title: 'La Rebeldia Tantrica Y El Kundalini, Cap.3 &#8220;Los Célibes y el Sexo&#8221;'
+author: Quetzal Eckhart
+post_date: 2016-12-31 14:52:09
+post_excerpt: ""
+layout: post
+permalink: >
+  http://elmisterio.org/la-rebeldia-tantrica-y-el-kundalini-cap-3-los-celibes-y-el-sexo/
+published: true
+war_sdy_pl_playlist_title:
+  - default
+war_sdy_pl_enable:
+  - 'no'
+war_sdy_pl_pp_corner_enable:
+  - default
+war_sdy_pl_enable_soundtrack_download:
+  - default
+war_sdy_pl_scrolling_enable:
+  - 'no'
+war_sdy_pl_scrolling_height:
+  - "10"
+war_sdy_pl_outer_box_width:
+  - default
+war_sdy_pl_playlist_outer_box_width_value:
+  - "100"
+war_sdy_pl_playlist_outer_box_width_unit:
+  - '%'
+war_sdy_pl_font_size:
+  - default
+war_sdy_pl_playlist_font_size_value:
+  - "80"
+war_sdy_pl_playlist_font_size_unit:
+  - '%'
+war_sdy_pl_autoplay:
+  - 'no'
+war_sdy_pl_play_mode:
+  - seq_from_first
+war_sdy_pl_loop:
+  - 'no'
+war_sdy_pl_soundtracks:
+  - default
+war_sdy_pl_yellow_select_id:
+  - ""
+war_sdy_pl_column_layout:
+  - default
+war_sdy_pl_column_order:
+  - default
+war_sdy_pl_column_ordered_names:
+  - index,title,artist,composer,time,id
+war_sdy_pl_column_do_display_index:
+  - 'yes'
+war_sdy_pl_column_width_value_index:
+  - "24"
+war_sdy_pl_column_width_unit_index:
+  - px
+war_sdy_pl_column_do_display_title:
+  - 'yes'
+war_sdy_pl_column_width_value_title:
+  - "25"
+war_sdy_pl_column_width_unit_title:
+  - '%'
+war_sdy_pl_column_do_display_artist:
+  - 'yes'
+war_sdy_pl_column_width_value_artist:
+  - "25"
+war_sdy_pl_column_width_unit_artist:
+  - '%'
+war_sdy_pl_column_do_display_composer:
+  - 'yes'
+war_sdy_pl_column_width_value_composer:
+  - "25"
+war_sdy_pl_column_width_unit_composer:
+  - '%'
+war_sdy_pl_column_do_display_time:
+  - 'yes'
+war_sdy_pl_column_width_value_time:
+  - "42"
+war_sdy_pl_column_width_unit_time:
+  - px
+war_sdy_pl_column_do_display_id:
+  - 'no'
+war_sdy_pl_column_width_value_id:
+  - "3"
+war_sdy_pl_column_width_unit_id:
+  - '%'
+war_sdy_pl_picture_enable:
+  - default
+war_sdy_pl_picture_url:
+  - ""
+war_sdy_pl_picture_width:
+  - "0"
+war_sdy_pl_picture_height:
+  - "0"
+war_sdy_pl_picture_title:
+  - ""
+war_sdy_pl_picture_link_url:
+  - ""
+war_sdy_pl_picture_link_new_tab:
+  - ""
+war_soundy_enable_bg_sound:
+  - default
+war_soundy_enable_pp_corner:
+  - default
+war_soundy_audio_file_url:
+  - default
+war_soundy_audio_type:
+  - default
+war_soundy_audio_volume:
+  - default
+war_soundy_audio_title:
+  - default
+war_soundy_autoplay:
+  - default
+war_soundy_loop:
+  - default
+anonymous_comments:
+  - 'on'
+show_author_anonymous_comments:
+  - 'on'
+---
+extracto de <a href="http://elmisterio.org/la-rebeldia-tantrica-y-el-kundalini/">La Rebeldia Tantrica Y El Kundalini</a>
+
+
+La sexualidad es uno de los temas menos entendidos en la vida humana. La sexualidad es parte de la vida de todos, pero pocos han encontrado una solución tranquilo para este instinto tan tenaz.
+
+Hay tanto sufrimiento causado por la sexualidad ciego. Así que muchas mujeres son abandonadas con los niños por los hombres cuyos instintos animales pronto tiran de ellos en otro lugar después de un poco de gratificación sensorial. El rastro de trauma para la mujer puede continuar como ella tiene que luchar para cuidar al niño que ha sido abandonado tambien. O tal vez eran los deseos de ella insatisfechos o frustrados que causaron la separtion para empezar. Una cosa es cierta, y es que hay cada vez menos ejemplos de coexistencia armónica en asuntos sexuales e emocionales humanos. Como una cultura que hemos vuelto a la edad de piedra en respecta a la sexualidad; sólo no tenemos giraffas y rinocerontes para perseguir y cazar con el fin de canalizar esta energía y darnos un poco de alivio.
+
+En cambio, está surgiendo toda una cultura de permisividad e incluso la indulgencia. En verdad, esta distorsión de la tendencia sexual deja a muchos con muy poca felicidad que queda en el matrimonio o las relaciones interpersonales. Por el contrario, veo muy poca esperanza en el “amor libre” y las relaciones abiertas también. Aunque a algunos les gusta la forma en que suena en teoría, siempre he visto que alguien siempre termina siendo herido. Lo que necesitamos es amor. La sexualidad no tiene por qué arruinar esto, pero por lo general lo hace si uno o ambos de personas no tienen idea de lo que son realmente los factores emotivos conduciéndolos profundamente. Y es sólo por ir profundamente dentro y ver estas necesidades que se pueden encontrar satisfacción en la sexualidad y las relaciones. Muy pocas personas pueden trascender por completo estas necesidades. Estas personas son muy raros y muy interesantes.
+
+Yo tenía una orientación sexual muy normal en mi juventud. Nada era demasiado extrema, ni la represión o la expresión. Tenía todo lo que necesitaba para vivir una vida feliz con la familia en el momento en que estaba terminando la universidad: una buena compañera, una buena educación, y fuertes intereses adademicos que me inspiraron a los planes futuros. Sin embargo, descubrí la meditación y el yoga en mi penultimo año en la escual, y luego fui iniciado en una práctica tántrica muy serio. Lo siguiente que supe que estaba soltero, apenas me gradue de la universidad por falta de interés, y estaba en mi camino a la India para encontrar más verdad.
+
+Contrario a los mal conceptos populares sobre tantra, estas practicas no tienen nada que ver con la practica sexual menos de tener un actitud responsable y moral hacia la sexualidad.  Eran practicas muy avanzadas de la meditacion.  Fue sorprendente ver cómo mi sexualidad comenzó a disminuir a medida que cultivé estos practicas. Todavía era un heterosexual normal, todo aún funcionaba, sólo el fuego se había apagado un poco. El fuego luego se encendío el deseo de profundizar la experiencia espiritual. En aquellos días el yoga era todavía una cosa asiático o hippy, y no la práctica popular que se ha convertido hoy en día. Yo no sabía nada de yoga contemporáneo. Afortunadamente, habia aprendido de algunos yogis muy sinceros y serios de la India que conocí en la universidad. Estaba empezando a entender lo que estos yoguis mayores me habían dicho: que con la meditación no hay conocimiento profundo y esta profunda comprensión de la mente y las emociones ayuda a entender no sólo el sexo, pero todas las tendencias mentales y biológicos. Tantra Yoga era para mí una “economía libidinal”, una forma de invertir energía en otras actividades. Si usted pone la energía en el lugar B, entonces ya no está en su lugar A, el lugar original. Como estudiante de psicología que estaba muy consciente con los conceptos de la represión y la represión y las enfermedades y la neurosis que causan. Transmutación era una idea diferente, sin embargo. Nunca estudié esto en la escuela. Freud ciertamente no captó esta idea. Tal vez Jung y los humanistas hicieron, sin embargo. Lo que más me impresionó sobre Tantra Yoga no fue teorías sofisticadas, pero los resultados prácticos de convertir el deseo físico en el deseo mental. Y, por supuesto, mi capacidad intelectual explotó el más que yo practicaba yoga y la meditación y lo mas que usé la laungota, el taparrabos yoguis, el “aparato Tarzán” o “cinturón de castidad orgánica.” 
+
+Mi mente se hizo tan fuerte, sin embargo yo ya no estaba interesado en las actividades intelectuales. Lo único que importaba era encontrar la fuente de lo que me estaba llamando para hacer todo tipo de renuncias que nunca pensé posible. Tal vez había alguna dificultad al principio, cuando yo todavía estaba en la universidad, rodeado de chicas bien formadas. Sin embargo, en su mayor parte se trataba de una renuncia muy dulce con la promesa de algo más grande. Yo no despreciaba la sexualidad. Desprciarlo es el camino mas rapido al infierno. Yo sólo sabía que había algo más. El despertar de la kundalini es más felicidad de mil orgasmos físicos a la vez. Y el amante de esta cita es el Infinito.
+
+El único problema que tuve con mi nuevo estilo de vida es que comencé a ser muy sensible con el medio ambiente que me rodea. Empecé a sentir la gente muy profundamente. Por ejemplo, en vez de darse cuenta de que alguien estaba triste por el tono de su voz o la expresión facial, empecé a sentir sus estados de ánimo. Veía a alguien de muy lejos en el campus y obtuve una impresión acerca de su estado de ánimo. Lo que era especialmente difícil fue cuando tuve que compartir la habitación con otras personas. Siempre soñé con su vida interior. Compartí mis sueños con ellos y estaban muy agradecidos por el conocimiento de sus problemas. Una vez soñé que estaba en una relación amorosa con una chica de Vermont. Nos reunimos en un granero y …. Cuando me desperté estaba perturbado porque yo ni siquiera había pensado en el sexo durante varios meses. Me pregunté “¿por qué Vermont? ¿Qué tengo que ver con Vermont? Me acordé que mi compañero de cuarto era de Vermont. Yo le pregunté si tenía un amante allí recientemente. Él sólo se rió y dijo:” me atrapaste! ” Siempre fui muy sociable. Sin embargo esta nueva sensibilidad energética comenzó a aislarme un poco. Sin embargo, ya había decidido que quería ser monje y acepté este puesto dichosa y solitaria en la vida.
+
+En el momento en que me gradué y llegué a la India que estaba teniendo experiencias de kundalini muy intensos. Nadie me entendió, excepto mi madre y algunos amigos cercanos. Que pronto cambió cuando llegué a Ananda Nagar. Me sentí como si hubiera llegado a una institución muy especial de aprenizaje. Me recordó un poco de  “El juego de los Abalorios” por Hermann Hesse sólo estos hombres eran místicos en lugar de intelectuales. Ellos hicieron el trabajo práctico tambien. El yogui que hablé de en el ensayo de la semana pasada administraba una universidad en el día y meditó durante toda la noche. Fue bueno tener una referencia para el trabajo porque yo tenía sólo deseos espirituales y no quería hacer nada más. Él era un meditador muy avanzado y se pasó por pasiones espirituales que duraron varios años en los que él hizo muy poco trabajo en el plano físico. En cambio, él estaba absorto en la bienaventuranza del samadhi. No es que él era inútil en estos tiempos. A lo contrario, su vibración elevada inspiró a muchos, pero también hizo sus hermanitos monásticas un poco celosos de sus logros espirituales.
+
+Este monje me había contado sus secretos de transmutar el deseo sexual en uno de nuestros primeros encuentros. Dijo que él nunca reprima nada. Me di cuenta de que esto era cierto ya que era muy franco. Criticó abiertamente la teocracia rigida alrededor de él y me dijo con una carcajada que Ananda Marga probablemente terminar matando a sus propios santos algún día. Él era audaz y siempre expresado abiertamente, especialmente cuando las personas obstinadas o dogmáticas necesitaban una patadita en el trasero.
+
+Expresó sus ideas acerca de la sexualidad de una manera similar. Si el pecho de una mujer apareció en su mente durante la meditación, simplemente dejaba que suceda. Sabía que era impermanente. Él tendría problemas con la imagen en su mente al principio, y luego dejó que su mente disfrutar de la forma. Todavía continuó haciendo su meditación durante estas fantasías. Poco a poco su estado de felicidad sin forma regresaría. Dijo que con el tiempo se sentiría compasión por esta persona y sintió que si este deseo manifestado de que pudiera realmente dañar a otra persona emocionalmente porque él era tan  intoxicado e entregado con dios. Sabía que se trataba de inclinaciones momentáneas y que para que él tome un amante sería una maniobra existencial desastrosa. Esto le inspiró a abrazarla dentro de una luz blanca radiante y decirle que era querido por la divina y que él nunca le haría daño. Dijo que al final él siempre vio a su “amante” fundirse en la pura luz de la eterna Atman, y volvió a sus meditaciones pacíficas.
+
+Lo que él me dijo que no eran algunas técnicas exactas e específicas para hacer un deseo desaparacer.  Más bien es una actitud y estilo de vida en general que trabaja para transformar la mente y el cuerpo con sus deseos. Pocas personas entienden las razones profundas para la disciplina espiritual y lo que el yogui verdaderamente quiere lograr. Este monje era una persona robusta, inteligente, e incluso guapo. El no habia tenido problemas con las mujeres si estuviera interesada. Estaba muy lejos del tipo sacerdote reprimido que niega a sí mismo y por lo tanto degenera su libido en perversiones oscuros. Sinceramente, creo que había desarrollado el estado “heroica” de la meditación en la que quedan muy pocos deseos y uno con ello comienza a dejar de lado todas las inhibiciones. “Todas las cosas vienen de dios, ¿cómo puede cualquier cosa hacerme daño?” Aunque esta es la actitud del yogui “heroica”, también es el lema de la sensualista que pierde si mismo en estas mismas tendencias. Muy pocas personas pueden realmente desprender del deseo sin que matan a sí mismos en el interior con represiones y distorsiones.
+
+El siguiente relato nos ayudará a dar perspectiva sobre lo que es en realidad la transmutación con éxito de un instinto en comparación con lo que no es más que la represión y la distorsión que sólo exacerba aún más el instinto.
+
+Una vez escuché una conversación en la que un determinado monje de alto rango de Ananda Marga, Karunananda, estaba hablando de la forma en que era una vez un jefe administrativo de muchos monjes. No sabía qué hacer con su represión sexual. Dijo que la única solución era encontrar prostitutas para ellos. Él tenía su propio burdel. Esto fue durante su estancia en Hong Kong. Más tarde, también me enteré de los rumores de que él también tenía uno de estos establecimientos para los grandes acharyas centrales en Ananda Nagar. Cuando me enteré de esto no pude procesar mentalmente la información. Yo había estado tan cerca de muchos monjes santos y tenía un gran respeto por Ananda Marga que simplemente no podía registrar esta información nueva y disonante en mi cabeza. Mis oídos oyeron, sin dudas, pero mi mente no sabía qué hacer con la nueva información. Era claramente el caso más fuerte de la disonancia cognitiva que he experimentado. Probablemente habría suprimido esta información, distorsionado, o haber hecho una excusa si no hubiera sido por mi amigo que me habló de este choque unos minutos más tarde. Él estuvo presente en la conversación también y fue un poco más maduro en los caminos del mundo que yo y el no tenía ningún problema burlándose de esto. Yo, por el contrario, estaba luchando para asimilar todo. Al ver todos esos monjes centrales que vienen a visitar Karunananda todos los días me dio las mayores sospechas. "Si el lo hace, entonces está haciendo  también? ¿Son todos estos monjes de alto rango clientes en su burdel? "¿Significa esto que todos en Ananda Marga podrían estar haciendo lo mismo?" Estas fueron las voces dentro de mí que yo no quería oír. Un mes más tarde fue el famoso Trato de Armas Purulia en que monjes Ananda Marga trataron de lograr una descarga de armas desde europa occidental en su ashram central, Ananda Nagar. Fracasó miserablemente y yo, porque yo estaba en el lugar equivocado en el momento equivocado, me encontré encarcelado, y a continuación, puesto en arresto domiciliario mientras que nuestro caso fue programada para el Tribunal Supremo de la India.
+
+Justo después de la <a href="http://elmisterio.org/la-revolucion/">Caída de las Armas en Purulia</a> Karunananda me echó del hostal donde me quedaba porque yo estaba bajo vigilancia y él también era culpable de ayudar a este plan fallido y no quería que la policía cerca de él. Podía ver el miedo en sus ojos que reveló su complicidad. Estaba aterrorizada de mí y no me quiere cerca de él.
+
+Chidghananda, uno de los grandes acharyas y primeros discípulos monasticos de Anandamurti, se convirtió en mi guía más cercana, así como el mejor amigo. Me aceptó en su casa la noche Karunananda me había sacado. También hubo una gran conmoción en esa noche. Los lugareños estaban golpeando a a tambores y los monjes pensaban que eran tambores de guerra. Todos los monjes estaban en estado de pánico para escapar a la estación de tren. Pensaron que habría otra masacre por los comunistas que dieron dinero, alcohol y armas a los lugareños para atacar el ashram de Ananda Marga. Chidghananda sólo me dijo que cerrar la puerta y meditar durante toda la noche. Si muero iré feliz, dijo con una dulce sonrisa. Era su manera de decir todo estará bien. Yo sólo lo había conocido antes de este incidente. Él fue a la cárcel voluntariamente conmigo, así como para protegerme de las fuerzas que me había atrapado en una situación en la que yo no tenía conocimiento. Le preocupaba que estaríamos torturados como los monjes que fueron torturados por la policía en varias ocasiones anteriores. Esta fue la mejor experiencia de mi vida, pasar largas horas meditando con este gran yogui, en la cárcel y después de 6 meses de arresto domiciliario, mientras que nuestro caso se pasa a través de la Corte Suprema de la India. Aunque su mente estaba profundamente conectada con la Conciencia Suprema a través de su práctica espiritual, él era siempre la persona, pero muy racional y sencilla.
+
+Chidghananda una vez me contó la historia más increíble. Varios años antes Anandmurti habló de microvita y explicó que sólo Taraka Brahma (La Consciencia Suprema actuando como el Libertador) puede causar un sexo a cambio sin una operación o de las drogas. Es posible cambiar el sexo con la aplicación de microvita, explicó. Al mismo tiempo Karunananda comenzó a mendigar a Anandamurti para no convertirlo en una mujer. Estaba llorando y diciendo que se sentía un cambio en sus órganos y que se convierta en una "señora". "Baba, por favor no me haga una señora!," gritó. ¿Fue este espectáculo un "truco mental Jedi" de un gurú amoroso y humorística dando un regaño a su discípulo machista, o los poderes especiales de Taraka Brahma? ¿Quién sabe realmente.
+
+Chidghananda era demasiado serio acerca de tales cosas para difundir chismes. Creo que estaba tratando de decirnos algo. Tiene un poco de algo que ver con la ley de los opuestos, del drama enantiodromía Heraclitiana. Cuando uno va un poco demasiado lejos con cualquier forma de machismo, ya sea física, mental o espiritual, todo la fuerza contrario, reprimido y distorsionado encuentra una manera de romper la superficie de una mente unilateral e extremo y obliga a un cambio radical . "Bien, hombre machista, ahora vas a ser una mujer," es lo que la ley del karma quiere enseñarles. Esto puede explicar todas las distorsiones sexuales extranos con los monjes en la actualidad. La imagen de muchos de estos líderes se ha quemado. Cuando los monjes más jóvenes pierden el respeto por sus mayores, pierden la fe en sus propias capacidades, así. Es mucho más fácil caer cuando se pierde la confianza de uno. Naturaleza o Prakrti, no deje que se pasa, sin embargo. Este tipo de abuso provoca reacciones muy fuertes. La sexualidad es una energía muy delicado y dañarlo o provocar distorsiones tiene consecuencias muy intensos. Estos monjes más tarde tienen que vivir vidas de duplicidad y quizás desarrollar perversiones e indulgencias extremas debido a esta represión y la distorsión que se escapa con una locura salvaje. Es mucho más sano vivir una vida familiar normal que este tipo de vida falsa. Es difícil para enderezar estos nudos del libido una vez que estén establecidos. Tal vez uno no puede dejar de extinguir estas reacciones en un tiempo de vida. Uno quizá renace con todo tipo de complejos y/o problemas de identificación sexual. Creo Anandamurti mostró Karunananda esta ley de los opuestos para tratar de conseguir que cambie de rumbo. Él sabía que si continuaba con su machismo, entonces él dañaría a los demás y a sí mismo. 
+
+Aquí adjunto algunos de mis escritos de Un Nombre Para el Infinito relacionados con este tema.
+
+<b>Tantra sexual</b>
+
+Cuando se habla de la segunda chakra, la svadhistana , la mayoría de la gente piensa inmediatamente en la sexualidad. Los seis vrttis o vórtices de chakra svadhistana son la indiferencia , la depresión, la compulsión, la falta de confianza , la paranoia y resentimiento. Estos 6 tendencias tienen más que ver con una falta de sólida formación en la persona que la sexualidad. El impulso sexual tiene sus raíces en la mente sensorial , en el primer chakra. El problema es que, debido a la falta de conciencia de las necesidades emocionales y físicas de uno , el deseo sexual a menudo se confunde con estos mecanismos de defensa .
+
+Es muy natural y saludable que el instinto sexual de la mente sensorial encuentra expresiones más altas en los centros superiores. En un segundo chakra equilibrada del deseo sexual no ha alcanzado su plena madurez , pero aún no es un instinto animal ciego. Tiene más que ver con la seguridad emocional, que es el tema constante cuando se habla del chakra svadhistana . El problema es que este instinto biológico se enreda en las distorsiones e inseguridades de l
+
+La única tantra sexual funcional que he conocido es ser la primera responsable y nunca trate de hacerle daño a nadie, mientras que al mismo tiempo hacer el esfuerzo incansable para tratar de comprender las tendencias del segundo chakra. Las distorsiones sexuales explotan estos vrttis fundamentales. Cuanto más sufrimiento , la separación y la inseguridad que existe en el nivel svadhistana , más probable es que la sexualidad intenta de compensar estas emociones. Sin embargo, estas necesidades son válidos y son tan profundas y fundamentales para la personalidad que realmente necesitamos entenderlos. Tal vez las compulsiones ciegas se deben a una retirada prematura del pecho de una madre que dejó un chupando en la nada . O tal vez la sexualidad se ha alineado con un resentimiento inconsciente y la falta de confianza interno que trata de seducir hacia el exterior y dominar a través de la dominación sexual, los juegos, o la manipulación .
+
+He llegado a pensar que cuando no hay sufrimiento , no hay deseo , y donde no hay deseo , no hay sufrimiento. Esto es cierto para todos los deseos , no sólo de sexo . Pocas personas realmente pueden entender esto . Ramakrishna dijo una vez que el placer mundano es como un perro que mastica un hueso afilado y no se da cuenta de la " saciedad " de este deseo proviene de su propia sangre. Es el miedo y la inseguridad que nos mantienen atados a la limitación de un yo separado , y por lo tanto obligado a deseos egoístas. A veces , incluso las mentes altamente desarrolladas no entienden estas reverberaciones subyacentes en la sombra de las emociones. Los piratas a nuestro presente estado de felicidad son a menudo algo invisible de nuestro pasado. He encontrado que el estudio de la vrttis , especialmente los de la svadhistana, son de suma importancia para encontrar el equilibrio psicológico que permite el desarrollo intuitivo, espiritual.
+
+a svadhistana , la mente auto- conceptual. El ego comienza a explotar esta gratificación para sus necesidades inconscientes y siempre está sufriendo y la degeneración.
+
+Nunca he tomado el llamado “tantra sexual” en serio. En primer lugar, porque las únicas personas que he conocido de practicar tales cosas nunca fueron muy equilibrados . Claro, que hablaban de la conciencia y el amor y la transmutación y todas esas cosas buenas, pero sólo era demasiado obvio que no eran más que adictos al sexo impulsados ​​por las emociones inconscientes. Ellos siempre dejaron un rastro de daño. Puede ser que haya alguna vez fueron las prácticas más conscientes de que realmente no atrapan a la gente en sus compulsiones, pero si en realidad eran veraces, entonces tendrían que tener su base en yama y niyama, la base ética para la práctica del yoga. La mayoría de las relaciones sexuales en última instancia, conducen uno al sufrimiento. Se trata de una transgresión de ahimsa o no violencia, para proyectar los propios impulsos egoístas a otro . No es de extrañar que en los 2 idiomas que entiendo, la palabra crudo para el acto sexual puede ser sinónimo de las palabras para engañar, decepcionar, o en general de dañar a otra .
+
+La única tantra sexual funcional que he conocido es ser la primera responsable y nunca trate de hacerle daño a nadie, mientras que al mismo tiempo hacer el esfuerzo incansable para tratar de comprender las tendencias del segundo chakra. Las distorsiones sexuales explotan estos vrttis fundamentales. Cuanto más sufrimiento , la separación y la inseguridad que existe en el nivel svadhistana , más probable es que la sexualidad intenta de compensar estas emociones. Sin embargo, estas necesidades son válidos y son tan profundas y fundamentales para la personalidad que realmente necesitamos entenderlos. Tal vez las compulsiones ciegas se deben a una retirada prematura del pecho de una madre que dejó un chupando en la nada . O tal vez la sexualidad se ha alineado con un resentimiento inconsciente y la falta de confianza interno que trata de seducir hacia el exterior y dominar a través de la dominación sexual, los juegos, o la manipulación .
+
+He llegado a pensar que cuando no hay sufrimiento , no hay deseo , y donde no hay deseo , no hay sufrimiento. Esto es cierto para todos los deseos , no sólo de sexo . Pocas personas realmente pueden entender esto . Ramakrishna dijo una vez que el placer mundano es como un perro que mastica un hueso afilado y no se da cuenta de la " saciedad " de este deseo proviene de su propia sangre. Es el miedo y la inseguridad que nos mantienen atados a la limitación de un yo separado , y por lo tanto obligado a deseos egoístas. A veces , incluso las mentes altamente desarrolladas no entienden estas reverberaciones subyacentes en la sombra de las emociones. Los piratas a nuestro presente estado de felicidad son a menudo algo invisible de nuestro pasado. He encontrado que el estudio de la vrttis , especialmente los de la svadhistana, son de suma importancia para encontrar el equilibrio psicológico que permite el desarrollo intuitivo, espiritual.
+
+OPUS GEI
+
+Según datos científicos y sociales modernos, sólo el 10% de la población tiene tendencias homosexuales. Sólo un pequeño porcentaje de personas son completamente homosexuales mientras que el resto de estas personas sólo tienen tendencias homosexuales en distintos grados.
+
+Si ciertas sociedades humanas tienen poblaciones con más del 10% de homosexualidad, creo que estaríamos viendo un efecto de aumento de la homosexualidad causado por las condiciones sociales en lugar de las tendencias innatas naturales. Tal vez algunas personas nacen homosexuales, mientras que en otros la homosexualidad está socialmente condicionada. Las manifestaciones claramente elevadas de la homosexualidad en una sociedad particular parecen sugerir que ciertas dinámicas psico-sociales en esa sociedad en particular inducen de alguna manera tendencias homosexuales. ¿Por qué hay más homosexualidad en una sociedad que no existe en la sociedad en general? ¿Cuáles serían las condiciones personales y socio-psicológicas que causan una alta tasa de homosexualidad?
+
+Los ejemplos más obvios de "falsa homosexualidad", o homosexualidad que afecta a los heterosexuales, está en las órdenes monásticas y prisiones, que a veces no son tan diferentes. Siempre había oído tales rumores sobre el clero de la antigua Iglesia, pero nunca conocí a ninguna de estas personas o estaba familiarizado con el catolicismo. Mi exposición inicial a otras formas de monaquismo eran realmente muy puras con respecto a la sexualidad. No hubo tantos casos de perversión. Más tarde, después de grandes conflictos que afectaron la estabilidad de la orden, la gente comenzó a meterse en escándalos. Ya no había tanta inspiración espiritual o seguridad existencial dentro del orden y la gente empezaba a "caer" en sus instinctos.
+
+Al principio, antes de la caída de A.M., pude ver cómo este estilo de vida realmente fuctioned de una manera sana. Había algunos monjes mayores que nunca parecían tener tendencias sexuales. Había otros que luchaban, pero siempre y cuando tuvieran un ambiente espiritual saludable, entonces podrían continuar con sus esfuerzos de una manera saludable, sin represión peligrosa. Y luego hubo los que tuvieron muy poco éxito en este esfuerzo. La institución monástica estaría mejor inspirándoles a tener una vida familiar en lugar de tratar de forzar el celibato. De lo contrario, sus tendencias naturales, aunque reprimidas siempre los llevan a problemas. Naturalmente, sus escándalos eran heterosexuales cuando eran heterosexuales y homosexuales cuando eran homosexuales. Sin embargo, hubo muy pocos homosexuales en este orden cuando entré por primera vez, probablemente no más alto que el promedio. La comunidad no parecía ser un refugio para los gays, como algunos escépticos podrían argumentar. Sin embargo, a medida que pasaba el tiempo y la solidaridad social de la sociedad monástica se erosionaba, empezaron a haber más escándalos sexuales, y mucho más escándalos homosexuales. El grupo medio de aquellos que realizan una lucha sincera y efectiva comenzaron a deslizarse hacia el tercer grupo de aquellos que sólo necesitan hacer algo más y dejar un estilo de vida insalubre y reprimido. Esto sucedió en una sociedad monástica basada en la práctica del tantra yoga. En los últimos años he enseñado la meditación a sacerdotes católicos que eran muy honestos acerca de este fenómeno en su propia sociedad. No hay vitalidad espiritual en la iglesia y la mayoría de los sacerdotes son personas realmente mal ajustadas que no entienden sus impulsos naturales, me dicen. La iglesia católica ha sufrido este fenómeno durante casi 2000 años.
+
+No veo necesariamente la homosexualidad como un "escándalo", pero cuando los "celibatos" comienzan a manifestar una sexualidad que ellos mismos consideran tabú, entonces la probabilidad de un "escándalo" inapropiado es bastante alta. Vi que las personas que en realidad no eran homosexuales se involucraron más tarde en relaciones homosexuales, monjes y monjas. Y debido a que no se suponía que fueran sexualmente activas, su actividad sexual no es natural y libre, sino que a menudo involucraba expresiones inapropiadas, impuestas y a veces perversa y criminal. Esto es a lo que me refiero como "Opus Gei", una idea oscura y dogmática contra la sexualidad que al final se une paradójicamente a uno más profunda en la sexualidad de formas que no son naturales para su ser, ni parecen felizes de haber adquirido tales tendencias. En lugar de ser celibato, un heterosexual se convierte en gay; "Opus Gei". Este concepto no tiene nada que ver con la homofobia, de hecho puede incluso distinguir entre formas más innatas de homosexualidad (las personas realmente nacidas con tendencias homosexuales) y aquellas manifestaciones de homosexualidad que son simplemente causadas por confusión temporal, debilidad, mala adaptación psicosocial y decadencia social. Las aves, los peces y muchas especies de mamíferos desarrollan relaciones homosexuales cuando no tenían éxito con los intentos de procreación heterosexual. Intentaron ser heterosexuales pero la homosexualidad era la única opción disponible para ellos y se acomodaron con ella. ¿Hay una differencia con los monasticos?

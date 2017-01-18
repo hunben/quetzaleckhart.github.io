@@ -1,0 +1,40 @@
+---
+ID: 3271
+post_title: 'La Consciencia Cristica &#8211; Oratorio'
+author: Quetzal Eckhart
+post_date: 2015-10-11 08:54:50
+post_excerpt: ""
+layout: post
+permalink: >
+  http://elmisterio.org/la-consciencia-cristica/
+published: true
+war_soundy_enable_bg_sound:
+  - 'yes'
+war_soundy_enable_pp_corner:
+  - 'yes'
+war_soundy_audio_file_url:
+  - >
+    http://elmisterio.org/wp-content/uploads/2016/10/christmas-oratorio-1.mp3
+war_soundy_audio_type:
+  - audio/mpeg
+war_soundy_audio_volume:
+  - default
+war_soundy_audio_title:
+  - default
+war_soundy_autoplay:
+  - 'yes'
+war_soundy_loop:
+  - 'yes'
+---
+[soundy button]
+
+Descargar Musica:  [download id="3311"]
+
+Cuando era niño, yo era muy curioso de entender si realmente Cristo existió como un ser humano o fue un arquetipo más profundo, universal y espiritual incrustado en la conciencia universal humana. Sin embargo, esta curiosidad desapareció cuando comencé a meditar y entender que la gracia divina está siempre presente detrás de la mente tranquila. Comprendí que lo divino estaba en el testigo sin forma de la mente, y no alguna forma humana. Esta consciencia testigadora es lo que los yoguis llaman el Atman. Las palabras y los conceptos e incluso la más alta filosofía no puede captar el infinito dentro de sus límites. Lo que yo deseaba era esta armonía y la unión con esta consciencia esencial y sin forma en lugar de una concepción uniforme de “dios” que siempre parece estar de acuerdo con algún tipo de aceptación de la religión, culto o la tradición.
+
+Aunque yo tenía muchos sueños de mi maestro Anandamurti en los que a menudo me decía cosas muy importantes que incluso me curó, yo nunca podría permitir que mi mente quedara atrapada en conceptos como el “gurú”. Tal vez yo podría aceptar esta autoridad en el interior, pero cuando la gente habla de “gurú” en el contexto social, a menudo se basa en concepciones de lo que es el gurú para otras personas y no tanto por su propia experiencia y por una realización a profundidad. Esto es cierto en cualquier forma de espiritualidad: las masas siguen las normas y conceptos establecidos y no ponen tanta energía en la realización. 
+
+Sin embargo, fue en la altura de mis realizaciones sin forma de lo divino que tenía tantas experiencias de formas divinas! Anandamurti, en sueños o en la meditación, siempre me guio hacia la presencia real del Atman y nunca dijo algo como: “Yo soy el único camino.” Estas experiencias siempre revelan lo que vi como verdades universales profundas. Mi mente se había conectado con esta forma particular que revela verdades mucho más allá de la forma. 
+
+Incluso una vez apareció a mis ojos físicos la forma luminosa de Cristo después de una meditación profunda. No tenía duda de que había una presencia divina que se manifiesta como una forma. Parecia como un retrato iconico de Andrei Rublev.  Su forma era translúcida y la serpiente del color jade que yo había visto en mis primeras experiencias kundalini fue visto justo detrás de los ojos en el nivel del cerebro medio. Comprendí claramente que era un símbolo de la unión del cielo y la tierra; de dios y de la humanidad. El “poder de la serpiente” de la kundalini, la energía divina latente en la base de la columna vertebral, despierta en el cerebro y nos transforma en algo inconcebible para el intelecto del ego, o Aham. Esta serpiente en el cerebro medio estaba completamente domesticada y dentro de toda la belleza de la hermosa cabeza de la figura de Cristo. Pensé en cómo un cerebro tan iluminada debe haber incorporado los denominados cerebros reptiles y mamíferos en los místicos y aún no entendidos potenciales de la neo-corteza humana que ha evolucionado por encima y alrededor de ellos. Cristo es un símbolo de esta perfección yóguica, al menos en mi experiencia. La visión era más hermosa y significativa que cualquier cosa que he visto en el Louvre o en cualquier otro museo del mundo. Cuando lo recuerdo vuelvo a ese estado de éxtasis en el presente. Conforme pasa el tiempo entiendo como la vision de formas verdades espirituales ayuda entender verdades profundas lo que uno no puede captar normalmente sin la ayuda del medio de la forma.
+<img src="http://elmisterio.org/wp-content/uploads/2016/02/andreirublev.jpeg" alt="andreirublev" width="800" height="944" class="alignnone size-full wp-image-1016" />

@@ -1,0 +1,69 @@
+---
+ID: 96
+post_title: Possession
+author: Quetzal Eckhart
+post_date: 2015-06-24 14:40:44
+post_excerpt: ""
+layout: post
+permalink: http://elmisterio.org/possession/
+published: true
+snap_MYURL:
+  - ""
+snapEdIT:
+  - "1"
+war_soundy_enable_bg_sound:
+  - default
+war_soundy_enable_pp_corner:
+  - default
+war_soundy_audio_file_url:
+  - default
+war_soundy_audio_type:
+  - default
+war_soundy_audio_volume:
+  - default
+war_soundy_audio_title:
+  - default
+war_soundy_autoplay:
+  - default
+war_soundy_loop:
+  - default
+diasposter_send_facebook:
+  - "0"
+diasposter_send_tumblr:
+  - "0"
+diasposter_send_twitter:
+  - "0"
+diasposter_send_wordpress:
+  - "0"
+diasposter_use_excerpt:
+  - "0"
+diaspora_aspect_ids:
+  - 'a:1:{i:0;s:11:"all_aspects";}'
+---
+excerpt from <em><a href="http://elmisterio.org/tantric-rebellion-and-kundalini/">Tantric Rebellion and Kundalini</a></em>
+
+I grew up in the United States of America. I was born in 1972, at the beginning of the country's final decline. Eisenhower tried to warn us about the dangers of the military-industrial complex more than a decade earlier than when I was born. With the secret manipulations of the Vietnam War, President Johnson had just sold out our democracy to the international bankers and multinational corporations that would eventually totally undermine the credibility of our government. This time was roughly the beginning of the end for the U.S. I felt it in my early childhood. My home was a safe haven but sometimes when I was out in the city with my mother I would feel that people were just not happy. I didn't understand why intellectually, but I certainly felt the pervasive depression and ennui of materialistic, capitalist culture. I still have exactly the same feeling when I enter large cities and areas where really mundane people gather.
+
+My intellectual discontent with our society came much later, when I was in high-school. I never had any reason to doubt the good intentions of our society and government. I grew up very non-political. My life was comfortable. I had everything I ever needed; physically, mentally, and spiritually. Of course, I later began some new spiritual adventures with my yogi friends from India, but the foundation and receptivity for that lifestyle was conditioned from my childhood.
+
+My grandfather was a hero of the second world war. He was a simple farmer who was conscripted into military service. He continued to drive a tractor, albeit a giant one, all across Europe. He was always very intuitive. Once, when he was a teenager, he told his cousin that he had better pull the car over because the tire was about to explode. His cousin thought it was nonsense. A minute later the tire exploded. It turned out that this intuition saved him several times in the war, from the crossing of the Po River Valley and on into Bavaria.
+
+He and his high school friend were taking their tractors from one battle site to another during the invasion of Italy.  German Junker dive-bombers were screeching down to attack them.  In the middle of the journey they come across some English platoon commanded by an Indian Sikh officer.  He ordered them to dig a trench with their giant tractors to protect them from artillery.  My grandfather saw in his mind's eye that all of these men were about to die and that he had better leave.   He disobeyed this officer and drove away.  Just when he was leaving a shell exploded and killed the whole platoon.
+
+He once had to clear the path across the Po River which was blocked by American tanks destroyed by German artillery. His officer gave the order and he said, "I don't mean to be disrespectful sir, but there are 2 dozen dead men in those armed tanks that tried to cross the river. My tractor is open-caged and all I am wearing is a t-shirt." His officer replied, "Don't worry son, we have got you covered." It took him 30 minutes to clear the path. All the while he had bullets bouncing off of his tractor and shells exploding all around him. When he returned to the shore nobody could believe he was alive.
+
+His fellow soldiers started to note how he escaped the most impossible situations and began to stay close to him in conflicts because they knew he would be alright. He was always very calm and peaceful. I always felt safe with him and always lived nearby.
+
+I saw the first images of carnage from the first Gulf War during my last year in high school. I was disgusted and ashamed. Although most of the teachers and leaders in society were supporting the government propaganda of a justified attack, there were also a few dissenters in the public school system who gave alternative views. I had been influenced by one such teacher. I really had no strong political views but I learned just enough of modern politics to entirely mistrust our government. At the same time a giant boil appeared on my cheek. It was enormous and swollen and very embarrassing. As the fluid oozed out all I could think about were the images of the bodies of the hotel clerks in Bhagdad who were killed by misguided guided missiles. I was ashamed to be an American. There was no more John Wayne and heroic Green Berets saving the day; just filthy rotten imperialists and duped, flag-waving morons robbing and murdering weaker societies for their natural resources. Well, for several years at least I vacillated between that extreme definition of my countrymen or the idea that they are also victims exploited by bad education and capitalist pseudo-culture. Either way, fascism always ends up taking hold of empires just before their demise.
+
+During the second invasion of Iraq in the spring of 2003 the boil returned in exactly the same place. It was like a malevolent spirit that still haunted me. I was no longer ashamed of being an American because I had become a universal citizen by then. I really saw us as no more different than the German population around the time of Hitler. However, I still had those same feelings of disgust with the mindless American populace that unwittingly goes along with the plans of the military industrial complex, bankers and politicians that make all of this profitable war business and propaganda possible. More than just a rebellious attitude against authority, it was rather an attitude that these worms have no right to inflict this terror on any human being, especially when the justifications for aggression are based on crude lies.
+
+I had just moved to Mexico in 2003 and met a young couple who were very concerned about the war. They were intelligent, educated, and had a very humanistic outlook. They had a new-born baby at the time and were a very happy family. However, they were horrified at how the United States was so blatantly pulling off this scheme that any reasonable intelligent person unbiased by Fox or CBS could clearly see through. The wife seemed to be deeply affected by the of war and was becoming even more so as time went on. Although I don't think they were actively protesting in the streets, I did hear of them attending some social and ceremonial gatherings of a pacific nature. Slowly she began to become depressed and withdrawn. Nobody heard from her anymore. There was a Summer Solstice meditation event soon afterwards in which we heard from other friends that she had become very depressed, would not talk to anybody and was hardly even interested in caring for her baby. Her husband was very worried and did not understand what was happening to her.
+
+She arrived and gave a faint smile to everyone. I hardly recognized her. There seemed to be nobody at home. My wife took her into a back room of the clinic away from all of the people participating in the festival in order to talk with her and give her some naturopathic treatments. I could see her husband was very concerned and was having to give a lot of time helping to care for the baby.
+
+About an hour later I was called back into the room. My wife asked me to touch the crown of her head. She asked me if I could feel something strange. I did so and felt a terrible, evil presence. It was similar to the feeling I had with my boil but much, much stronger. I knew that this was an evil too powerful to be coming from her. It was like a giant, super-personal plasma blob of evil that was in the room. I felt sick and went into the next room to lie down. Ten minutes later my wife came in and said her patient was feeling much better. By that time I had already begun to decipher what was affecting her. My wife saw that I was abnormal and asked me if I absorbed something. I replied that I believe I had. My heart was pounding as if I had run a marathon. I could distinctly feel another presence inside of me. I had never felt like there was some other being existing inside me before. Yes, maybe I had had some strange experiences with deeper parts of my existence but it was always an experience with the various aspects of my own self. My wife immediately lost her non-attachment as a healer and began to worry about me. She wanted to take me to the hospital, which was quite ironic because she always “stole” patients from hospitals before the butchers took people's organs out. She was crying and begging me not to die. I laughed and told her to shut up because I am fighting for my life with all of my force and the last thing I need is for my doctor to say I am going to die!
+
+I lied there all night listening to the suggestions of this dark entity. I knew it was either it or I that would be alive in the morning. Fortunately, my life was very full and vibrant and I didn't accept any of the suggestions from this evil. It was like a pattern that simply made everything negative and distorted- pessimistic and destructive thoughts, hateful feelings, while at the same time it siphoned the life out of the body. It was a contest to see which mental pattern would control this body, the evil plasma or my own conscience. I could now understand very well what was affecting our friend and her family.
+
+After a few hours I recovered a little. The woman had fallen asleep and I went to speak with her husband. I was exhausted but said that I believe everything will now be alright. He seemed a little relieved. I awoke with a terrible headache. It stayed with me a week or so while this presence was being digested. In the meantime the family learned meditation and we spent much time with the baby and all was alright. It was the most terribly illuminating experience I had ever had up until that point in my life. It was the beginning of a live microvita study that has only gotten wilder as the years pass on.

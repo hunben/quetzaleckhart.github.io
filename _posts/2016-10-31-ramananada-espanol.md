@@ -1,0 +1,59 @@
+---
+ID: 3630
+post_title: Ramananada -espanol
+author: Quetzal Eckhart
+post_date: 2016-10-31 20:48:34
+post_excerpt: ""
+layout: post
+permalink: >
+  http://elmisterio.org/ramananada-espanol/
+published: true
+war_soundy_enable_bg_sound:
+  - default
+war_soundy_enable_pp_corner:
+  - default
+war_soundy_audio_file_url:
+  - default
+war_soundy_audio_type:
+  - default
+war_soundy_audio_volume:
+  - default
+war_soundy_audio_title:
+  - default
+war_soundy_autoplay:
+  - default
+war_soundy_loop:
+  - default
+---
+<a href="http://elmisterio.org/ramananda/">English original</a>
+
+Rãmãnanda murió recientemente. Dejó una autobiografía sobre su vida como secretario personal de Anandamurti.
+
+Lo conocí en 1995, justo antes de la <a href="http://elmisterio.org/la-revolucion/"> la Caida de Armas en Purulia </a>. Él salió de su habitación para hablar con nosotros que  visitamos desde Europa y los EE.UU. Sus ojos parecian tener sueño. Si no fuera por la compostura de felicidad general, que casi parecía intoxicado. Era tan obvio que este hombre era realmente ebrio de dios y apenas había sido realmente disfrutando de un viaje en una meditación profunda. Y ahora tiene que salir de ella y hablar con nosotros. ¿Cómo puede una persona mundana entender tal estado de ánimo que no sea en referencia a algún tipo de estado alterado de drogas o alcohol? Sólo sus ojos estaban mirando con sueño, pero su mente estaba tan despierto y sensible. Su presencia podría hacer un efecto de calma fuera mucho más profunda que con el vino o la hierba.
+
+Mis amigos habían notado algo en mí en los últimos tiempos; que después de la meditación profunda y prolongada al lado del río, parecía como si estuviera drogado. La broma con ellos era que yo en realidad no estaba meditando, pero en secreto fumando algo, que yo era realmente un Austinense incorregible. No me importó porque yo era realmente mucho más ligero y más sano de lo que jamás había estado en toda mi vida y sin productos farmacéuticos, drogas recreativas, alcohol o carne.
+
+Realmente me cayó bien desde el primer momento en que entró en la habitación. Senti un poco de esa sensación flotante eterna que iba a experimentar más adelante con más fuerza cuando me encontraría con Chandranath y su esposa, Ram Parit Devii. Siempre podía distinguir entre los monjes políticos y los monjes santos por la vibración que dejaron encima de mí. A veces esa vibración sutil podría durar varios días y haría que uno se pregunte, "¿de dónde sacan esta energía? ¿Cómo pueden invocar esta felicidad en los demás?" Vi que Rãmãnanda probablemente había estado disfrutando desde hace décadas de la meditación lo queyo había descubierto sólo recientemente después de mi iniciación en la meditación tántrica unos años antes.
+
+
+Cuando vi Rãmãnanda de nuevo, fue varios años después. Yo ya estaba en la periferia de A.M. Yo sabía quienes personas eran verdederos, pero podía ver cómo muchas personas estaban cayendo en escándalos inanos. Mis protestas no eran públicos en aquellos días y sólo me hablaron de estos temas con mis amigos.
+
+Yo había llegado a México para tratamientos naturistas con Giitanjali. Tenía un sueño que tuve un crecimiento cerebro extraño en mi hemisferio derecho y luego más tarde tuve que confirmarse con un estudio de radiografia. Nunca perseguí un tratamiento o un diagnóstico más profundo, porque sabía que ningún médico podria entender lo que está pasando con mi cerebro bajo el fuego del kundalini. Empecé las terapias con Giitanjali un año antes, mientras aún vivía en los EE.UU., pero quería sumergirme en ellos más a fondo visitando su clínica en México.
+
+Rãmãnanda pasó por México en ese tiempo. Estaba rodeado de payasos y farsantes; monjes envanecidos con el orgullo de ser los elegidos para poner en práctica "la misión de Baba." Todo fue sobre todo un auto-engaño ambicioso, el discurso de estos astutos. Tenía muy poco respeto por la tela naranja en ese momento, pero me sentí muy diferente cerca de Rãmãnanda. Recordé nuestro primer encuentro y se dio cuenta de que este monje realmente pertenece a una categoría totalmente diferente que los demás.
+
+Medité cerca de él y algunos otros monjes. Hubo una vibración densa con los otros monjes. Todos ellos eran en su mayoría deprimido, enojado, y que sufren de una falta de confianza en sí mismos y su organización después de la caída de las armas y la guerra civil que sobrevino dentro de A.M. También había un escándalo reciente acerca de cómo los monjes estaban editando textos filosóficos y sociales de Anandamurti. Ni siquiera una década había pasado y que ya habían comenzado las adulteraciones que darían más poder a los monjes en lugar de miembros laicos de A. M.  
+
+Era difícil meditar cerca de ellos. Abrí los ojos para ver que estaba sentado a mi lado que emite una vibracion pesada. Vi quién era y lluego vi Rãmãnanda sentado en el otro lado de mí en paz total. Cerré los ojos y trate de olvidarse de los otros monjes. Una vez más sentí una sensacion ligero y puro emanando de Rãmãnanda como yo lo recordaba desde los 6 años antes. Fue un alivio agradable saber que todavía había algunos yoguis en A.M.
+
+A la mañana siguiente me contó una historia de cómo él estaba presente cuando Anandamurti mencionó que él había creado movimientos alternativos en caso de que la institución monástica de A. M. fracasa en su objetivo. Ramananda se sorprendió al ver Anandamurtiji habla a otro, desconocido, en gran detalle acerca de alguna otra organización que Rãmãnanda nunca había oído hablar. Anandamurti estaba hablando con el otro lider como si fuera hablando con el mismo sobre asuntos organizacionales de A.M.  Rãmãnanda estaba al lado de A'nandamu'rti casi 24 horas al día.
+
+Él me contó esta historia y luego me miró fijamente y me dijo: "sabes, realmente podríamos fallar."
+
+Me quedé impactado. ¿Por qué me había dicho eso? Nadie en A.M. habló de esa manera. Anandamurti era la encarnación de dios y los monjes fueron elegidos para propagar su misión en todo el planeta. Este fue el discurso común, de todos modos. Y ¿por qué estaba hablando a mí de manera tan sincera sobre esto? En realidad ni siquiera me conoce, al menos en el sentido común de haber pasado tiempo con alguien y compartir experiencias, etc. Sin embargo, me di cuenta de que el confiaba en mí tanto como yo confiaba en él, y que él también sentía una conexión profundo conmigo desde nuestro primer encuentro. Era tan obvio que me estaba diciendo algo más, pero lo que estaba diciendo?
+
+Más tarde esa noche terminé mis tratamientos con Giita. Yo sabía que alguna energía muy positiva había saltado por encima de mí a través de Ramananda. Podía sentir que la bendición del gurú se transmite a través de él, como si Anandamurtiji había dejado un paquete con él para entregar a mí en el momento adecuado.
+
+Comienzo a escuchar el sonido OM con más fuerza que nunca, como si alguien hubiera arrancado una motocicleta dentro de la casa. Me caí en trance para no sé cuánto tiempo. Oí OM durante 3 días y casi no dormía. Fue dicha perfecta. Pude ver mi futuro despliegandose ante mí y sabía que los principios de A. M. continuaría a pesar de lo que ha sucedido con la organización. Todo era muy mística. Entendí que debo para tomar medidas radicales con respecto a A. M., y prepararse para su desintegración absoluta. Giita y yo vamos a ser un equipo para emprender una ruta alternativa para ayudar a preservar los ideales de A. M. Era todo tan lúcido, y sólo se vuelve tanto más cuanto que los años pasan y recuerdo esas realizaciones. Rãmãnanda nunca le dio órdenes, él sólo me dio su confianza. Él sabía que todo saldría bien. Fue una de las conexiones del corazón más claro y simple que he tenido con otro ser humano.
+
+[cue id="3638"]
