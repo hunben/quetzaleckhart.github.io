@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "El Misterio"
+    url: http://elmisterio.org
+  - title: "Music"
+    url: http://elmisterio.org/contemplations-on-a-quena/
+  - title: "Books"
+    url: http://elmisterio.org/download-complete-works/
+  - title: "Tantric Rebellion And Kundalini"  
+    url: http://elmisterio.org/tantric-rebellion-and-kundalini/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
