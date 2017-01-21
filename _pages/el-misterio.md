@@ -1,29 +1,4 @@
----
-ID: 3477
-post_title: El Misterio
-author: Quetzal Eckhart
-post_date: 2016-10-22 16:51:29
-post_excerpt: ""
-layout: page
-permalink: http://elmisterio.org/el-misterio/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2016/03/031020161159-300x225.jpg" alt="031020161159" width="300" height="225" class="alignnone size-medium wp-image-1459" /><img src="http://elmisterio.org/wp-content/uploads/2016/03/031020161158-300x225.jpg" alt="031020161158" width="300" height="225" class="alignnone size-medium wp-image-1460" />
 <img src="http://elmisterio.org/wp-content/uploads/2016/02/00027-300x225.jpg" alt="00027" width="300" height="225" class="alignnone size-medium wp-image-909" /><img src="http://elmisterio.org/wp-content/uploads/2016/02/04232014589-300x225.jpg" alt="04232014589" width="300" height="225" class="alignnone size-medium wp-image-937" />
 <img src="http://elmisterio.org/wp-content/uploads/2016/02/pecasflute-300x225.jpg" alt="pecas,flute" width="300" height="225" class="alignnone size-medium wp-image-1180" /><img src="http://elmisterio.org/wp-content/uploads/2016/02/kiirtan-300x225.jpg" alt="kiirtan" width="300" height="225" class="alignnone size-medium wp-image-1025" />

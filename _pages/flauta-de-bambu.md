@@ -1,29 +1,4 @@
----
-ID: 1839
-post_title: Proyecto Flauta de Bambú
-author: Quetzal Eckhart
-post_date: 2016-05-20 08:41:22
-post_excerpt: ""
-layout: page
-permalink: http://elmisterio.org/flauta-de-bambu/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <strong>Contemplaciones con la Quena, Quetzal Eckhart</strong>.  Piezas favoritas clasicas y, al final, un poco de musica nuestra.  
 
 Otros Albumes:   
