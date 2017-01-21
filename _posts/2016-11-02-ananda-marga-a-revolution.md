@@ -1,30 +1,4 @@
----
-ID: 3645
-post_title: 'Ananda Marga:  A Revolution?'
-author: Quetzal Eckhart
-post_date: 2016-11-02 15:04:52
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/ananda-marga-a-revolution/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <em>"Ananda Marga does not discriminate between a householder and a sannyasi (renunciant). The place of a chief or head of family in our Ananda Marga is more important than the place occupied by a Sannyasi, on the understanding that the head of the household does not depend on anyone for support, while the Sannyasi has to depend on others.
 
 A householder is like a strong tree that stands by itself, while the Sannyasi is like the vine that wraps around the tree for support. A householder, therefore, deserves more respect than a Sannyasi according to the trend of thought in Ananda Marga.

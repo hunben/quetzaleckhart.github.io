@@ -1,45 +1,4 @@
----
-ID: 96
-post_title: Possession
-author: Quetzal Eckhart
-post_date: 2015-06-24 14:40:44
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/possession/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-diasposter_send_facebook:
-  - "0"
-diasposter_send_tumblr:
-  - "0"
-diasposter_send_twitter:
-  - "0"
-diasposter_send_wordpress:
-  - "0"
-diasposter_use_excerpt:
-  - "0"
-diaspora_aspect_ids:
-  - 'a:1:{i:0;s:11:"all_aspects";}'
----
+
 excerpt from <em><a href="http://elmisterio.org/tantric-rebellion-and-kundalini/">Tantric Rebellion and Kundalini</a></em>
 
 I grew up in the United States of America. I was born in 1972, at the beginning of the country's final decline. Eisenhower tried to warn us about the dangers of the military-industrial complex more than a decade earlier than when I was born. With the secret manipulations of the Vietnam War, President Johnson had just sold out our democracy to the international bankers and multinational corporations that would eventually totally undermine the credibility of our government. This time was roughly the beginning of the end for the U.S. I felt it in my early childhood. My home was a safe haven but sometimes when I was out in the city with my mother I would feel that people were just not happy. I didn't understand why intellectually, but I certainly felt the pervasive depression and ennui of materialistic, capitalist culture. I still have exactly the same feeling when I enter large cities and areas where really mundane people gather.

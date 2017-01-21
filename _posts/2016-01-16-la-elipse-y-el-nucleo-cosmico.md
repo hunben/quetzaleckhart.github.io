@@ -1,16 +1,4 @@
----
-ID: 664
-post_title: La Elipse y el Núcleo Cósmico
-author: Quetzal Eckhart
-post_date: 2016-01-16 08:25:48
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-elipse-y-el-nucleo-cosmico/
-published: true
-nm_members:
-  - ""
----
+
 de "Microvita Y Tantra Maya"
 
 Todo que existe en este universo está en movimiento y cambio. Los Vedas llaman el universo jagat, lo que está en movimiento constante. Como todo el universo está en movimiento, nada permanece igual. La perfección es un ideal trascendente que no se encuentra en el universo físico cambiante. Formas ideales sólo existen en el reino de la imaginación, y no en el mundo físico. Einstein ha demostrado que el camino de un fotón no es directa como sus curvas de trayectoria van lejos de grandes masas gravitatorias, como una estrella. Sutil o crudo, celestial o material, todas las cosas duales en este  Macrocósmos interactúan, empujando y tirando el uno del otro. 

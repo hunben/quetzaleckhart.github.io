@@ -1,18 +1,4 @@
----
-ID: 138
-post_title: El Corazón Espiritual
-author: Quetzal Eckhart
-post_date: 2015-11-25 15:24:30
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/el-corazon-espiritual/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/daggers-2-300x225.jpg" alt="daggers" width="300" height="225" class="alignnone size-medium wp-image-516" />
 
 Por examinar el corazón espiritual podemos entender las razones por las limitaciones del concepto

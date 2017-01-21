@@ -1,39 +1,4 @@
----
-ID: 3763
-post_title: >
-  The Initiation of Kulkulan, Ch.1 of
-  Tantric Rebellion and Kundalini
-author: Quetzal Eckhart
-post_date: 2016-11-21 16:25:33
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-initiation-of-kulkulan/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-al2fb_facebook_link_id:
-  - 169760833493975_171701536633238
-al2fb_facebook_link_time:
-  - 2016-11-21T16:25:42+00:00
-al2fb_facebook_link_picture:
-  - >
-    post=http://elmisterio.org/wp-content/uploads/2016/10/quetzal.jpeg
----
+
 Excerpt from <a href="http://elmisterio.org/tantric-rebellion-and-kundalini/">Tantric Rebellion and Kundalini</a>
 
 

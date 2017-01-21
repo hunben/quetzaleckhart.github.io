@@ -1,30 +1,4 @@
----
-ID: 2179
-post_title: COCA-COLA CONSCIOUSNESS
-author: Quetzal Eckhart
-post_date: 2016-07-26 09:10:16
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/coca-cola-consciousness/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 I recently saw a very wealthy Mexican with connections to one of the most sinister multinational corporations. He has always been nice as a person to me, however I was always curious how a man can be good to a few people but be a villain to the rest of human society and mother nature. I suppose my curiosity kept me from feeling duplicitous that I could have such a friend. “Maybe he is different? Maybe if we could just convince some of the elite to be more humane?, He does practice yoga, maybe he can wake up?,” were my inner thoughts. On our last meeting our group of friends was openly discussing how the wealthy and powerful are actually exterminating humanity in a highly organized manner. The over-concentration of wealth, overpopulation, environmental crisis, and rampant degeneration of the exploited masses has left no other alternative for the elite than to start planning wars and making enemies all over the globe. Nobody denied it was happening. Most expressed how appalled they were with such a world as ours. My rich friend remained quiet.  I personally confessed my horror stories while recently living in northern Mexico surrounded by narco extermination camps where they steal immigrants from the trains and buses and are never seen again.  I knew that the system was responsible for these highly organized activities.  Anybody who reported these activities to the military or police simply disappeared.  I started to write about this on the decentralized social network of Diaspora as I was always getting hacked on Facebook.
 
 The next morning the conversation continued. For argument sake, I tried to take the side of an American elite, imagining the thought system of old friends from college who took the path of ascension into the capitalist Hydra. I was really being absurd and ridiculous. I said that “the educated people in the U.S. know their life-style depends on the destruction of others. It isn’t that we are essentially evil, rather it is that our materialistic life-style simply demands such actions. Captialist imperialism can function in no other manner than to subvert and subjugate the autonomy and democracy of others. We must have our enemies and our wars to rob others of their resources if we want to maintain our material “freedom.””

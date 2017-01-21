@@ -1,29 +1,4 @@
----
-ID: 103
-post_title: La Madre Divina
-author: Quetzal Eckhart
-post_date: 2012-06-25 14:56:14
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/la-madre-divina/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 
  "<img src="http://elmisterio.org/wp-content/uploads/2015/12/virgenzapatista-225x300.jpg" alt="virgenzapatista" width="225" height="300" class="alignnone size-medium wp-image-504" />
 El año antepasado estaba en la cúspide de esta llamada "Guerra Contra el Narco" en el norte de México. Los narcos controlan toda la región y el pueblo local. Había un centro de comando a 2 km de nuestra casa donde había cráneos humanos colgados en la cerca. Muchos de los hombres locales fueron contratados como exploradores miradores para informarles si no iba a haber un ataque. Los habitantes de la aldea eran muy indigentes y pobres. Muchas familias tenían comida y ropa inadecuada , mientras que los hombres gastan su dinero en cerveza o piedra.

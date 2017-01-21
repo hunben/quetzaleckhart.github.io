@@ -1,30 +1,4 @@
----
-ID: 3922
-post_title: La Duplicidad
-author: Quetzal Eckhart
-post_date: 2016-11-29 03:16:02
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/duplicidad/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
-Extracto de <a href="http://elmisterio.org/anahata-espanol/">Anahata</a>
+
 
 Si hubo alguna vez un escondite favorito para <a href="http://elmisterio.org/el-psorax/"><em><strong>psorax</strong></em></a> en la mente humana, que debe estar en el vórtice o vrtti de duplicidad. Recordemos que psorax es el término que <strong><a href="http://elmisterio.org/4-cuentos-sobre-pluma-blanca/"><em>Pluma Blanca</em></a></strong> se refirió a como la fuerza centrípeta o la fuerza de regreso en el universo siempre empuja contra y al parecer castiga movimientos microcosmicos, externas que no están en armonía con las acciones originales y equilibradas del Macrocósmos. La proyección hacia el exterior frustrado sigue siendo alojada en el cuerpo y la mente como un picor constante debajo de la piel, o algo mucho peor. Todo que ha hecho la mente sigue pesando contra ella en el presente. Sólo en la mente microcósmica espiritualmente ignorante hay una necesidad de este acto de compensación para poner el universo de nuevo en orden después de que lo distorsionamos con nuestra voluntad impulsivo. 
 

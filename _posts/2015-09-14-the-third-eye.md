@@ -1,29 +1,3 @@
----
-ID: 125
-post_title: The Third Eye
-author: Quetzal Eckhart
-post_date: 2015-09-14 15:01:02
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/the-third-eye/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
 
 
 The Ajina Vortex is beyond the effects of the Causal Mind.  Above the eternal activity of generating, operating, and dissolving the universe, the Mind of Brahma knows itself as pure Mind.  Although there is still the presence of mind, the mind is governed by the deepest part of its subjective chamber, the Mahat.  When the mind is free of the eternal activity of the Causal  Mind, it can then further introvert itself and focus on its fundamental identity.  The Ajina Vortex is the stage in which the mind is totally free from relative objects and can truly understand its nature.  The more the feeling of Mahat or “I” dominates the mind, the closer it is to the pure and unconditioned Self, or Shiva.

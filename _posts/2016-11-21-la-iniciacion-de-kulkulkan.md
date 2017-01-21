@@ -1,37 +1,4 @@
----
-ID: 3765
-post_title: La Iniciación de Kulkulkan
-author: Quetzal Eckhart
-post_date: 2016-11-21 16:41:16
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-iniciacion-de-kulkulkan/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-al2fb_facebook_link_id:
-  - 169760833493975_171709556632436
-al2fb_facebook_link_time:
-  - 2016-11-21T16:41:24+00:00
-al2fb_facebook_link_picture:
-  - >
-    post=http://elmisterio.org/wp-content/uploads/2016/10/quetzal.jpeg
----
+
 extracto de <a href="http://elmisterio.org/la-rebeldia-tantrica-y-el-kundalini/">La Rebeldia Tantrica Y El Kundalini</a>
 
 Me inicié en el Tantra Yoga en 1993. Fui instruido en la tradición de Rajadhiraja, una muy pura y secreta, por un yogui indio muy hábil, un discípulo de Anandamurti. Unos meses después, el kundalini en mi comenzó con lo que sería un despertar muy largo e intenso. Como un estudiante de psicología y literatura mundial, había oído hablar del kundalini y otras energías

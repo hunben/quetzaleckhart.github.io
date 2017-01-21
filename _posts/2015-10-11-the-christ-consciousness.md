@@ -1,36 +1,3 @@
----
-ID: 3264
-post_title: 'The Christ Consciousness &#8211; Oratorio'
-author: Quetzal Eckhart
-post_date: 2015-10-11 08:37:19
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-christ-consciousness/
-published: true
-war_soundy_enable_bg_sound:
-  - 'yes'
-war_soundy_enable_pp_corner:
-  - 'yes'
-war_soundy_audio_file_url:
-  - >
-    http://elmisterio.org/wp-content/uploads/2016/10/christmas-oratorio-1.mp3
-war_soundy_audio_type:
-  - audio/mpeg
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - 'yes'
-war_soundy_loop:
-  - 'yes'
----
-[soundy button]
-
-<a href="http://elmisterio.org/la-consciencia-cristica/">traduccion en espanol</a>
-
-Download Featured Music: [download id="3425"]
 
 When I was young I was very curious as to whether Christ really existed as a human being or was a deeper, more universal, spiritual archetype embedded in human consciousness.  This question and curiosity disappeared as I began to meditate and understand that divine grace is always present behind the tranquil mind. I understood that the divine was in the formless I-Witness of the mind, and not some human image. This Conscious Witness is what yogis call the Atman. Words and concepts and even the highest philosophy cannot trap the infinite within their limits. What I longed for was this harmony and union with the essential inner light instead of a standardized conception of “god” which always seems to go along with some kind of acceptance of religion, cult or tradition. 
 

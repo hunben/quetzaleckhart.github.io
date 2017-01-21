@@ -1,31 +1,4 @@
----
-ID: 3690
-post_title: El Esfuerzo y El Afecto
-author: Quetzal Eckhart
-post_date: 2016-11-17 15:12:10
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/el-esfuerzo-y-el-afecto/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
--extracto de <a href="http://elmisterio.org/anahata-espanol/">Anahata</a>
+
 
 El corazón espiritual es el Anahata. Anahata significa "no agarrarse." Es el
 nivel intuitivo de la mente que empieza a entender que hay una

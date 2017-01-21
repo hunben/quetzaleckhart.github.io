@@ -1,17 +1,4 @@
----
-ID: 154
-post_title: La Mente Pura
-author: Quetzal Eckhart
-post_date: 2015-11-01 15:31:20
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/la-mente-pura/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/mandala-2-300x200.jpg" alt="mandala" width="300" height="200" class="alignnone size-medium wp-image-526" />
 En la etapa actual de evolución humana es muy
 difícil encontrar individuos, mucho más sociedades, que

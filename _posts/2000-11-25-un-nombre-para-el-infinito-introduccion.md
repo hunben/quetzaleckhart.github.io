@@ -1,30 +1,3 @@
----
-ID: 50
-post_title: 'Un Nombre Para El Infinito &#8211; Introduccion'
-author: Quetzal Eckhart
-post_date: 2000-11-25 14:22:18
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/un-nombre-para-el-infinito-introduccion/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
 
 
 Me inicié en el Tantra Yoga en 1993. Fui instruido en

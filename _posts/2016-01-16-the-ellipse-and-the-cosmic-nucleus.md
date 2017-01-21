@@ -1,16 +1,4 @@
----
-ID: 662
-post_title: The Ellipse and the Cosmic Nucleus
-author: Quetzal Eckhart
-post_date: 2016-01-16 08:19:17
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-ellipse-and-the-cosmic-nucleus/
-published: true
-nm_members:
-  - ""
----
+
  from Microvita and Tantra Maya
 
 	Everything in this universe is in constant change.  The Vedas call the universe jagat, that which is in constant movement.  As the whole universe is in movement, nothing ever remains the same.  Perfection is a transcendent ideal not to be found in the physical, changing universe.  Euclidean forms only exist in the realm of imagination, and not in the physical world.  Einstein has even shown that the path of a photon is not direct as its trajectory curves away from large, gravitational bodies like a star.  All things in this Macrocosm interact by pushing  and pulling on each other. 

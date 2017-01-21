@@ -1,33 +1,4 @@
----
-ID: 95
-post_title: La Memoria
-author: Quetzal Eckhart
-post_date: 2010-02-25 14:51:42
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/la-memoria/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/Chandranath-2-300x204.jpg" alt="Chandranath" width="300" height="204" class="alignnone size-medium wp-image-507" />
 La memoria es la capacidad de recordar acontecimientos que ya han sucedido. Una memoria debil es como la arena movediza y no puede ni siquiera recordar lo que realmente sucedió. Es como un mentiroso que realmente comienza a creer y contar mentiras hasta el punto que ni siquiera se recuerda como la mentira. Una memoria buena es honesto y recuerda cada pensamiento y emoción, ya sea el más sublime y divino o el más oscuro y mortífero. Pero, ¿qué sucede cuando intentamos recordar eventos donde desaparecen todos los pensamientos, estos momentos de iluminación cuando no hay duda, sin miedo, sin argumentos y tu eres como realmente eres? 
 

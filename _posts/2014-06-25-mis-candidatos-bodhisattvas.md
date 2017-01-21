@@ -1,30 +1,4 @@
----
-ID: 105
-post_title: Mis Candidatos Bodhisattvas
-author: Quetzal Eckhart
-post_date: 2014-06-25 14:57:06
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/mis-candidatos-bodhisattvas/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/camus-2.jpg" alt="camus" width="132" height="186" class="alignnone size-full wp-image-512" />
 La verdadera visión espiritual a través del medio de las formas mentales sublimes es una verdadera
 forma de la gracia divina. Es un iluminación y lluvia de pensamiento y sentimiento elevado de que ha

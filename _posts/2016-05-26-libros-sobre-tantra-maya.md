@@ -1,30 +1,4 @@
----
-ID: 2034
-post_title: Libros sobre Tantra Maya
-author: Quetzal Eckhart
-post_date: 2016-05-26 08:46:16
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/libros-sobre-tantra-maya/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2016/04/portadawilliam-203x300.png" alt="portadawilliam" width="203" height="300" class="alignnone size-medium wp-image-1990" />
 <strong>Un Nombre Para el Infinito</strong>. Primer libro de 1996. Un explicacion psicologico de la practica y filosofia de tantra. [download id="1862"]
 

@@ -1,14 +1,3 @@
----
-ID: 92
-post_title: 'Microvita Y Tantra Maya c.9 &#8220;Microvita y el Estado Actual en el Planeta Tierra&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-11-10 14:49:50
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-y-tantra-maya-c-9-microvita-y-el-estado-actual-en-el-planeta-tierra/
-published: true
----
 
 
 El tiempo en el que vivimos hoy en día es sin duda el momento más crucial en la historia del planeta. Sin duda ha sido un gran mal y la distorsión del dharma en la historia de este planeta. Pero nunca ha sido tan universal, efectuar todo el planeta y sus plantas , animales y seres humanos. El materialismo moderno ha permitido seres humanos el dominio de la naturaleza y la esclavización de la humanidad. Una cultura material global ha sido creado que hace que sea difícil ver el sspíritu en las cosas. La mayoría de los seres humanos se envolvió en su existencia física. El "privilegiados" están involucrados en la búsqueda de sus comodidades materiales. La mayoría, por el contrario, están luchando para comer y obtener productos de primera necesidad. ¿Dónde están los seres humanos que todavía tienen un poco de humanidad? Recordemos la palabra sánscrita para el ser humano, manusa, el ser que es preponderante menta. Yo no quiero decir que la mayoría de la humanidad es totalmente malo, más bien, que la mayoría son tan distraídos y tienen muy pocas alternativas justas para la existencia. Por otra parte, yo no quiero que el término "distraído" para aligerar la gravedad de la situación. Cuando la mente se mueve hacia la materia se degenera poco a poco. Con la mayoría de los seres humanos e; pensar, sentir y actuar sobre todo en el mundo material con una tendencia definida de la degeneración. En lugar de la mente en movimiento en el flujo de la evolución, o Pratisaincara. hay una evolución negativa, o Pratisaincara negativo.

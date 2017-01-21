@@ -1,29 +1,4 @@
----
-ID: 2678
-post_title: Ananda Marga Inc.
-author: Quetzal Eckhart
-post_date: 2013-05-08 06:38:37
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/ananda-marga-inc/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 "No somos burros. La gente de todo el mundo saben que no se pueden patentar un mantra!" - Mayo 2013
 
 <a href="http://elmisterio.org/the-headkick-headtrick-tantra/">English original - publicacion original en ingles</a>

@@ -1,30 +1,4 @@
----
-ID: 73
-post_title: 'Microvita Y Tantra Maya Introduccion y Cap.1 &#8220;La Elipse y Hunab Ku&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-11-02 14:41:01
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-y-tantra-maya-c-1-la-elipse-y-hunab-ku/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 Escribí esta obra  como la parte final de mi primera obra publicado, Un Nombre Para el Infinito.  Decidí que era un poco demasiado divergente del material de la parte principal de la obra. He decidido por lo tanto publicarlo como una obra separado. Incluido son algunas partes de Un Nombre Para el Infinito como una introducción a la obra corriente sobre Microvita. Las partes de Un Nombre Para el  Infinito ayudarán al lector a entender más fácilmente el tratado de Microvita.
 
 Escuché sobre el concepto de Microvita por primera vez en 1993. Anandamurti acababa de dejar su cuerpo físico unos años antes. La gente esperó que hubiera sido capaz de exponer mas en este sujeto nuevo, revolucionario sobre el cual sólo comenzó a hablar en los últimos años de su vida. Sin embargo, era capaz de establecer cierto marco teórico para mentes muy intuitivas para estudiar. Esta base teórica ayuda a orientar la intelecto inquisitiva en la dirección correcta. Según gran Tantric preceptors, como Anandamurti, hay métodos sutiles y los modelos teóricos, o pratima, que son creados por mentes muy intuitivas con el diseño de ayudar a las mentes creativas y conceptuales de los estudiantes a cavar en los secretos de la Mente Intuitiva.

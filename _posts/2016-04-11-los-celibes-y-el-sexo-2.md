@@ -1,30 +1,4 @@
----
-ID: 1626
-post_title: Los Célibes y el Sexo
-author: Quetzal Eckhart
-post_date: 2016-04-11 11:24:19
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/los-celibes-y-el-sexo-2/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 La sexualidad es uno de los temas menos entendidos en la vida humana. La sexualidad es parte de la vida de todos, pero pocos han encontrado una solución tranquilo para este instinto tan tenaz.
 
 Hay tanto sufrimiento causado por la sexualidad ciego. Así que muchas mujeres son abandonadas con los niños por los hombres cuyos instintos animales pronto tiran de ellos en otro lugar después de un poco de gratificación sensorial. El rastro de trauma para la mujer puede continuar como ella tiene que luchar para cuidar al niño que ha sido abandonado tambien. O tal vez eran los deseos de ella insatisfechos o frustrados que causaron la separtion para empezar. Una cosa es cierta, y es que hay cada vez menos ejemplos de coexistencia armónica en asuntos sexuales e emocionales humanos. Como una cultura que hemos vuelto a la edad de piedra en respecta a la sexualidad; sólo no tenemos giraffas y rinocerontes para perseguir y cazar con el fin de canalizar esta energía y darnos un poco de alivio.

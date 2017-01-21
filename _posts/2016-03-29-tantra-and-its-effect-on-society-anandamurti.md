@@ -1,30 +1,4 @@
----
-ID: 1533
-post_title: Tantra and Its Effect on Society
-author: Quetzal Eckhart
-post_date: 2016-03-29 10:19:06
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/tantra-and-its-effect-on-society-anandamurti/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 
 What is Tantra? The process of transforming [latent divinity] into the Supreme Divinity is known as Tantra sádhaná. The sleeping divinity in animality is termed, in the language of spiritual aspirants, the kulakuńd́alinii. So we find that actually the spirit of Tantra sádhaná lies in infusing a [vibration] in the kulakuńd́alinii and pushing her up towards the spiritual goal.
 The significance of the term tantra is “liberation from bondage [the bondage of dullness, or staticity]”. The letter ta is the seed [sound] of dullness. And the root verb trae suffixed by d́a becomes tra, which means “that which liberates” – so the spiritual practice which liberates the aspirant from the dullness or animality of the static force and expands the aspirant’s [spiritual] self is Tantra sádhaná. So there cannot be any spiritual practice without Tantra. Tantra is sádhaná.

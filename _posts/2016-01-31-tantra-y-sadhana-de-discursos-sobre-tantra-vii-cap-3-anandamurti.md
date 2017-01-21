@@ -1,33 +1,3 @@
----
-ID: 1539
-post_title: >
-  Tantra y Sadhana de Discursos Sobre
-  Tantra VII, Cap.3
-author: Quetzal Eckhart
-post_date: 2016-01-31 13:57:07
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/tantra-y-sadhana-de-discursos-sobre-tantra-vii-cap-3-anandamurti/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
-
 
 El Culto Práctico de Espiritualidad 
 

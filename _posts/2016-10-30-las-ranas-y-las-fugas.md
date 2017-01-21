@@ -1,47 +1,4 @@
----
-ID: 3626
-post_title: Las Ranas Y Las Fugas
-author: Quetzal Eckhart
-post_date: 2016-10-30 18:07:57
-post_excerpt: |
-  Las lluvias del desierto se detienen. Los grillos se unen a las ranas en fuga.
-  Cavamos nuestras trincheras que traen agua para los árboles,
-  aves, insectos y animales de todas partes.
-  Nuestra casa es una isla de esperanza para muchos ahora.
-  Pero el mundo y sus intereses nos invaden.
-  ¡Que el espíritu y la naturaleza nos protejan!
-  Nuestras trincheras ahora son una defensa en la guerra
-  contra los de arriba que nos aniquilan, a los de abajo.
-  ¿Cómo puede cualquier mal vivir más que esta creación eterna, siempre nueva?
-  Ten cuidado de dañar a los de abajo, pues qué tan abajo va la consciencia,
-  de aquellos que escuchan las ranas y las fugas
-layout: post
-permalink: >
-  http://elmisterio.org/las-ranas-y-las-fugas/
-published: true
-war_soundy_enable_bg_sound:
-  - 'no'
-war_soundy_enable_pp_corner:
-  - 'no'
-war_soundy_audio_file_url:
-  - >
-    http://elmisterio.org/wp-content/uploads/2016/10/Gavotte-Minuet.mp3
-war_soundy_audio_type:
-  - audio/mpeg
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - 'yes'
-war_soundy_loop:
-  - 'yes'
----
-[embedyt] http://www.youtube.com/watch?v=TKPU_G-uE6c[/embedyt]
 
-
-
-[download id="3446"]
 
 
 English original - <em><a href="http://elmisterio.org/frogs-and-fugues-audio/">Frogs and Fugues</a></em><strong>

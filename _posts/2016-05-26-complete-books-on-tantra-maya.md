@@ -1,30 +1,4 @@
----
-ID: 2031
-post_title: Complete Books on Tantra Maya
-author: Quetzal Eckhart
-post_date: 2016-05-26 08:44:04
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/complete-books-on-tantra-maya/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/williamcoverenglish-188x300.png" alt="williamcoverenglish" width="188" height="300" class="alignnone size-medium wp-image-1986" />
 <strong>A Name to the Nameless</strong>.  First work that began in 1996.  A psychological explaination of tantric meditation and philosophy. [download id="1857"]
 

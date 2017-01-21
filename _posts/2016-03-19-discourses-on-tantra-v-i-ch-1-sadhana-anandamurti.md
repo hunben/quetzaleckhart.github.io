@@ -1,32 +1,4 @@
----
-ID: 1473
-post_title: >
-  Discourses on Tantra v.I ch.1
-  Sádhaná
-author: Quetzal Eckhart
-post_date: 2016-03-19 17:50:17
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/discourses-on-tantra-v-i-ch-1-sadhana-anandamurti/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 
 
 This is Anandamurti’s first discourse on Tantra. It is a good reference for those who have never heard of a pure and spiritual definition of tantra. I left the spiritual society of A.M. a long time ago but I always return to these works to remind me of the truth that has been lost in the interpretations of his philosophy. Anandamurti was a genius and preserved his work in clearly defined philosophical concepts that are quite illuminating regardless of one’s beliefs and opinions about spirituality.

@@ -1,30 +1,4 @@
----
-ID: 1792
-post_title: The Gate to Hunab Ku
-author: Quetzal Eckhart
-post_date: 2016-05-17 08:41:53
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-gate-to-hunab-ku/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 Introduction from "<a href="http://elmisterio.org/anahata-english-audio/">Anahata</a>."
 
 The Anahata Is The Gate to Hunab Ku

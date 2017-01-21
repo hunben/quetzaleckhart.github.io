@@ -1,20 +1,4 @@
----
-ID: 439
-post_title: '&#8220;Cuentos Extraños de Microvita&#8221;'
-author: Quetzal Eckhart
-post_date: 2015-12-14 21:17:38
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/cuentos-extranos-de-microvita/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-nm_members:
-  - ""
----
+
 <strong>Microvita Y Tantra Maya c.11 "Cuentos Extraños de Microvita"
 </strong>
 Los capítulos anteriores han sido el resultado de años de estudio. Escribí

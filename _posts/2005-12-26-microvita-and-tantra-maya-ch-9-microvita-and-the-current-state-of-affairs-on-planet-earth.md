@@ -1,14 +1,3 @@
----
-ID: 52
-post_title: 'Microvita and Tantra Maya ch.9 &#8220;Microvita and the Current State of Affairs on Planet Earth&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-12-26 14:09:59
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-and-tantra-maya-ch-9-microvita-and-the-current-state-of-affairs-on-planet-earth/
-published: true
----
 
 
 

@@ -1,15 +1,4 @@
----
-ID: 70
-post_title: 'Un Nombre Para El Infinito Cap.9 &#8220;Sadhana&#8221;'
-author: Quetzal Eckhart
-post_date: 2015-12-06 14:37:21
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/un-nombre-para-el-infinito-parteiii-sadhana/
-published: true
----
----
+
 title: "Un Nombre Para El Infinito parteIII "Sadhana"
 
 

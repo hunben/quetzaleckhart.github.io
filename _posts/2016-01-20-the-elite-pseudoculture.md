@@ -1,45 +1,4 @@
----
-ID: 698
-post_title: The Elite Pseudoculture
-author: Quetzal Eckhart
-post_date: 2016-01-20 10:28:37
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-elite-pseudoculture/
-published: true
-nm_members:
-  - ""
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-diasposter_send_facebook:
-  - "0"
-diasposter_send_tumblr:
-  - "0"
-diasposter_send_twitter:
-  - "0"
-diasposter_send_wordpress:
-  - "0"
-diasposter_use_excerpt:
-  - "0"
-diaspora_aspect_ids:
-  - 'a:1:{i:0;s:11:"all_aspects";}'
----
-some new editions to a former essay, "The Elite."
+
 
 My mother once told me of an incident when she was with her mother in a grocery store in Alabama in the early sixties. They arrived at the end of the check-out line. The people waiting in front of them were all black ladies who were waiting for their turn to pay at the register. As convention would have it, the ladies left their position and tried to get behind my grandmother at the end of the line. My grandmother wouldn’t let them. She said that they were there first and that they should go ahead of her. The other white people were offended by this. What is another white person coming in here for and breaking the rules of our established order?, they said. This happened in the early sixties before the Civil Rights Movement.
 

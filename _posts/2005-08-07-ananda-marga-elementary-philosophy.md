@@ -1,33 +1,4 @@
----
-ID: 2543
-post_title: Ananda Marga
-author: anonymous contributor
-post_date: 2005-08-07 10:20:02
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/ananda-marga-elementary-philosophy/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
-<a href="http://elmisterio.org/filosofia-primaria-de-ananda-marga-anandamurti/">traduccion en espanol</a>
-This is the work that defines the essence of Ananda Marga as a spiritual philosophy.  It is the orignal series of talks by Anandalmurti titled "Ananda Marga."
-[download id="2639"]
+
 
  Ch.1 - What Is Dharma?
 

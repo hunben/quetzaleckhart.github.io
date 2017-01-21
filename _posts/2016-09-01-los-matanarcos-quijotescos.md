@@ -1,33 +1,4 @@
----
-ID: 2905
-post_title: Los Matanarcos Quijotescos
-author: Quetzal Eckhart
-post_date: 2016-09-01 10:34:03
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/los-matanarcos-quijotescos/
-published: true
-war_soundy_enable_bg_sound:
-  - 'yes'
-war_soundy_enable_pp_corner:
-  - 'yes'
-war_soundy_audio_file_url:
-  - >
-    http://elmisterio.org/wp-content/uploads/2016/02/bailedelosespiritusbendecidas.mp3
-war_soundy_audio_type:
-  - audio/mpeg
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - 'yes'
-war_soundy_loop:
-  - 'yes'
----
-[download id="3434"]
-[soundy button]
+
 Ya Tantra Maya tiene muchos escritos.  Estamos uniendo los cortos en los largos de la misma tema.  El siguiente es una fusion de Un Requiem Para Un Narco y La Mirada del Asesino y la Mente de Buda.
 
 <em>O yogui, sentarse en posición de loto bajo el neem sagrado y juntos hagan una fuerza consciente impenetrable con la naturaleza. Los soldados de la muerte recibirán una gran bendición de su práctica. Luz infinita, blanca quema y penetra y enciende su oscuridad. Una reacción inmediata sacude su mundo. Los que se dieron tanto terror pueden morir en el terror de la Madre Kali, protector del planeta y de los yoguis. En las próximas embriones que habitara’n terminarán su recapitulación biologico con branquias y aletas.  Nadarán en aguas sucias tomando orines de otros pescados.

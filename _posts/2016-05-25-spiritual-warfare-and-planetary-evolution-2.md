@@ -1,32 +1,4 @@
----
-ID: 724
-post_title: >
-  Spiritual Warfare And Planetary
-  Evolution
-author: Quetzal Eckhart
-post_date: 2016-05-25 01:59:14
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/spiritual-warfare-and-planetary-evolution-2/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 “The harmful internal consequences of over-industrialization not only affect the personal, social and national health of the people, they also precipitate gradual individual and collective psychic degeneration. A type of psychic epidemic may arise which can poison almost all expressions of life and destroy them. This may not happen today, but it will surely happen in the very near future.” - Anandamurti
 
 The following statement sounds fantastic to the materialist. However, Anandamurti always spoke about all subjects- economy, ecology, politics, etc., from a very spiritual perspective. If the universe has a subtle, spiritual counterpart that controls the material world, and if the universe is moral, then perhaps this statement may seem plausible. Any living, intelligent system has defense mechanisms that protect itself from illness. If the universe is really conscious and a living entity in itself, then one should see this statement as a great warning to materialists with their ill-conceived concept of dominating, controlling and eventually destroying a world they really have no true connection with, a world that is in no way an Earth Mother for them. Can our mental distortions and errors actually generate psychic epidemics?  Can the human race generate reactions that attack us not just from our physical environment, but also from our internal mental environment as well?  The question is a practical one, finally, in that one has to investigate these spiritual question in the mental laboratory. If you don’t figure it out, then you may not survive the upcoming and inevitable natural selection process.

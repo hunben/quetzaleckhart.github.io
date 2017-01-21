@@ -1,33 +1,4 @@
----
-ID: 3687
-post_title: Endeavor and Affection
-author: Quetzal Eckhart
-post_date: 2016-11-17 15:08:16
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/endeavor-and-affection/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
 
-
-- excerpt from <strong><a href="http://elmisterio.org/anahata/">Anahata</a></strong>
 
 The spiritual heart is the Anahata Vortex. Anahata means “not holding.”
 It is the intuitive level of mind that begins to understand that there is an

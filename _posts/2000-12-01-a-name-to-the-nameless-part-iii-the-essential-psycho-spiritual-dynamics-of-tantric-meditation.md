@@ -1,30 +1,4 @@
----
-ID: 28
-post_title: 'A Name to the Nameless Ch.8, &#8220;The Essential Psycho-Spiritual Dynamics of Tantric Meditation&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-12-01 13:44:53
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/a-name-to-the-nameless-part-iii-the-essential-psycho-spiritual-dynamics-of-tantric-meditation/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <strong>
 Part III:  Sadhana- Spiritual Practice</strong>
 Parts one and two gave a theoretical outline of the functioning of the human mind and its evolutionary status in relation to the cosmos.  Its general structure, laws and dynamics were discussed in a theoretical manner.  This section will deal with the practical approach to understanding the spiritual evolution of mind and personality.  Rather than further explaining the theoretical structure of mind, this section will focus on the spiritual disciplines that facilitate the development of mind.  In fact, Tantric meditation, as Anandamurti has stated, is 99% practice and 1% theory.  The study of theoretical metaphysics and psychology in Tantra is but a preparation for the intuitive practice of Tantra.  However, when seen as a preparatory tool to foster intuitive practice, theoretical study in fact becomes a practical exercise for the development of mind rather than mere abstract musing.  The purpose of the pursuit of knowledge is to directly experience spiritual realities, rather than merely philosophizing about them.  Tantra is therefore a “mystical empiricism”.

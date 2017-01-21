@@ -1,14 +1,4 @@
----
-ID: 26
-post_title: 'A Name to the Nameless part II ch.7  &#8220;The Sahasrara Vortex&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-11-30 13:43:33
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/a-name-to-the-nameless-part-ii-ch-7-the-sahasrara-vortex/
-published: true
----
+
 
 In Tantra Maya there is only one vortex. It is what corresponds to the
 Sahasrara Chakra in Indian Tantras. It is called Hunab Ku, and is considered

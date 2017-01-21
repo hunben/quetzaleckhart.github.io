@@ -1,30 +1,4 @@
----
-ID: 18
-post_title: 'A Name to the Nameless partII ch.3 &#8220;The Manipura Vortex&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-11-26 13:38:46
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/a-name-to-the-nameless-partii-ch-3-the-manipura-vortex/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 The Svadhistana Vortex’s main function is to secure the emerging sense of identity from the womb of unconsciousness and blind instinct, which characterize the pre-conscious and pre-human mind at the Muladhara, Sensory Mind. Once a secure base for the personality is established in a balanced Svadhistana Vortex, the personality can begin to expand and encounter new qualities and experiences. Here we see the continued expansion of artha vrtti and the effort to expand the Conceptual Mind so as to acquire a greater degree of meaningful psychological development. The higher expressions of artha are unable to express themselves completely in the Svadhistana due to the primary activity of maintaining and securing the psychological grounding of the identity. Once there is a stable emotional foundation the personality can flourish and expand.
 
 The literal meaning of the Sanskrit word artha is relief or alleviation. It refers to the relief one gets after the struggle to find the name of an object whose name is unknown. This unknowing creates a tension in the mind that impels the mind to seek equilibrium by finding the meaning of something in order to give classification to that which is not understood. When the meaning or definition is found there is a sense of relief as the mental equilibrium is restored. In other words, artha is the willful endeavor of the intellect to acquire form and meaning for both the self and its world, an activity not quite possible for the second vortex due to its occupation with primary self-establishment. The fundamental need at the Manipura Vortex the need for novel, creative self-definition. This need is directed toward social and creative activities instead of being occupied with basic emotional and existential security.

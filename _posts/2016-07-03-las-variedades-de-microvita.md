@@ -1,30 +1,4 @@
----
-ID: 2146
-post_title: Las Variedades de Microvita
-author: Quetzal Eckhart
-post_date: 2016-07-03 12:22:36
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/las-variedades-de-microvita/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 extracto de Microvita Y Tantra Maya 
 
 Anandamurti habló de Microvita en varios aspectos. Describió las formas más grosas de Microvita involucrados en la materialización y la manipulación de las fuerzas materiales, así como las formas más sutiles de microvita que funcionan en los planos psicico-espirituales del ser. El enfoque de este trabajo será principalmente en la función de microvita en los planos psicico-físicos, psíquicos y psico-espirituales de la mente. Debido que la Microvita es un término tan amplio y generalizado que incluye tantos tipos de mentes incorpóreas microcósmicas, me referiré a las entidades que se relacionan con humanos en los planos mentales y espirituales de la mente como “mentidades” o “mental entities “. Admito que mi conocimiento de estas entidades sutiles en estos niveles es todavía primaria, y todavía no he investigado la función de microvita en el nivel físico y estoy aún menos capaz de tratar de hablar de las ellos.

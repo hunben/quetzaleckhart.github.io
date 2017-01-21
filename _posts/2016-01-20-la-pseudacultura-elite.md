@@ -1,32 +1,4 @@
----
-ID: 700
-post_title: La Pseudacultura de la Elite
-author: Quetzal Eckhart
-post_date: 2016-01-20 10:52:17
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-pseudacultura-elite/
-published: true
-nm_members:
-  - ""
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 edicion al ensayo anterior, "La Elite." 
 
 Mi madre una vez me contó un incidente cuando ella estaba con su madre en un supermercado en Alabama en los años sesenta. Llegaron al final de la línea de salida. Las personas que esperaban frente a ellos eran todas las mujeres negras que estaban esperando su turno para pagar en la caja. Como convención tendría, las damas dejaron su posición y trató de ir detrás de mi abuela al final de la línea. Mi abuela no quiso dejarlos. Ella dijo que estaban allí en primer lugar y que deben ir por delante de ella. Los otros blancos se sintieron ofendidos por esto. “Por que otra persona blanca entra aquí para romper las reglas de nuestra orden establecido?,” dijeron ellos. Esto ocurrió a principios de los años sesenta antes el Movimiento de Derechos Civiles.

@@ -1,40 +1,4 @@
----
-ID: 3839
-post_title: El Discernimiento y La Depresión
-author: Quetzal Eckhart
-post_date: 2016-11-25 14:18:37
-post_excerpt: |
-  Mientras estemos encarnados en esta forma humana que pasa a través de
-  las experiencias necesarias del alma en este mundo, debemos conocer y
-  cultivar las tendencias positivas de la mente que nos ayudan a ampliar y
-  adaptar a este mundo relativo sin olvidar nunca que nuestro verdadero
-  hogar está en el espíritu. Debemos distinguir entre lo relativo y lo absoluto,
-  entre finito e infinito. El mundo no es intrínsecamente corrupto,
-  simplemente no hemos aprendido cómo manejarnos a nosotros mismos. No
-  hemos aprendido a economizar la naturaleza infinita de deseo.
-layout: post
-permalink: >
-  http://elmisterio.org/el-discernimiento-y-la-depresion/
-published: true
-war_soundy_enable_bg_sound:
-  - null
-war_soundy_enable_pp_corner:
-  - null
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - null
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - null
-war_soundy_loop:
-  - null
-xyz_fbap:
-  - "1"
----
+
 <strong>La Dinámica de “Ca” y “Cha” en el Discernimiento y la Depresión</strong>
 
 En la fase de involución, Shiva, la conciencia infinita, ha sido

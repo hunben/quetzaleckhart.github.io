@@ -1,44 +1,4 @@
----
-ID: 2999
-post_title: >
-  Near Death, Collective Kundalini
-  Awakening, and the Future of Humanity
-author: Quetzal Eckhart
-post_date: 2016-09-23 16:19:53
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/near-death-collective-kundalini-awakening-and-the-future-of-humanity/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-diasposter_send_facebook:
-  - "0"
-diasposter_send_tumblr:
-  - "0"
-diasposter_send_twitter:
-  - "0"
-diasposter_send_wordpress:
-  - "0"
-diasposter_use_excerpt:
-  - "0"
-diaspora_aspect_ids:
-  - 'a:1:{i:0;s:11:"all_aspects";}'
----
+
 Anandamurti, in a talk called, “The Coming Ice-Age,” speaks of how the weather patterns on the planet have been changing drastically since the 1980's. He speaks of this phenomenon not as catastrophe but as natural change. He links the changing polarity of planets poles as the underlying cause. He says they will shift soon and with this change there will be changes in electromagnetic fields. Many species will have to undergo biological metamorphosis to survive these changes. Most human beings will become extinct. Only those with refined nervous and glandular systems will be part of the new humanity of the near future. I see this as natural selection in action, although here we are speaking of a natural selection based on consciousness and emotional intelligence instead of brute strength or intellectual cunning and ruthlessness. With very little personal, social, ecological, and spiritual consciousness it will be difficult for the collective mind of humanity to adjust with these changing electromagnetic fields. These human beings will become like the Neanderthals of the past, an extinct species unless there are very fast, radical changes. Anandamurti said that at times evolution makes a sudden “galloping leap.”
 
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/baba-2.jpg" alt="baba" width="1388" height="1004" class="alignnone size-full wp-image-511" />

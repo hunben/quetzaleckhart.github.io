@@ -1,20 +1,4 @@
----
-ID: 450
-post_title: >
-  La Prueba de la Inmortalidad en el Buen
-  Sueño
-author: Quetzal Eckhart
-post_date: 2015-12-16 16:45:46
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-prueba-de-la-inmortalidad-en-el-buen-sueno/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
----
+
 De acuerdo con el yoga y otras escuelas de la filosofía clásica de la India hay 4 estados principales de conciencia: vigilia, sueño, sueño profundo y <em>turiiya</em>- unión total con el Atman. La vigilia es donde la mente sensorial-intelectual es entretenido por las percepciones del mundo físico y social, así como nuestros pensamientos abstractos acerca de estos reinos. El estado de sueño es sobre todo un reciclaje de estas percepciones y recuerdos; la mayoría de las impresiones se desechan a través de escenarios de ensueño mezcladas mientras que algunos sueños en realidad puede estar tratando de revelar aspectos de la vida interior más allá de la mente sensorial-intelectual. El estado de sueño profundo de la conciencia es donde se suspenden la mente sensorial-intelectual e incluso sus actividades de sueño activo. La mayoría de la gente no tiene conciencia de lo que pasa en este estado de conciencia, sino que se experimenta como un estado de inconsciencia. Esto es porque la mayoría de la gente no tiene la conciencia practica de vivir, de sentir y pensar más allá de la mente sensorial-intelectual con los nombres y las formas de las cosas que experimentamos en el mundo terrenal. Es sólo cuando la contemplación meditativa está muy desarrollado y uno tiene una noción de un Testigo interior (Atman) que es posible saber si hay estados sutiles de conciencia en el sueño profundo. Este estado de calma de la observación pura sigue siendo testigo de la mente aparentemente inactivo durante toda la noche, mientras que uno está durmiendo. Y por último es <em>turiiya</em>, donde la mente está en unión con el Atman, el Testigo. La mente es una "entidad funcional, relativo y en constante cambio," mientras que el Atman es inmortal, y es la conciencia inmutable. Es debido a la reflexión del Atman en la mente que uno es capaz de ser testigo de todos los estados de conciencia en relación con el sistema de mente y el cuerpo- vigilia, sueño, y el sueño profundo. Turiiya no depende de cualquier estado de la mente o el cuerpo y no es un producto de los sistemas nervioso o endocrino. Turiiya es la  Subjetividad Suprema del Atman que mira hacia abajo a los estados de conciencia mental y objetiva.
 
 El Atman es eternamente auto-existente. Todas las cosas dependen de él para su reconocimiento, pero Atman depende de ninguna cosa. Atman ve y hace que las cosas son conocidas y aún así existe cuando no se "ve" nada. Uno no discierne la existencia del Atman de una manera práctica en los estados de  conciencia sensorial-intelectual en el estado de vigilia ni en el estado de sueño. 

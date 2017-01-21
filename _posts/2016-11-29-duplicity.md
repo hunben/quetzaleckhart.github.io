@@ -1,43 +1,4 @@
----
-ID: 3926
-post_title: Duplicity
-author: Quetzal Eckhart
-post_date: 2016-11-29 13:25:27
-post_excerpt: >
-  Instead of becoming whole and congruent,
-  duplicity loves to project its inner,
-  repressed tensions of conscience onto
-  some “other”. Instead of seeing what
-  is vile and low inside oneself it is
-  much easier to find a scape-goat outside
-  of oneself. Be careful entering into the
-  shadow area of another, whether it is an
-  individual or a collective society.
-  Projections of the shadow are the
-  perfect medium to transfer one’s own
-  dark side onto another. The “other”,
-  the “enemy” may turn out to be the
-  revealer of truth, however.
-layout: post
-permalink: http://elmisterio.org/duplicity/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 If there ever were a favorite hiding place for <a href="http://elmisterio.org/psorax/"><em>psorax</em></a> in the human mind, it must be in the vortex or vrtti of duplicity. Recall that psorax is the term that <a href="http://elmisterio.org/stories-of-pluma-blanca/"><em>Pluma Blanca</em></a> referred to as the centripetal or return force in the universe that always pushes back against and apparently punishes microcosmic, outward actions that are not in harmony with the original, balanced actions of the Macrocosm. This outward, frustrated projection
 remains lodged in one’s mental and physical body in the form of a reaction like a constant itch under the skin, or something much, much worse. Every previous mental action still weighs and acts upon the mind in the present. Only in the spiritually ignorant microcosmic mind is there a need for this act of compensation to put the universe back into order after distorting it with an impulsive will.
 

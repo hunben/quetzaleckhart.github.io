@@ -1,34 +1,4 @@
----
-ID: 437
-post_title: Unusual Microvita Stories
-author: Quetzal Eckhart
-post_date: 2015-12-14 21:13:19
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/unusual-microvita-stories/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 <strong>Microvita and Tantra Maya ch.11 "Unusual Microvita Stories"</strong>
 
 The previous chapters have been the result of years of study. I wrote these

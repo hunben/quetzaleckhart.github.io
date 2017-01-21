@@ -1,31 +1,4 @@
----
-ID: 1886
-post_title: Las Revoluciónes
-author: Quetzal Eckhart
-post_date: 2016-05-20 17:39:12
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/la-revolucion/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-iworks_yt_thumbnails:
-  - 'a:1:{i:0;s:55:"http://img.youtube.com/vi/UylCK2A2Ue0/maxresdefault.jpg";}'
----
+
 Yo era un admirador de los zapatistas desde los primeros videos que vi en los principios de 1994 cuando la comandanta Ramona, una monja-zapatista comandanta rebelde, lideró el ataque de tomar San Cristóbal de las Casas en Chiapas. Aunque tenían ametralladoras y estaban luchando pude ver que eran personas muy dignas por la mirada en sus ojos detrás de sus rostros enmascarados. Los ojos nobles detrás de sus rostros enmascarados, así como la ropa indígena de colores brillantes debajo de los cinturones de balas y ametralladoras revelaron que estos rebeldes verdaderamente fueron: agricultores orgánicos. Sentí que era una gracia invisible guiándolos. Yo no sabía muy bien por qué, pero me dio la sensación de esta fuerza como una primera impresión. Fue un experiencia muy lúcida para mí que despertó un sentido de responsabilidad social y moral y el activismo. Más tarde, los discursos brillantes y humanas de los comandantes y sub-comandantes zapatistas como Marcos revelaron que había un espíritu tan hermoso y humano guiándolos. Ganaron tantos corazones de todo el mundo con su discurso sincero. Aunque yo era un estudiante en los EE.UU., me sentí atraída por ellos y asistí a algunas charlas de sacerdotes de teólogos de la liberación que eran simpatizantes zapatistas que vinieron a hablar en la Universidad de Texas en Austin.
 
 Pronto me distraje del movimiento zapatista, sin embargo, por mi convivencia con algunos yoguis de la India que resultaron también ser revolucionarios. Aunque admiraba indios yogui-revolucionarios como Aurobindu y Subash Chandra Bose, yo era personalmente más yogui que un revolucionario y pensé en estos yoguis de Ananda Marga más como activistas sociales monásticas como Vivekananda que practicaban y enseñaban yoga para mantenerse y la sociedad humana física, mental y espiritualmente fuerte. Nunca pensé en ellos como los tipos de llevar la ametralladora o granada hasta que hicieron una debacle de una paracaída de armas de un avión ruso lleno de ametralladoras, lanzacohetes y granadas sobre su ashram principal en Purulia, India en 1995. 

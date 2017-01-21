@@ -1,14 +1,3 @@
----
-ID: 101
-post_title: ¿Por Qué Hay Tanta Maldad Encima?
-author: Quetzal Eckhart
-post_date: 2012-06-25 14:55:22
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/por-que-hay-tanta-maldad-encima/
-published: true
----
 
 
 ¿Por qué suceden cosas tan terribles en este mundo relativo, mientras que nuestro entendimiento más profundo sabe que dharma protege todos? Dharma es el orden moral del universo. Es la fuerza oculta que trabaja para hacer nosotros completos y darnos lo que necesitamos para expandir en esta existencia a fin de encontrar la felicidad eterna. “Los que protegen dharma están protegidos por dharma”, dijo Anandamurti. Es la inversa cierto también, que aquellos que no protegen dharma no están protegidos por el dharma? Una vida imprudente sin discernimiento sólo engendra el caos. Acciones basadas en los deseos desenfrenados ciertamente no tendrán reacciones muy mansos. Yo diría que incluso los ignorantes que van en contra del dharma están protegidos también, aunque pueden tener que someterse a las reacciones de sus acciones ignorantes de poner el universo y de sí mismos de nuevo en equilibrio una vez más. En esencia, el dharma sostiene a todos los seres juntos dentro de un ser supremo. Cuando vamos en contra de este orden natural hay reacciones y los desequilibrios en el cuerpo, mente y espíritu. 

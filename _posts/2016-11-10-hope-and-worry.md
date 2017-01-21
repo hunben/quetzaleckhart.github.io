@@ -1,29 +1,4 @@
----
-ID: 3675
-post_title: Hope and Worry
-author: Quetzal Eckhart
-post_date: 2016-11-10 14:30:02
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/hope-and-worry/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <strong>The Dynamics of “Ka” and “Kha” through Hope and Worry</strong> - from <a href="http://elmisterio.org/anahata/">Anahata</a>
 
 The vrttis or vortexes of the microcosmic mind are subtle sounds that

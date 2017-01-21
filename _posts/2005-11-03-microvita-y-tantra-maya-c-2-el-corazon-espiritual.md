@@ -1,15 +1,3 @@
----
-ID: 76
-post_title: 'Microvita Y Tantra Maya c.2 &#8220;El Corazón Espiritual&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-11-03 14:43:15
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-y-tantra-maya-c-2-el-corazon-espiritual/
-published: true
----
-
 
  Podemos entender las razones por las limitaciones del concepto egocéntrico del “yo” que distorsiona el reflejo puro de Hunab Ku en las mentes de los seres humanos por examinar el corazón espiritual.  En el corazón espiritual o  Vórtice Anahata existe el raíz de las problemas de la consciencia moderna dividida y fragmentada pero también la capacidad de compasión y unión con el verdadero “Yo-Testigo” adentro.  Pluma Blanca explicó que todas las expresiones de los llamados "vórtices" se expresan en el corazón espiritual, lo que los yogis llaman el Chakra Anahata.  Yo prefiero usar la palabra “vórtice” en vez de “chakra.”  El concepto tradicional del Vórtice Anahata es un loto con 12 pétalos.  Cada “pétalo” es un vórtice girando afuera del vórtice mayor, o “lotus,” como muchos tornados pequenos que juntan para formar un vortice gigante.  Estos pétalos o vortices menores son conocidos como vrttis- vórtices de energía mental.  Estos vrttis vibran todo el cuerpo y la mente y los califican para expresar estados particulares de pensamiento y emoción. Vrittis son la inteligencia fundamental detrás de nuestros pensamientos y sentimientos, la programación oculto de la vida cognitiva y emocional humano. El Vórtice Anahata     es sutil como los vórtices superiores con sus tendencias cognitivas mas finas, pero al mismo tiempo tiene cualidades grosos como los vórtices inferiores que expresan tendencias más instintivas e egocéntricas. 
 

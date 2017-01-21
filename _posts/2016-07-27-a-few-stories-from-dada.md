@@ -1,32 +1,4 @@
----
-ID: 2453
-post_title: A Few Stories from Dada
-author: Quetzal Eckhart
-post_date: 2016-07-27 11:59:04
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/a-few-stories-from-dada/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-CODE1:
-  - '<iframe style="border: none; overflow: hidden; width: 450px; height: 80px;" src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fwilliamenckhausen&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" width="300" height="150" frameborder="0" scrolling="no"></iframe>'
----
+
 Dada Iishvarakrsnananda or "Dada I.K." was my meditation and yoga teacher when I was in Ananda Marga. He was one of the most humane and friendly persons I have ever known. I continue to admire his moral courage and feel that his sincerity, discernment, and pure intentions are a great inspiration for many. 
 
 This is a story he wrote the other day. Its setting is in an intense political atmosphere in India after Anandamurti had refused to stop speaking about PROUT, a decentralized economic theory that he propounded. The communists in the West Bengal state government are attacking Anandamurti and killing his followers while at the same time the Federal, pro-capitalist government is also trying to ban his social activity. PROUT was too transcendental for both the commie state and the Federal pro-capitalist governments and Anandamurti was getting flack from both the Right as well as the Left. Anandamurti's institution, Ananda Marga Pracaraka Samgha, was later infiltrated by the CBI (which is like the CIA, only Indian). Many of his closest disciples betrayed him while others, like my friend Iishvarakrsnananda, went to jail in his teenage years for refusing to renounce these ideas even though he would have been given a presidential pardon and release for doing so. Many of his friends were brutally tortured and he himself almost died in jail but never renounced his principles. I have never known men with such clarity of purpose as I have known in Dada I.K.

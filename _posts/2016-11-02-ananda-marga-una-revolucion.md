@@ -1,30 +1,4 @@
----
-ID: 3650
-post_title: 'Ananda Marga: ¿Una Revolucion?'
-author: Quetzal Eckhart
-post_date: 2016-11-02 15:40:48
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/ananda-marga-una-revolucion/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <em>"Ananda Marga no discrimina entre un jefe de familia y un Sannyasi (renunciante). El lugar que ocupa un jefe  o jefa de familia en nuestra Marga es mas importante que el lugar ocupado por un Sannyasi, en el entendido que el jefe de familia no depende de nadie para su manutención, mientras que el Sannyasi tiene que depender de otros. 
 Un jefe  de familia es como un fuerte árbol que se sostiene por si mismo, mientras que el Sannyasi  es como la parra que se enrolla alrededor del árbol para sostenerse. Un jefe de familia, por lo tanto, merece mayor respeto que un Sannyasi, de acuerdo a la tendencia de pensamiento en Ananda Marga.
 Esta por sí misma es una idea revolucionaria. Ningún filosofo o pensador , ya sea en oriente o en occidente, se atrevió a declarar que un jefe de familia es merecedor de más respeto que un ermitaño o un Sannyasi.  Se requiere del valor de un revolucionario para decirlo."</em>

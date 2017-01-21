@@ -1,14 +1,3 @@
----
-ID: 66
-post_title: 'Un Nombre Para El Infinito, Cap.7 &#8220;El Vórtice Ajina&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-12-03 14:35:19
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/un-nombre-para-el-infinito-el-vortice-ajina/
-published: true
----
 
 
 El vórtice Ajina se encuentra más allá de los

@@ -1,14 +1,3 @@
----
-ID: 64
-post_title: 'Un Nombre Para El Infinito, Cap.6 &#8220;El Vortice Vishuddha&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-12-02 14:33:46
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/un-nombre-para-el-infinito-el-vortice-vishuddha/
-published: true
----
 
 
 En la etapa actual de evolución humana es muy

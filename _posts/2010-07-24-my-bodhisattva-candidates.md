@@ -1,42 +1,4 @@
----
-ID: 60
-post_title: My Bodhisattva Candidates
-author: Quetzal Eckhart
-post_date: 2010-07-24 14:18:34
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/my-bodhisattva-candidates/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-diasposter_send_facebook:
-  - "0"
-diasposter_send_tumblr:
-  - "0"
-diasposter_send_twitter:
-  - "0"
-diasposter_send_wordpress:
-  - "0"
-diasposter_use_excerpt:
-  - "0"
-diaspora_aspect_ids:
-  - 'a:1:{i:0;s:11:"all_aspects";}'
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/camus-2.jpg" alt="camus" width="132" height="186" class="alignnone size-full wp-image-512" />
 Spiritual vision through the medium of mental forms is truly a form of divine grace. It is a certain illumination and showering of elevated thought and feeling that is designed by deep Intelligence to guide us onward and inward. Form helps us eventually understand the formless, the quiet I-Witness that is always now. Mystical vision is more than mere knowledge. Through it, knowledge is conveyed but in the most beautiful and meaningful manner. One could never throw such an experience away; each time it is recalled one gets the original message and merges into silent peace and joy.
 

@@ -1,30 +1,4 @@
----
-ID: 51
-post_title: Filosofía Primaria de Ananda Marga
-author: anonymous contributor
-post_date: 1999-11-25 14:22:23
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/filosofia-primaria-de-ananda-marga-anandamurti/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
  Estos son las platicas originales de Anandamurti, "Ananda Marga," que establecen "Ananda Marga" como una filosofia espiritual.  Siguimos editandolos porque eran traducciones de google.    
 original en ingles:  [download id="2639"]
 

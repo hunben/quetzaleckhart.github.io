@@ -1,15 +1,3 @@
----
-ID: 199
-post_title: 'Microvita and Tantra Maya ch.10 &#8220;Tantric Cosmology&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-12-27 14:11:42
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-and-tantra-maya-ch-10-tantric-cosmology/
-published: true
----
-
 
 
 

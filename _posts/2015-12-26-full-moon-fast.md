@@ -1,15 +1,4 @@
----
-ID: 559
-post_title: Full Moon Fast
-author: Quetzal Eckhart
-post_date: 2015-12-26 09:53:12
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/full-moon-fast/
-published: true
-nm_members:
-  - ""
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/11703016_472766696219579_1261940151222450558_n-300x200.jpg" alt="11703016_472766696219579_1261940151222450558_n" width="300" height="200" class="alignnone size-medium wp-image-579" />
 The full moon fell on Christmas Eve this year. I followed the ancient yogic practice of “dry fasting” on this full moon, as I try to do on all full moons. Yogis teach that the best day for fasting is 3 days before the new and full moons, which is the same as the 11th day <em>after</em> the full and new moons.  This day is called <em>ekadashi</em> in India, which means "11th day."  
 

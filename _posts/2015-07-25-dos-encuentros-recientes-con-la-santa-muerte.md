@@ -1,16 +1,3 @@
----
-ID: 148
-post_title: >
-  Dos Encuentros Recientes Con La Santa
-  Muerte
-author: Quetzal Eckhart
-post_date: 2015-07-25 15:27:45
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/dos-encuentros-recientes-con-la-santa-muerte/
-published: true
----
 
 
 <strong>

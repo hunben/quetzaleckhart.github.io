@@ -1,37 +1,4 @@
----
-ID: 3794
-post_title: La Esperanza y La Preocupación
-author: Quetzal Eckhart
-post_date: 2016-11-12 14:29:10
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-esperanza-y-la-preocupacion/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-al2fb_facebook_link_id:
-  - 1777247055887727_1791071204505312
-al2fb_facebook_link_time:
-  - 2016-11-22T14:29:18+00:00
-al2fb_facebook_link_picture:
-  - >
-    featured=http://elmisterio.org/wp-content/uploads/2016/02/van.jpg
----
+
 La Esperanza y La Preocupación - extracto de <a href="http://elmisterio.org/anahata-espanol/">Anahata</a>
 
 Los vrttis o vórtices de la mente microcósmica son sonidos sutiles que

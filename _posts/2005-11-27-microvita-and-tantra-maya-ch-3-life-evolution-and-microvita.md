@@ -1,14 +1,3 @@
----
-ID: 38
-post_title: 'Microvita and Tantra Maya ch.3 &#8220;Life, Evolution and Microvita&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-11-27 13:55:08
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-and-tantra-maya-ch-3-life-evolution-and-microvita/
-published: true
----
 
 
 Any sincere spiritual seeker is satisfied with nothing less than the Infinite itself. Our quest for knowledge is infinite. When we discover a secret or hidden cause, we discover a chain of other questions that lead to yet undiscovered causes. And the further our knowledge ascends toward the spiritual, the summit of all knowledge, the more subtle and finer are the causes and the levels of mind to perceive them. </span></span>

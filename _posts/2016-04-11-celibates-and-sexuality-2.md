@@ -1,30 +1,4 @@
----
-ID: 1621
-post_title: Celibates and Sexuality
-author: Quetzal Eckhart
-post_date: 2016-04-11 11:04:28
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/celibates-and-sexuality-2/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 Sexuality is one of the least understood aspects of human life.  It affects everybody, but few people seem to find a healthy solution to sexual conflicts.
 
 There is so much suffering caused by blind sexuality.  So many women are abandoned with children by men whose animal instincts soon pull them elsewhere after a little sensory gratification.  The trail of trauma for the woman may continue as she must struggle to care for the child that have been abandoned.  Or perhaps it was her unfulfilled or frustrated desires that caused the separtion to begin with.  One thing is certain, and it is that there are fewer and fewer examples of harmonious co-existence in human sexual-emotional affairs.  As a culture we have gone back into the stone age as regards to sexuality.  Instead there is emerging a whole culture of permissiveness and even indulgence.  In truth, this distortion of the sexual tendency leaves many with very little happiness remaining in marriage or interpersonal relationships.  Conversely, I see very little hope in "free love" and open relationships as well.  While some like the way it sounds in theory, I have always seen that somebody always ends up getting hurt.  What we need is love.  Sexuality doesn't necessarily have to ruin this but it usually does if one or both people lack insight into what emotive factors are really driving them deep within.  And it is only by going deep within and seeing these needs that one can find fulfillment in sexuality and relationships.  Very few people can altogether transcend these needs.  These people are very rare and very interesting.

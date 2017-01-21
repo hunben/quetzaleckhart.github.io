@@ -1,30 +1,4 @@
----
-ID: 2228
-post_title: The Headkick Headtrick Tantra
-author: Quetzal Eckhart
-post_date: 2013-07-20 01:48:27
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-headkick-headtrick-tantra/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 "We are not a bunch of dumb-asses.  People from all over the world know that you cannot patent a mantra!"  - May 2013
 
 <a href="http://elmisterio.org/ananda-marga-inc/">traduccion en espanol</a>

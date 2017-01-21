@@ -1,32 +1,4 @@
----
-ID: 2451
-post_title: Cuentos Favoritos de Dada
-author: Quetzal Eckhart
-post_date: 2016-07-27 11:56:46
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/cuentos-favoritos-de-dada/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-CODE1:
-  - '<iframe style="border: none; overflow: hidden; width: 450px; height: 80px;" src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fwilliamenckhausen&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" width="300" height="150" frameborder="0" scrolling="no"></iframe>'
----
+
 Dada Iishvarakrsnananda o "Dada I.K." fue mi maestro de la yoga y la meditacion cuando yo estaba en Ananda Marga. Él era una de las personas más humanas y amables que he conocido. Sigo admirar su coraje moral y la expresión de su sinceridad, su discernimiento, y las intenciones puras que son una gran fuente de inspiración para muchos. Esta es una historia que escribió el otro día. Su entorno es en un ambiente político intenso en la India después Anandamurtiji se había negado a dejar de hablar de PROUT, una teoría económica descentralizada que él propuso. Los comunistas en el gobierno del estado de Bengala Occidental están atacando Anandamurtiji y matando a sus seguidores, mientras tanto el gobierno pro-capitalista Federal también está tratando de prohibir su actividad social. PROUT era demasiado trascendental tanto para el estado comunista y el gobierno pro-capitalista federal y Anandamurtiji estaba bajo atace tanto de la derecha como de la izquierda. La institución de Anandamurti, Ananda Marga Pracaraka Samgha, fue más tarde infiltrada por el CBI (que es como la CIA, pero de la india). Muchos de sus discípulos más cercanos lo traicionó, mientras que otros, como mi amigo Iishvarakrsnananda, fueron a la cárcel en su adolescencia por negarse a renunciar a estas ideas a pesar de que se hubiera recibido un indulto presidencial y soltarlo del carcel para hacer la declaracion de renuncion. Muchos de sus amigos fueron brutalmente torturados y él mismo casi murió en la cárcel, pero nunca renunció a sus principios. Nunca he conocido a hombres con tal claridad de propósito en la vida como el Dada I.K. Aqui es uno de sus historias:</span></span>
 
 <span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;">

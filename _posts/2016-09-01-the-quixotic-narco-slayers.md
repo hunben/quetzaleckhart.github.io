@@ -1,33 +1,4 @@
----
-ID: 2898
-post_title: The Quixotic Narco Slayers
-author: Quetzal Eckhart
-post_date: 2016-09-01 10:08:29
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-quixotic-narco-slayers/
-published: true
-war_soundy_enable_bg_sound:
-  - 'yes'
-war_soundy_enable_pp_corner:
-  - 'yes'
-war_soundy_audio_file_url:
-  - >
-    http://elmisterio.org/wp-content/uploads/2016/02/bailedelosespiritusbendecidas.mp3
-war_soundy_audio_type:
-  - audio/mpeg
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - 'yes'
-war_soundy_loop:
-  - 'yes'
----
-[download id="3434"] 
-[soundy button] 
+
 <a href="http://elmisterio.org/los-matanarcos-quijotescos/">traduccion en espanol</a>
 
 <em>O yogi, sit in lotus under the sacred neem and together make impenetrable conscious force with nature. The death troopers will receive a great blessing from your practice. Infinite, white burning light penetrates and ignites their darkness. An immediate reaction shakes their world. Those who dealt so much terror may die in terror of Mother Kali, protector of the planet and of yogis. The next embryo they inhabit will finish its recapitulation with gills and fins. There they will “swim in idle waters and drink other fishes piss.</em>

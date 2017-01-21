@@ -1,32 +1,4 @@
----
-ID: 717
-post_title: >
-  La Guerra Espiritual y La Evolución
-  Planetaria
-author: Quetzal Eckhart
-post_date: 2016-05-25 02:30:37
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-guerra-espiritual-y-la-evolucion-planetaria-2/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 “Las consecuencias internas nocivos del exceso de industrialización no sólo afectan a la salud personal, social y nacional del pueblo, también precipitan la degeneración psíquica individual y colectiva. Un tipo de epidemia psíquica puede surgir que puede envenenar a casi todas las expresiones de la vida y destruirlos. Esto tal vez no puede suceder hoy, pero seguramente va a suceder en un futuro muy cercano “-. Anandamurti
 
 La siguiente declaración suena fantástico para el materialista. Sin embargo, Anandamurti siempre hablaba sobre todos temas- al economía, la ecología, la política, etc., desde una perspectiva muy espiritual. Si el universo tiene una contraparte sutil, espiritual que controla el mundo material, y si el universo es moral, entonces quizás esta afirmación puede parecer plausible. Cualquier ser, o sistema inteligente tiene mecanismos de defensa para protegerse de la enfermedad. Si el universo es realmente consciente y una entidad viviente en sí mismo, entonces uno debe ver esta declaración como una gran advertencia para las materialistas con su concepto mal concebida de dominar, controlar y, eventualmente, destruir el mundo en que realmente no tienen verdadera conexión, un mundo que no es de ninguna manera una Madre Tierra para ellos. ¿Pueden nuestros distorsiones mentales y errores de hecho generar epidemias psíquicas? ¿Puede la raza humana generar reacciones que nos atacan no sólo de nuestro entorno físico, sino también de nuestro entorno mental, interna? La cuestión es práctico, por último, en que uno tiene que investigar estas preguntas espiritual en el laboratorio mental. Si uno no entiende, entonces no podría sobrevivir a la próxima e inevitable proceso de selección natural.

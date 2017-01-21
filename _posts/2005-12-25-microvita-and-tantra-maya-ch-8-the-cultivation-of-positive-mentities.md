@@ -1,14 +1,3 @@
----
-ID: 198
-post_title: 'Microvita and Tantra Maya ch.8 &#8220;The Cultivation of Positive Mentities&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-12-25 14:08:43
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-and-tantra-maya-ch-8-the-cultivation-of-positive-mentities/
-published: true
----
 
 
 

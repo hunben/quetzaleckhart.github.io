@@ -1,30 +1,4 @@
----
-ID: 15
-post_title: 'A Name to the Nameless part II ch.1 &#8220;Tantric Psychology&#8221; and &#8220;Muladhara Vortex&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-11-24 13:19:22
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/a-name-to-the-nameless-part-ii-ch-1-tantric-psychology-and-muladhara-vortex/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 The fundamental urge behind all beings is the endeavor to expand towards the Infinite.  From the rudimentary amoeba to the complex emotional and intellectual human being is this movement and expansion from its current evolutionary status toward greater, yet unrealized potential.  The infinite Consciousness itself has “assumed the guise of finitude” through so many and various expressions that consciously or unconsciously seek re-union with their essential nature.  This evolutionary march is only partially, and at its crudest levels, a struggle for self-preservation with its constant struggle for physical existence.  Behind all of the effort and struggle is the eternal play of the Infinite seeking to regain its pure state of  eternal repose in the Shiva-Shakti godhead.  Biological evolution is the mark of this divine effort, while sadhana is the final impetus to complete this cosmic flow.
 
 It is not the purpose of this work to give an account of the entire Macrocosmic process of evolution.  The focus is rather on the final stages of Macrocosmic evolution as it is encapsulated in the development of human beings.  And even within the context of human development the focus will be more on the psychological and psycho-spiritual aspects of this development, rather than the simply biological stages of psychological development.

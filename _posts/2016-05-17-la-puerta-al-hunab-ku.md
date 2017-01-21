@@ -1,30 +1,4 @@
----
-ID: 1794
-post_title: La Puerta al Hunab Ku
-author: Quetzal Eckhart
-post_date: 2016-05-17 08:50:58
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-puerta-al-hunab-ku/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 Introduction de "<a href="http://elmisterio.org/anahata-espanol-3/">Anahata</a>," La Puerta al Hunab Ku.
 
 

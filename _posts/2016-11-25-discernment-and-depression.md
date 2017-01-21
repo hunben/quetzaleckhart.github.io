@@ -1,40 +1,4 @@
----
-ID: 3835
-post_title: Discernment and Depression
-author: Quetzal Eckhart
-post_date: 2016-11-25 13:52:53
-post_excerpt: |
-  While incarnated in human form and passing through the soul-building
-  experiences of this world we must know and cultivate the positive
-  propensities of mind that help us to expand and adapt to this relative world
-  while never forgetting that our true home is in the spirit. We must discern
-  between the relative and the absolute, between finite and infinite. The
-  world isn’t inherently corrupt, we just haven’t properly learned how to
-  handle ourselves. We haven’t learned to economize the infinite nature of
-  desire.
-layout: post
-permalink: >
-  http://elmisterio.org/discernment-and-depression/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-xyz_fbap:
-  - "1"
----
+
 The Dynamic of “Ca” and “Cha” in Discernment and Depression -from <a href="http://elmisterio.org/anahata/">Anahata</a>
 
 In the phase of involution, Shiva, the infinite consciousness, has been

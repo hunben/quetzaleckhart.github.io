@@ -1,30 +1,4 @@
----
-ID: 20
-post_title: 'A Name to the Nameless partII ch.4 &#8220;The Anahata Vortex&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-11-27 13:40:12
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/a-name-to-the-nameless-partii-ch-4-the-anahata-vortex/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 Up until the Anahata Vortex the human being is but a "raging bundle of desire in a dying animal," to use the words of Yeats.  It was said previously that the Manipura Vortex gives one an intimation of the infinite with its infinite desire for expansion, but falls short of the pure conception by projecting infinite desire on finite objects.  The Manipura at the navel is still governed by ontological hunger with its accompanying cravings, demands, and impositions on the objective world.  It can ask “how?” and then proceed to manipulate and maneuver the external world according to its internal desires, but it lacks the self-reflective conscience to ask "why?" or "what for?" in a deeply moral sense.  The Manipura Vortex is balanced only when it is under the guidance of the more conscious and moral Anahata.  It should be very clear to the reader that much of the present day ills in our materialistic and capitalistic pseudo-culture are due to the over activation and exploitation of the Manipura Vortex.  </span></span></p>
 
 <p align="LEFT"> <span style="font-family: Ubuntu;"><span style="font-size: medium;"> “Anahata” means not harming and it is at this layer of mind that truly rational, self-reflective, compassionate, and judicious human qualities begin to emerge.  It is the vortex located in the center of the chest and is often referred to as the "heart vortex."  It is the fulcrum on which rests the directional flow of the human mind.  Below here the mind moves outward, toward matter.  Here and above the mind can move inward, toward pure Spirit, toward Brahma.</span></span></p>

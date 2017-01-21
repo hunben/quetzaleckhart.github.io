@@ -1,30 +1,4 @@
----
-ID: 3630
-post_title: Ramananada -espanol
-author: Quetzal Eckhart
-post_date: 2016-10-31 20:48:34
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/ramananada-espanol/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <a href="http://elmisterio.org/ramananda/">English original</a>
 
 Rãmãnanda murió recientemente. Dejó una autobiografía sobre su vida como secretario personal de Anandamurti.

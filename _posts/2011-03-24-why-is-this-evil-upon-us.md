@@ -1,15 +1,4 @@
----
-ID: 201
-post_title: Why Is This Evil Upon Us?
-author: Quetzal Eckhart
-post_date: 2011-03-24 14:22:20
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/why-is-this-evil-upon-us/
-published: true
----
- 
+
 
 Why do such terrible things happen in this relative world while our deeper understanding knows that dharma protects all? Dharma is the moral order of the universe. It is the hidden force that works to make us whole and give us what we need to expand in this existence so as to find the eternal beatitude. “Those who protect dharma are protected by dharma,” said Anandamurti. Is the reverse true as well, that those who don’t protect dharma aren’t protected by dharma? A reckless life with no discernment only breeds chaos. Actions based on unbridled desires will certainly not have very tame reactions. I would say that even the ignorant that go against dharma are protected too, although they may have to undergo reactions from their ignorant actions to put the universe and themselves back into balance once again. Essentially, dharma holds all beings together within a supreme being.  When we go against this natural order there are reactions and imbalances in the body, mind, and spirit.
 

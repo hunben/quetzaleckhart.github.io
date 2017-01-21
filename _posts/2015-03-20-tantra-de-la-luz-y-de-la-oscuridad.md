@@ -1,30 +1,4 @@
----
-ID: 1484
-post_title: Tantra de la Luz y de la Oscuridad
-author: Quetzal Eckhart
-post_date: 2015-03-20 09:13:26
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/tantra-de-la-luz-y-de-la-oscuridad/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2016/03/skull-tibetan-200x300.jpg" alt="skull-tibetan" width="200" height="300" class="alignnone size-medium wp-image-1481" />extracto de Microvita Y Tantra Maya c.5 “Tántricos de la Luz y la Oscuridad”
 
 

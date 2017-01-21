@@ -1,30 +1,4 @@
----
-ID: 1475
-post_title: 'Discursos Sobre Tantra v.1 cap.1 &#8220;Sadhana&#8221; &#8211; Anandamurti'
-author: Quetzal Eckhart
-post_date: 2016-03-19 17:52:16
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/discursos-sobre-tantra-v-1-cap-1-sadhana-anandamurti/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 Sadhana
 
 Hoy me gustaría hablar de mata y patha [opiniones acerca de la Suprema, y ​​rutas de acceso a la Suprema]. Mata significa un cierto estilo de pensamiento, así que tenemos que ver dónde se origina la acción del pensamiento, desarrolla y culmina; y tenemos que ver en lo que depende de la acción de pensar. Cuando alguien dice: "Es mi opinión, mi opinión personal," ¿de dónde viene la acción de pensar mentira y cómo se llevará a cabo? Pensamiento depende de la mente unidad; se origina en la mente la unidad y se mantiene en la mente unidad.

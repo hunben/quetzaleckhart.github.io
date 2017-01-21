@@ -1,14 +1,3 @@
----
-ID: 89
-post_title: 'Microvita Y Tantra Maya c.8 &#8220;El Cultivo de Mentidades Positivas&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-11-09 14:48:30
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-y-tantra-maya-c-8-el-cultivo-de-mentidades-positivas/
-published: true
----
 
 
 El cultivo de mentidades positivos es un tema muy relacionado con el funcionamiento biopsicological adecuada. El sistema nervioso, endocrino y glandulares son los vehículos físicos, corporales para la mente sutil. Todos ellos deben estar en una salud óptima para la mente sea capaz de resonar con mentidades positivas y sus capas mentales correspondientes y propensiones. Cualquier cambio en la estructura mental se reflejan en el cuerpo y viceversa. Para el paralelismo psicofísico adecuado del cuerpo debe soportar la mente y la mente debe ser compatible con el cuerpo.

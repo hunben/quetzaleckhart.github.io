@@ -1,34 +1,4 @@
----
-ID: 3271
-post_title: 'La Consciencia Cristica &#8211; Oratorio'
-author: Quetzal Eckhart
-post_date: 2015-10-11 08:54:50
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-consciencia-cristica/
-published: true
-war_soundy_enable_bg_sound:
-  - 'yes'
-war_soundy_enable_pp_corner:
-  - 'yes'
-war_soundy_audio_file_url:
-  - >
-    http://elmisterio.org/wp-content/uploads/2016/10/christmas-oratorio-1.mp3
-war_soundy_audio_type:
-  - audio/mpeg
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - 'yes'
-war_soundy_loop:
-  - 'yes'
----
-[soundy button]
 
-Descargar Musica:  [download id="3311"]
 
 Cuando era niño, yo era muy curioso de entender si realmente Cristo existió como un ser humano o fue un arquetipo más profundo, universal y espiritual incrustado en la conciencia universal humana. Sin embargo, esta curiosidad desapareció cuando comencé a meditar y entender que la gracia divina está siempre presente detrás de la mente tranquila. Comprendí que lo divino estaba en el testigo sin forma de la mente, y no alguna forma humana. Esta consciencia testigadora es lo que los yoguis llaman el Atman. Las palabras y los conceptos e incluso la más alta filosofía no puede captar el infinito dentro de sus límites. Lo que yo deseaba era esta armonía y la unión con esta consciencia esencial y sin forma en lugar de una concepción uniforme de “dios” que siempre parece estar de acuerdo con algún tipo de aceptación de la religión, culto o la tradición.
 

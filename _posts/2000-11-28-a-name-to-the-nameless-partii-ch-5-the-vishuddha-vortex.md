@@ -1,30 +1,4 @@
----
-ID: 22
-post_title: 'A Name to the Nameless partII ch.5 &#8220;The Vishuddha Vortex&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-11-28 13:41:17
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/a-name-to-the-nameless-partii-ch-5-the-vishuddha-vortex/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 At humanity's present stage of evolution, it is very rare to find
 individuals, much less societies, functioning at the level of the Vishuddha
 Vortex. In fact, it is rare to find individuals that have assimilated the

@@ -1,31 +1,4 @@
----
-ID: 1877
-post_title: Revolutions
-author: Quetzal Eckhart
-post_date: 2016-05-20 14:58:35
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/revolutions/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-iworks_yt_thumbnails:
-  - 'a:1:{i:0;s:55:"http://img.youtube.com/vi/UylCK2A2Ue0/maxresdefault.jpg";}'
----
+
 I was an admirer of the Zapatistas since the first videos that I saw early in 1994 when Commander Ramona, an ex-nun Zapatista rebel commander, led the attack to take San Cristobal de las Casas in Chiapas. Even though they had machine guns and were fighting I could see that they were very dignified people by the look in their eyes behind their masked faces. The noble eyes behind their masked faces as well as the brightly-colored indigenous clothing underneath bullet belts and machine guns revealed who these rebels truly were: organic farmers. I felt there was an invisible grace guiding them. I didn't quite know why, but I just felt this very strongly as a first impression. It was a very lucid realization for me that awakened a strong sense of social and moral responsibility and activism. Later, the brilliant, humane discourses of the Zapatista commanders and sub-commanders like Ramona and Marcos revealed that there was such a beautiful and humane spirit guiding them. They won so many hearts around the world with their earnest discourse. Although I was a student in the U.S., I was drawn to them and attended some talks by Liberation Theologists priests that were Zapatista sympathizers who came to speak at the University of Texas at Austin.
 
 I was soon distracted from the Zapatista movement, however, by my involvement with some yogis in India who turned out to also be revolutionaries. Although I admired Indian yogi-revolutionaries like Aurobindu and Subash Chandra Bose, I was personally more yogi than a revolutionary and I thought of these Ananda Marga yogis more as monastic social activists like Vivekananda who practiced and taught yoga to keep themselves and human society physically, mentally and spiritually strong. I never thought of them as the machine gun or grenade carrying types until they made a debacle of an arms drop from a Russian airplane full of machine guns, rocket launchers and grenades over their main ashram in Purulia, India. [embedyt] http://www.youtube.com/watch?v=UylCK2A2Ue0[/embedyt]

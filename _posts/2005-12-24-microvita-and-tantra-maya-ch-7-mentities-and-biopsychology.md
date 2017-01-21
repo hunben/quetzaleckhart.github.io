@@ -1,15 +1,3 @@
----
-ID: 46
-post_title: 'Microvita and Tantra Maya ch.7 &#8220;Mentities and Biopsychology&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-12-24 14:05:44
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-and-tantra-maya-ch-7-mentities-and-biopsychology/
-published: true
----
-
 
 
 Both positive and negative mentities are entities that function at the mental level but also provoke changes in the biopsychology of organisms. If we review the kosas and understand how grosser levels of mind are products of subtler ones, and that the physical body (mention annamaya kosa!!! Also the sounds of the vrttis) is the grossest level of mind then we can understand a little clearer the complex phenomenon of biopsychology. </span></span>

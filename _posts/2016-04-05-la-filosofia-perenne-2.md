@@ -1,30 +1,4 @@
----
-ID: 1561
-post_title: La Filosofía Perenne
-author: Quetzal Eckhart
-post_date: 2016-04-05 13:23:47
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-filosofia-perenne-2/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 extracto de "Un Nombre Para El Infinito"
 
          A lo largo de la historia, nunca ha habido ni habrá un objeto de inspiración más grande que el poder situar la esencia del alma humana en el Ser Infinito. Esta idea ha sido una semilla de pensamiento que ha recurrido dentro de la filosofía perenne y que seguirá brotando donde quiera que haya corazones nobles y mentes vastas que busquen amar y entender los aspectos más profundos de nuestro ser y existencia. Los grandes sabios de todas las épocas y culturas han proclamado esta gran verdad: que la fuente más profunda de la existencia del ser humano se encuentra en la unión con la Conciencia Suprema. La universalidad de esta idea cardinal no se halla en la transmisión cultural de algún gran profeta a su descendencia, ni se debe a la influencia que hayan podido ejercer  algunas culturas sobre otras. Su universalidad representa la aspiración innata del hombre a la comprensión espiritual de su propia naturaleza.  

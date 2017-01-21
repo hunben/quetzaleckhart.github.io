@@ -1,30 +1,3 @@
----
-ID: 194
-post_title: '&#8220;The Place of Sadvipras in the Samája Cakra'
-author: Quetzal Eckhart
-post_date: 1999-10-24 15:56:28
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-place-of-sadvipras-in-the-samaja-cakra-anandamurti/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
 
 
 Primitive human beings had no society and the whole set-up was individualistic. Even the concept of family was absent. Life was brute and non-intellectual. Nature was the direct abode and physical strength ruled the day. The strong enjoyed at the cost of the weak, who had to surrender before the voracity of the physical giants. However, the sense of acquisition had not developed in them, and they worked manually, and there was no intellectual exploitation in that age. Though life was brute, it was not brutal.

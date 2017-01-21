@@ -1,15 +1,3 @@
----
-ID: 55
-post_title: '&#8220;Un Nombre Para El Infinito, Cap.2 &#8220;El Vórtice Muladhara&#8221;'
-author: Quetzal Eckhart
-post_date: 2000-11-27 14:28:17
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/un-nombre-para-el-infinito-el-vortice-muladhara/
-published: true
----
-
 
 El impulso fundamental de todos los seres es el esfuerzo de expandirse hacia el Infinito. Desde la ameba rudimentaria hasta en complejo ser humano emocional e intelectual, está este movimiento y expansión de su estado evolutivo actual hacia un potencial mayor todavía no realizado. La Conciencia infinita  “ha asumido el disfraz de la finitud" a través de tantas y diversas expresiones que, consciente o inconscientemente, buscan la re-unión con su naturaleza esencial. Esta marcha evolutiva es sólo en parte, y en sus niveles más crudos, una lucha por el instinto de conservación, con su constante lucha por la existencia física. Detrás de todo el esfuerzo y la lucha, está la obra eterna del Infinito en busca de recuperar su estado puro de descanso perpetuo en la divinidad Shiva-Shakti. La evolución biológica es el inicio de este esfuerzo divino, mientras que la sadhana es el impulso definitivo para completar este flujo cósmico.
 

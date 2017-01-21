@@ -1,30 +1,4 @@
----
-ID: 2936
-post_title: The Evolution of Tantra Maya
-author: Quetzal Eckhart
-post_date: 2016-09-16 10:32:38
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-evolution-of-tantra-maya/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 “Brahma alone is the guru.” This saying from the Upanishad represents a very universal conception of the deity. Brahma literally means that which is great and makes others great. In other words, Brahma is the Consciousness of the Macrocosm, of the entire universe. The guru is none other than the Supreme Consciousness and cannot be tainted by partiality nor prejudices nor any relative projection of a messiah or human guru. What is, simply is. If the Supreme Consciousness can create this entire universe, then surely there is an unmediated, direct way to communicate with me, a little microcosm in this Macrocosm. "Am I a secluded figure, in the vast, a little ameagre? No no no no I am not alone, the great is with me."
 
 And one could imagine that such a Macrocosmic deity is not a petty god of a certain country or class or society of exclusive human beings that deserve his mercy. The tiny little human microcosmic mind with its prejudices and attachments finally understands that “god” is not to be found through any finite form, material nor mental. The sacred books and messiahs and Buddhas were just approximations of a an inner, mystical truth. Only those who dare question the root of their being free of these appendages could possibly find the root of their being free of all relative conditioning. Non-dualism, or Advaita, is the idea that ultimately the consciousness of the individual microcosm and the Macrocosm are fundamentally the same. This is not to say that my consciousness has become the consciousness of the universe, that the ego becomes god. Rather, my consciousness has been taken into, accepted, transformed, digested, and finally assimilated into the living, working consciousness of the Macrocosm or Brahma. The microcosm is no longer a separate entity creating negative reactions and contaminating the world while fleeing from one empty dream to the next. The illumined microcosm is a mental cell unified with other mental cells that form a Macrocosm, a collective body of minds. Here, one can't bring attachments, prejudices, nor any other petty ego control issue. The moment they arise, the Macrocosm knocks you off of your feet. It takes much time and evolution and trial and error to find a flow of unity into the Macrocosm. One must unlearn the socially-conditioned and indoctrinated ego along with all of its hereditary mental and biological instincts in order to learn the ways of Brahma.

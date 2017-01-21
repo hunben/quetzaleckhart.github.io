@@ -1,30 +1,4 @@
----
-ID: 1559
-post_title: The Perennial Philosophy
-author: Quetzal Eckhart
-post_date: 2016-04-05 12:40:36
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/the-perennial-philosophy-2/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 excerpt from "A Name to the Nameless"
 
          There has never been nor will there ever be a more exalted inspiration than the realization of the oneness of the human soul with the Infinite Being. This is an ever-renewing germ of thought in the perennial philosophy that will sprout wherever there are noble hearts and great minds that seek to love and understand the deepest parts of our being.  The greatest sages of all eras and cultures have proclaimed this great truth: that the deepest source of a human being's existence is at one or in union with the Supreme Consciousness.  The universality of such a cardinal idea is not necessarily due to the cultural transmission of a great seer to others following his or her cultural descent, nor is it necessarily due to the influences of one culture upon another.  Its universality represents the realization of spiritual aspirations innate to the nature of humanity.  For an individual to understand the essence of one's inner “I” which transcends all of the particularities of his/her biological inheritance, cultural orientation, social conditioning, and personal tastes, is to know the essence of the universal “I”, the infinite consciousness and life-source of the universe.

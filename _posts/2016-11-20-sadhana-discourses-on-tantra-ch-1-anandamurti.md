@@ -1,32 +1,4 @@
----
-ID: 3746
-post_title: '&#8220;Sadhana&#8221; &#8211; Discourses on Tantra Ch.1 &#8211; Anandamurti'
-author: Quetzal Eckhart
-post_date: 2016-11-20 14:08:28
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/sadhana-discourses-on-tantra-ch-1-anandamurti/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-xyz_fbap:
-  - "1"
----
+
 Today I would like to discuss mata and patha [opinions regarding the Supreme, and paths to the Supreme]. Mata means a certain style of thought, so we have to see where the action of thinking originates, develops, and culminates; and we have to see on what the action of thinking depends. When someone says, “It’s my opinion, my personal view,” where does the action of thinking lie and how does it take place? Thinking depends on the unit mind; it originates in the unit mind and is maintained in the unit mind.
 
 In the absolute sense what is the unit mind? The Cosmic Mind reaches a state of maximum crudification through saiṋcara [the phase of extroversial movement], and thereafter starts returning to Its original abode through pratisaiṋcara [the phase of introversial movement]. The small “I” feeling that gradually develops within crude matter is called the unit mind. Although the Macrocosmic Mind is the Supreme Controller of everything in this universe, It does delegate a 

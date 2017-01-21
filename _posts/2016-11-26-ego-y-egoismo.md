@@ -1,31 +1,4 @@
----
-ID: 3866
-post_title: El Ego Y El Egoismo
-author: Quetzal Eckhart
-post_date: 2016-11-26 18:43:39
-post_excerpt: '"Todos los seres humanos son dioses disfrazados. Sólo aquél que pisa el campo más profundo de su ser e identidad se da cuenta que su vida, su ser, su existencia relativa, es en realidad un vehículo para que Shiva se manifieste en las multitudinarias formas de la personalidad ó, en otras palabras, para darle un nombre al Infinito. Esta es quizá la verdad más dulce y melodiosa de la vida humana: que la vida humana es verdaderamente la Vida Divina."'
-layout: post
-permalink: http://elmisterio.org/ego-y-egoismo/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-xyz_fbap:
-  - "1"
----
+
 Con la séptima vrtti del corazón espiritual , nos entramos en el lado
 derecho, solar del Vórtice Anahata. Aquí la fuerza centrífuga es más
 fuerte que la fuerza centrípeta y las tendencias de este lado se mueven

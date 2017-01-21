@@ -1,14 +1,4 @@
----
-ID: 734
-post_title: Un Circulo Infinito Sin Fin
-author: Quetzal Eckhart
-post_date: 2016-01-27 15:12:36
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/un-circulo-infinito-sin-fin/
-published: true
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2016/01/index.jpeg" alt="circle" width="228" height="221" class="alignnone size-full wp-image-731" /><img src="http://elmisterio.org/wp-content/uploads/2016/01/b.c.es_-259x300.jpg" alt="b.c.es" width="259" height="300" class="alignnone size-medium wp-image-738" />
 
 extracto de Un Nombre Para El Infinito Part I

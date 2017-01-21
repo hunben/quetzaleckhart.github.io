@@ -1,14 +1,3 @@
----
-ID: 42
-post_title: 'Microvita and Tantra Maya ch.5 &#8220;The Negative Mentities&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-11-29 14:03:10
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-and-tantra-maya-ch-5-the-negative-mentities/
-published: true
----
 
 
 The so-called “positive mentities” are entities that aid human beings with their psycho-spiritual development. Just as there are these entities that help us by promoting our positive tendencies, there are also entities that promote, provoke and exacerbate our baser tendencies. A working, practical definition of negative microvita would be the entities that function through the vrttis of the manipura and lower vortexs. The positive mentities affect the vrttis of the anahata and higher vortexs. </span></span>

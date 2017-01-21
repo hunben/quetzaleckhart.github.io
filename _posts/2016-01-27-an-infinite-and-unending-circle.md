@@ -1,14 +1,4 @@
----
-ID: 730
-post_title: An Infinite and Unending Circle
-author: Quetzal Eckhart
-post_date: 2016-01-27 15:08:26
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/an-infinite-and-unending-circle/
-published: true
----
+
   <img src="http://elmisterio.org/wp-content/uploads/2016/01/index.jpeg" alt="circle" width="228" height="221" class="alignnone size-full wp-image-731" /><img src="http://elmisterio.org/wp-content/uploads/2016/01/brahmachakra-232x300.jpg" alt="brahmachakra" width="232" height="300" class="alignnone size-medium wp-image-741" />
 excerpt from A Name to the Nameless Part I:  Tantric Cosmology:  Involution and Evolution of Consciousness
 

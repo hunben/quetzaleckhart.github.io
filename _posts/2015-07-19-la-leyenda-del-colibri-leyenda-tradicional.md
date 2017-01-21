@@ -1,30 +1,4 @@
----
-ID: 116
-post_title: 'La Leyenda del Colibrí &#8211; leyenda tradicional'
-author: anonymous contributor
-post_date: 2015-07-19 01:04:06
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/la-leyenda-del-colibri-leyenda-tradicional/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 En muchas tradiciones, las plumas de Colibrí son atesoradas por sus cualidades casi mágicas. Se dice que el Colibrí trae amor como ninguna otra medicina puede hacerlo, y su presencia trae alegría al observador.
 
 Los mayas más viejos y sabios, cuentan que los Dioses crearon todas las cosas en la Tierra y al hacerlo, a cada animal, a cada árbol y a cada piedra le encargaron un trabajo. Pero cuando ya habían terminado, notaron que no había nadie encargado de llevar sus deseos y pensamientos de un lugar a otro.

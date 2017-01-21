@@ -1,17 +1,4 @@
----
-ID: 127
-post_title: A New Baktun
-author: Quetzal Eckhart
-post_date: 2015-09-27 15:02:47
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/a-new-baktun/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/rancho1-300x200.jpg" alt="rancho el misterio" width="300" height="200" class="alignnone size-medium wp-image-498" />
 Pluma Blanca was an indigenous Mayan healer, yogi, and astrologer. They were all one science for him, however. I have previously written about his knowledge of tantra yoga in a few short stories.<a href="http://elmisterio.org/stories-of-pluma-blanca/">http://elmisterio.org/stories-of-pluma-blanca/</a>
 I learned some meditation techniques necessary to merely begin to understand astrology. He said it was an intuitive science that needed direct, mystical experience. This requires one to surrender one’s little microcosmic existence into the Macrocosm, the universe as a whole. This type of mystical experience was very different than what I had previously understood as mysticism. I suppose my ideas were more classical. I always liked the Upanishads, Toaism, and contemplatives like Meister Eckhart, Plotinus and Ramana Maharshi. They represented the peak spiritual knowledge in my opinion. Tantra Maya is a very elevated form of nature mysticism. Its purpose is to understand the pure subjectivity of the inner self, like in classical mysticism, yet at the same time develop a deep connection with the natural creation. One contemplates the with spirit within for self-realization while one connects to the subtle realms of nature to work with and serve the living, vibrant Macrocosm.

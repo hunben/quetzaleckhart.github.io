@@ -1,30 +1,4 @@
----
-ID: 104
-post_title: Dogma, Dissonance, and Dissent
-author: Quetzal Eckhart
-post_date: 2014-08-26 01:26:58
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/cognitive-dissonance-and-collective-insanity/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 While I was a student at UT, a group of drunken fraternity boys  pushed a piano through a window that fell 10 floors and killed 2 people in the street below. As if there were not a better use for a grand piano! All of these bone-heads got together and decided they were not responsible. They collectively blamed the victims. "Why were those stupid people walking the streets at 3 am?" they argued. My professor of social psychology marveled at this phenomenon of "cognitive dissonance." Cognitive dissonance is a mental state that occurs when there is a major contradiction in the habitual thought structures of the ego. The ego seeks consistency with its thoughts and projections so that there is a centered and consistent self-concept.  A powerful event that is different and contradicts the projections of its habitual reality creates a state of dissonance and inner tension in the mind. Instead of being only superficial and frivolous boys, they are now guilty of killing innocent people. They thought they were good people, perhaps the best, and now they are seen as criminals. To neutralize this cognitive dissonance, this state of tension induced by a great contradiction and confusion to the ego's reality, one has to invent excuses that serve the confused ego and create an acceptable story so that one can continue thinking in the same way as before so that one's projections  about “reality” are not contradicted and interrupted. The defensive and guilte psyche must avoid at all costs this painful state of cognitive dissonance. We are all cognitive misers and always look for easy excuses and pretexts rather than the complex truth. If you can not find an excuse, then you live in torment. In the case of frat boys, they can not bear the social censure and personal guilt and simply pass the blame on some "other". This is, of course, much easier when each individual has the rest of the "team" supporting him.
 
 These superficial socialites with the Greek letters were often conformist nationalistic and patriotic types that become model citizens and good leaders in business and government. Does the irresponsibility of these students reflect the reality of Capitalist, Neo-Liberal society in general? Under Capitalism, we live in our isolated world and only care mostly about our own selfish well-being, or perhaps only our near and dear ones. Most peoples aims are based only in material comfort which tends toward excess.  Who thinks about the consequences; the environmental degradation, economic exploitation of other people on the planet, and widespread degeneration of the human soul trapped in this  materialistic, deterministic cage that so much of our world has become? How many people are concerned about economic wars and our military-industrial complex that undermine democracy by sabotaging the economies and governments of weaker nations?  Do such acts create psycho-social illnesses?  Can a society become mentally ill when we disintegrate almost all of the fundamental human values by accepting lies like Vietnam, Afghanistan, or Irak?  We are constantly forced (at least if we are honest) to see how our society so often goes against democracy and humanism.  At the same time we try and maintain the idea that we are the most humane and democratic.  Can all of this confusion and coercion at the individual and social cognitive levels make us ill individually and collectively?  I believe the answer is all around.

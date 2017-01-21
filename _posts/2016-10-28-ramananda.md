@@ -1,30 +1,4 @@
----
-ID: 3613
-post_title: Ramananda
-author: Quetzal Eckhart
-post_date: 2016-10-28 18:01:38
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/ramananda/
-published: true
-war_soundy_enable_bg_sound:
-  - 'no'
-war_soundy_enable_pp_corner:
-  - 'no'
-war_soundy_audio_file_url:
-  - >
-    http://elmisterio.org/wp-content/uploads/2016/02/2016-02-15_birdplay.mp3
-war_soundy_audio_type:
-  - audio/mpeg
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - 'yes'
-war_soundy_loop:
-  - 'yes'
----
+
 excerpt from <a href="http://elmisterio.org/tantric-rebellion-and-kundalini/">Tantric Rebellion and Kudalini</a>
 Ramananda died recently.  He left an autobiography about his life as personal secretary to Anandamurti.  
 

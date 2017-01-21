@@ -1,30 +1,4 @@
----
-ID: 1745
-post_title: 'Yama y Niyama &#8211; La Etica Universal'
-author: Quetzal Eckhart
-post_date: 2016-05-06 14:23:44
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/yama-y-niyama-la-etica-universal/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 Yama y Niyama
 
             La manera en que vemos el mundo físico está determinada por el nivel de la mente que usamos para verlo. Sólo en los niveles inferiores de la mente la actividad cognitiva está calificado por los sentidos y la actividad cerebral. Si purificamos el Svadhistana, o el nivel conceptual de la mente y la liberamos del pensamiento limitado, egoísta, entonces es posible ver el mundo como una proyección del pensamiento. Saber esto es cambiar nuestros pensamientos para cambiar nuestro mundo. Aquí es donde nos damos cuenta de algo muy profundo acerca de nuestra esencia y de su relación con una orden superior, cósmico, que trabaja a través de nuestra consciencia en evolución, si se lo permitimos. Con los seis vórtices de la mente del Svadhistana en equilibrio, uno puede liberarse del auto-exilio y aprender a confiar en que uno tiene un lugar en el orden moral cósmico.	

@@ -1,14 +1,3 @@
----
-ID: 85
-post_title: 'Microvita Y Tantra Maya c.6 &#8220;Las Mentidades Negativas&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-11-07 14:47:00
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-y-tantra-maya-c-6-las-mentidades-negativas/
-published: true
----
 
 
 Las llamadas "mentidades positivas" son entidades que ayudan a los seres humanos con su desarrollo psico-espiritual. Al igual que existen estas entidades que nos ayudan promoviendo nuestras tendencias positivas, también hay entidades que promueven, provocan y agravan nuestras tendencias más bajas. Una definición práctica de microvita negativo sería las entidades que funcionan principalmente a través de el vrttis del Manipura y los vórtices inferiores. las mentidades positivos afectan a el vrttis del anahata y los vórtices superiores.

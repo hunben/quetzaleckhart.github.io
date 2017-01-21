@@ -1,33 +1,4 @@
----
-ID: 167
-post_title: El Baktun Nuevo
-author: Quetzal Eckhart
-post_date: 2015-10-01 15:38:49
-post_excerpt: ""
-layout: post
-permalink: http://elmisterio.org/el-baktun-nuevo/
-published: true
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 Pluma Blanca era un sanador, yogui, y astrólogo indígena maya. Todos eran una sola ciencia para él, sin embargo. He escrito anteriormente sobre su conocimiento de tantra yoga en algunos cuentos cortos:  <a href="http://elmisterio.org/4-cuentos-sobre-pluma-blanca/">http://elmisterio.org/4-cuentos-sobre-pluma-blanca/</a>
 
 Él me enseñó las técnicas de meditación necesarias para empezar a entender la astrología. Dijo que era una ciencia intuitiva que necesitaba la experiencia directa, mística. Se requiere que uno puede entregar su vida microcosmico al Macrocosmo, el universo vivo e entero.  Este tipo de experiencia mística era muy diferente de que yo había entendido previamente como el misticismo. Supongo que mis ideas eran más clásicos. Siempre me gustaron los Upanishads, Toaism y contemplativos como Meister Eckhart, Plotinus, and Ramana Maharshi. Representaban el conocimiento espiritual pico en mi opinión.  Tantra Maya es una forma muy elevada del místicismo natural. Su propósito es entender la pura subjetividad del "yo" interior, como en el misticismo clásico, sin embargo, al mismo tiempo desarrollar una profunda conexión con la creación natural. Uno contempla el espíritu dentro para la auto-realización, mientras que uno se conecta a los reinos sutiles de la naturaleza para trabajar y servir al Macrocosmos Divino.

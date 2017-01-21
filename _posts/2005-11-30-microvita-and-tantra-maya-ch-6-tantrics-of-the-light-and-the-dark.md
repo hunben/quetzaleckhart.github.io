@@ -1,32 +1,4 @@
----
-ID: 44
-post_title: 'Microvita and Tantra Maya ch.6 &#8220;Tantrics of the Light and the Dark&#8221;'
-author: Quetzal Eckhart
-post_date: 2005-11-30 14:04:38
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-and-tantra-maya-ch-6-tantrics-of-the-light-and-the-dark/
-published: true
-nm_members:
-  - ""
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2016/03/skull-tibetan-200x300.jpg" alt="skull-tibetan" width="200" height="300" class="alignnone size-medium wp-image-1481" />from "Tantrics of the Light and the Dark" from Microvita and Tantra Maya
 
 Tantra is a Sanskrit word derived from “tan” which means “darkness” or “inertia” and “tra” which signifies “expansion.” Hence, “tantra” means expansion from a state of spiritual darkness, inertia, or ignorance that binds us to the limited material world with its relative joys and sufferings. Tantra is an ancient science of meditation and concentration to awaken the mind from an instinctual animal slumber. It is a practice to further physical, mental, and spiritual evolution so that the human being may more fully understand his/her place in the universe. This systematic and practical discipline follows the natural course of evolution and guides the mind from instinct to intellect to intuition. As Anandamurti explained, it is a method to convert physical energy into psychic energy and then convert that accumulated psychic or mental energy into pure, spiritual cognition.

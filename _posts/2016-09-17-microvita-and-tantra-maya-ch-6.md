@@ -1,42 +1,4 @@
----
-ID: 2963
-post_title: Microvita and Tantra Maya, Ch.6
-author: Quetzal Eckhart
-post_date: 2016-09-17 17:16:45
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/microvita-and-tantra-maya-ch-6/
-published: true
-war_soundy_enable_bg_sound:
-  - default
-war_soundy_enable_pp_corner:
-  - default
-war_soundy_audio_file_url:
-  - default
-war_soundy_audio_type:
-  - default
-war_soundy_audio_volume:
-  - default
-war_soundy_audio_title:
-  - default
-war_soundy_autoplay:
-  - default
-war_soundy_loop:
-  - default
-diasposter_send_facebook:
-  - "0"
-diasposter_send_tumblr:
-  - "0"
-diasposter_send_twitter:
-  - "0"
-diasposter_send_wordpress:
-  - "0"
-diasposter_use_excerpt:
-  - "0"
-diaspora_aspect_ids:
-  - 'a:1:{i:0;s:11:"all_aspects";}'
----
+
 <img src="http://elmisterio.org/wp-content/uploads/2015/12/maracame-2-1.jpg" alt="maracame-2" width="1461" height="1536" class="alignnone size-full wp-image-1987" />
 Tantra Of The Light And The Dark
 

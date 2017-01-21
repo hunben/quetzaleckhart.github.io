@@ -1,30 +1,4 @@
----
-ID: 1531
-post_title: 'Tantra Y Su Efecto En La Sociedad &#8211; Anandamurti'
-author: anonymous contributor
-post_date: 2016-03-29 09:55:45
-post_excerpt: ""
-layout: post
-permalink: >
-  http://elmisterio.org/tantra-y-su-efecto-en-la-sociedad-anandamurti/
-published: true
-war_soundy_enable_bg_sound:
-  - ""
-war_soundy_enable_pp_corner:
-  - ""
-war_soundy_audio_file_url:
-  - ""
-war_soundy_audio_type:
-  - ""
-war_soundy_audio_volume:
-  - ""
-war_soundy_audio_title:
-  - no_value
-war_soundy_autoplay:
-  - ""
-war_soundy_loop:
-  - ""
----
+
 ¿Qué es el tantra? El proceso de transformación de [la divinidad latente] en la Divinidad Suprema es conocida como Tantra sádhaná. La divinidad de dormir en la animalidad se denomina, en el lenguaje de los aspirantes espirituales, la kulakuńdalinii. Así nos encontramos con que en realidad el espíritu de Tantra sádhaná radica en la infusión de una [vibraciones] en el kulakuńdalinii y empujándola hacia la meta espiritual.
 El significado del término tantra es la “liberación de la esclavitud [la esclavitud de la torpeza, o estaticidad]”. La carta ta es la semilla [sonido] de embotamiento. Y el verbo raíz Trae el sufijo da convierte tra, que significa “la que libera” – por lo que la práctica espiritual que libera el aspirante de la torpeza o la animalidad de la fuerza estática y amplía auto del aspirante [espiritual] es Tantra sádhaná. Así que no puede haber ninguna práctica espiritual sin Tantra. Tantra es sádhaná.
 La práctica espiritual significa la práctica para la expansión, y esta expansión es más que una liberación de la esclavitud de todo tipo de torpeza [o estaticidad]. Una persona que, sin distinción de casta, credo o religión, aspira a la expansión espiritual o hace algo concreto, es un tántrico. Tantra en sí misma no es ni una religión ni un ismo. Tantra es una ciencia espiritual fundamental. Así que donde quiera que haya cualquier práctica espiritual que se debe dar por sentado que se encuentra en el culto tántrico. Donde no hay práctica espiritual, donde la gente reza a Dios para el cumplimiento de los deseos mundanos estrechas, donde sólo lema de la gente es “Danos y darnos ese” – sólo hay qué encontramos que el Tantra es desalentado. Así que sólo aquellos que no entienden el Tantra, o incluso después de entender el tantra no quieren hacer ninguna práctica espiritual, oponerse al culto de Tantra.
