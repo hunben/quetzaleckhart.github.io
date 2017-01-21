@@ -1,33 +1,12 @@
 
 <strong>Contemplaciones con la Quena, Quetzal Eckhart</strong>.  Piezas favoritas clasicas y, al final, un poco de musica nuestra.  
 
-Otros Albumes:   
-<a href="http://elmisterio.org/bach-on-bamboo-new-recording/">Bach on Bamboo</a>
-<a href="http://elmisterio.org/meditation-music-musica-de-la-meditacion/">Musica de la Meditacion</a>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/278192268&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 
-[embedyt] http://www.youtube.com/embed?listType=playlist&amp;list=PLsOMSWztelc5fkJuuZvDi5mkCeSolMTQP&amp;v=tU6WtxxHFYo[/embedyt]
+<strong>Bach Y Bamboo<strong>
 
-
-<strong>Descargar Pistas Individuales</strong>
-
-
-[download id="3430"]
-[download id="3432"]
-[download id="3434"]
-[download id="3436"]
-[download id="3438"]
-[download id="3440"]
-[download id="3442"]
-[download id="3444"]
-[download id="3446"]
-[download id="3450"]
-[download id="3452"]
-
-
-Otros Albumes:  
- <a href="http://elmisterio.org/bach-on-bamboo-new-recording/">Bach on Bamboo</a> 
-<a href="http://elmisterio.org/meditation-music-musica-de-la-meditacion/">Musica de la Meditacion</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sf2DD_JHBC8?list=PLsOMSWztelc5AymCv8_XeQ_Yx7sWPhpjR" frameborder="0" allowfullscreen></iframe>
 
 
 
