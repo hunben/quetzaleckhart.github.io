@@ -2,6 +2,5 @@
 <strong>Contemplations On A Quena</strong>: 
 
 
-<em>Download tracks by right clicking the track title in the box above.
-Descargar pistas por clic derecha en el titulo de la pista en la caja arriba.</em>
- [sdy_pl playlist]
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/278192268&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
