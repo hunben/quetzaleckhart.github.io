@@ -8,8 +8,8 @@ main:
     url: http://elmisterio.org/download-complete-works/
   - title: "Tantric Rebellion And Kundalini"  
     url: http://elmisterio.org/tantric-rebellion-and-kundalini/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Musica"
+    url: https://quetzaleckhart.github.io/flauta-de-bambu/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
